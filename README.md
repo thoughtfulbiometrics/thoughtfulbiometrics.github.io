@@ -1,4 +1,4 @@
-title: thoughful biometrics
+title: thoughtful biometrics
 
 ## Welcome to GitHub Pages
 
