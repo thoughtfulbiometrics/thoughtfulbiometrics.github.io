@@ -49,7 +49,7 @@ Our vision for the convene a range of constituencies whose work touches on biome
 * Humanitarian Groups
 * Police Accountability Groups
 * Citizen Watchdog Groups
-*  Students and Researchers 
+* Students and Researchers 
 
 We hope that the conversations catalyzed at the event are starting points for ongoing work in fora that touch on biometrics issues.  
 
@@ -60,14 +60,16 @@ Our inspiration for this event comes from the [Internet Identity Workshop](http:
 Here are some of the thought leader attendees (this is like the “speaker” list for a regular conference). 
 
 ## The Conveners 
-### Asem Othman, Biometric Scientist Perspective:  
-As a biometric lead scientist in the industry, I was attending two types of events, biometric conferences that are merely focused on the academic state of the art research. Biometric academic researchers are looking to advance the biometric systems (e.g., improving the accuracy, acquisition, template extraction, template storage, etc.).
+### Asem Othman, Biometric Scientist Perspective
 
-On the other side, when I was attending identity conferences and workshops such as IIW, where different identity ecosystems and architectures are discussed, I always have this question: how come they discuss identity without consulting the most reliable way to do it? Biometric is the only way to prove who you are!!
+As a lead biometric scientist, I was attending two types of events. Biometric conferences that are merely focused on the state of the art research. Where biometric academic researchers are looking to advance biometric systems (e.g., improving the accuracy, acquisition, template extraction, template storage, etc.).
+Then there are identity conferences and workshops such as IIW, where different identity ecosystems and architectures are discussed, and I always have this question: how come they discuss identity without consulting the most reliable way to do it? Biometric is the only way to prove who you are!!; I am obviously biased. 
 
-Then there are these biometric and identity shows that are mainly vendor-driven industrial marketing and product showcases. In the aforementioned category of the conference,participants of these shows are conservative in sharing ideas. They are by and large "selling" biometric systems to governments and enterprises that buy them at scale. 
+Then there are these biometric and identity shows that are mainly vendor-driven industrial marketing and product showcases. In this aforementioned category of the conference, participants of these shows are conservative in sharing ideas. They are by and large "selling" biometric/identity systems to governments and enterprises that buy them at scale.
 
-Therefore, I believe this workshop will bring developers, researchers, and thought leaders from these two interconnected communities to share ideas and be transparent about their concerns and issues about the other side. Based on my interaction with both communities, I believe these concerns are merely due to misunderstanding about the basics; from one side,  about biometric and the current state of the art research in the biometric space, and on the other side, the recent fast-paced development and improvement that is happening in the different identity ecosystem. Once this misunderstanding is cleared out, and knowledge transfer occurs, this workshop will create neat and doable ideas that will advance the biometric and identity development into a new and remarkable era.
+Therefore, I believe this workshop will bring developers, researchers, and thought leaders from these two interconnected communities to openly share ideas and be transparent about their concerns and issues about the other side. 
+
+Based on my interaction with both communities, I believe these concerns are merely due to misunderstanding about the basics; from one side, about biometric and the current state of the art research in the biometric space, and on the other side, the recent fast-paced development and improvement that is happening in the different identity ecosystem. Once this misunderstanding is cleared out, and knowledge transfer occurs, this workshop will create neat and doable ideas that will advance the biometric and identity development into a new and remarkable era.
 
 ### Jack “John Callahan”  Software architect and developer
 Software developers are not biometric experts.  They need guidance to build solutions that are secure and respect the privacy of individuals and organizations by preventing breaches of sensitive information in the first place. Tools like encryption based on standards within approved frameworks have long served to help developers build such solutions. Unfortunately, while biometric systems are well documented, they generally lack integration into existing authentication and authorization frameworks.
