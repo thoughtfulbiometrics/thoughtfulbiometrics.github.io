@@ -79,42 +79,10 @@ This is changing: biometric authentication is now a common feature on mobile dev
 Digital Identity experts are not biometrics experts. The role that biometrics can play in digital identity systems is varied. I had a lot of preconceived notions about biometrics before I learned more about how they actually worked and how they fit within systems.  It has been eye opening to engage with Jack and Asem and my hope is that other identity experts will find value in engaging with biometric experts.  
 Biometrics have a great potential to be quite dangerous if abused. The ethical side of the industry see that they have great potential to address some use-cases (such as recovery) that otherwise would be very difficult. 
 
+# Logistics
+This event is being planned for January 2020. 
+We are looking for sponsors who want to support this kind of dialogue. 
+We will be hosting it virtually on the same platform that IIW uses - QiQoChat. 
 
 
 
-You can use the [editor on GitHub](https://github.com/thoughtfulbiometrics/thoughtfulbiometrics.github.io/edit/master/README.md) to maintain and preview the content 
-for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/thoughtfulbiometrics/thoughtfulbiometrics.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
