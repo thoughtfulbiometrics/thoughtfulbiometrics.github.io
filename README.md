@@ -79,7 +79,12 @@ This is changing: biometric authentication is now a common feature on mobile dev
 Digital Identity experts are not biometrics experts. The role that biometrics can play in digital identity systems is varied. I had a lot of preconceived notions about biometrics before I learned more about how they actually worked and how they fit within systems.  It has been eye opening to engage with Jack and Asem and my hope is that other identity experts will find value in engaging with biometric experts.  
 Biometrics have a great potential to be quite dangerous if abused. The ethical side of the industry see that they have great potential to address some use-cases (such as recovery) that otherwise would be very difficult. 
 
-# Logistics
+## Image Commentary	
+The image reflects a range of the different biometrics modalities. It was created commons licensed. We note that the man in the image is white and this reflects one of the challenges of the industry is that often when biometrics systems are built the default human is “the white guy” and this means that women and people of color are not included in the reference data sets and training. 
+We also note that there is a law enforcement person who is watching and accessing the data invading the privacy of the individual. We like the image because it highlights the growing concerns about biometric function creep where biometric data can be shared and misuse without users’ knowledge via these interconnected biometric systems.
+
+
+## Logistics
 This event is being planned for January 2020. 
 We are looking for sponsors who want to support this kind of dialogue. 
 We will be hosting it virtually on the same platform that IIW uses - QiQoChat. 
