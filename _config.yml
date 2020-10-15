@@ -1,8 +1,8 @@
 # Setup
 title: Thoughtful Biometrics
-url: http://infominer33.github.io
+url: http://thoughtfulbiometrics.org
 paginate: 1
-baseurl: "dark-poole"
+baseurl: ""
 permalink: pretty
 destination: docs
 
