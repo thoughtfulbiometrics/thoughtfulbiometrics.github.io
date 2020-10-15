@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Thoughtful Biometrics</title>
- <link href="/dark-poole/atom.xml" rel="self"/>
- <link href="http://infominer33.github.iodark-poole/"/>
- <updated>2020-10-15T06:06:34-04:00</updated>
- <id>http://infominer33.github.io</id>
+ <link href="/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2020-10-15T06:26:06-04:00</updated>
+ <id>http://localhost:4000</id>
  <author>
    <name>John Callahan</name>
    <email>youremailhere@gmail.com</email>
@@ -14,19 +14,19 @@
  
  <entry>
    <title>The Thoughtful Biometrics Conference</title>
-   <link href="http://infominer33.github.iodark-poole/2020/09/04/thoughtful-biometrics/"/>
+   <link href="http://localhost:4000/2020/09/04/thoughtful-biometrics/"/>
    <updated>2020-09-04T00:00:00-04:00</updated>
-   <id>http://infominer33.github.io/2020/09/04/thoughtful-biometrics</id>
+   <id>http://localhost:4000/2020/09/04/thoughtful-biometrics</id>
    <content type="html">&lt;p&gt;This interactive conference will be some time in January. 
 Dates TBD (please let us know if there are days we should avoid)&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/Biometric.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;invitation-or-why-we-need-this-event&quot;&gt;Invitation &lt;em&gt;or&lt;/em&gt; why we need this event:&lt;/h2&gt;
 
 &lt;p&gt;The Thoughtful Biometrics conference is creating a space to dialogue about critical emerging issues surrounding biometric and digital identity technologies.&lt;/p&gt;
 
 &lt;p&gt;Biometrics technology is being used in a wide range of contexts and there in this range of existing and potential uses, there are many questions about the ethical and socially good uses.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/Biometric.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Questions include:&lt;/p&gt;
 &lt;ul&gt;
@@ -76,14 +76,15 @@ We also want to invite those active in the industry who want to respond in a mea
 
 &lt;p&gt;We hope that the conversations catalyzed at the event are starting points for ongoing work in fora that touch on biometrics issues.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/TheDigitalArtist_biometric-4503070_640.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
 &lt;h2 id=&quot;about-the-format&quot;&gt;About the Format&lt;/h2&gt;
 &lt;p&gt;Our inspiration for this event comes from the &lt;a href=&quot;http://www.internetidentityworkshop.com&quot;&gt;Internet Identity Workshop&lt;/a&gt; an event uses the open space technology to co-create the agenda live the day of the event. There are no keynotes or panels, it’s all about exploring the topic with professional peers from a range of industries. We are curating videos that people who are attending can watch ahead of time to get up to speed about some of the technologies and topics of interest but the format at the event is discussion driven and about peer learning. We do know great people who will be there and it is the attendees who have a passion for learning and contributing to the event that make it the success it is.&lt;/p&gt;
 
+&lt;h2 id=&quot;the-conveners&quot;&gt;The Conveners&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/TheDigitalArtist_biometric-4503070_640.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
 &lt;p&gt;Here are some of the thought leader attendees (this is like the “speaker” list for a regular conference).&lt;/p&gt;
 
-&lt;h2 id=&quot;the-conveners&quot;&gt;The Conveners&lt;/h2&gt;
 &lt;h3 id=&quot;asem-othman-biometric-scientist-perspective&quot;&gt;Asem Othman, Biometric Scientist Perspective&lt;/h3&gt;
 
 &lt;p&gt;As a lead biometric scientist, I was attending two types of events. Biometric conferences that are merely focused on the state of the art research. Where biometric academic researchers are looking to advance biometric systems (e.g., improving the accuracy, acquisition, template extraction, template storage, etc.).
@@ -119,9 +120,9 @@ We will be hosting it virtually on the same platform that IIW uses - QiQoChat.&l
  
  <entry>
    <title>Introduction</title>
-   <link href="http://infominer33.github.iodark-poole/2020/04/04/introduction/"/>
+   <link href="http://localhost:4000/2020/04/04/introduction/"/>
    <updated>2020-04-04T00:00:00-04:00</updated>
-   <id>http://infominer33.github.io/2020/04/04/introduction</id>
+   <id>http://localhost:4000/2020/04/04/introduction</id>
    <content type="html">&lt;p&gt;&lt;em&gt;The Strange Case of Dr. Jekyll and Mr. Hyde&lt;/em&gt; tells the story of a lawyer investigating the connection of two persons, Dr. Henry Jekyll and Mr. Edward Hyde. Chief among the novel’s supporting cast is a man by the name of Mr. Poole, Dr. Jekyll’s loyal butler.&lt;/p&gt;
 
 &lt;hr /&gt;
@@ -144,7 +145,7 @@ We will be hosting it virtually on the same platform that IIW uses - QiQoChat.&l
 &lt;p&gt;Poole is a streamlined Jekyll site designed and built as a foundation for building more meaningful themes. Poole, and every theme built on it like this one, includes the following:&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Complete Jekyll setup included (layouts, config, &lt;a href=&quot;/dark-poole/404.html&quot;&gt;404&lt;/a&gt;, &lt;a href=&quot;/dark-poole/atom.xml&quot;&gt;RSS feed&lt;/a&gt;, posts, &lt;a href=&quot;/dark-poole/archive&quot;&gt;archive page&lt;/a&gt;, and &lt;a href=&quot;/dark-poole/about&quot;&gt;example page&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;Complete Jekyll setup included (layouts, config, &lt;a href=&quot;/404.html&quot;&gt;404&lt;/a&gt;, &lt;a href=&quot;/atom.xml&quot;&gt;RSS feed&lt;/a&gt;, posts, &lt;a href=&quot;/archive&quot;&gt;archive page&lt;/a&gt;, and &lt;a href=&quot;/about&quot;&gt;example page&lt;/a&gt;)&lt;/li&gt;
   &lt;li&gt;Mobile friendly design and development&lt;/li&gt;
   &lt;li&gt;Easily scalable text and component sizing with &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;rem&lt;/code&gt; units in the CSS&lt;/li&gt;
   &lt;li&gt;Support for a wide gamut of HTML elements&lt;/li&gt;
@@ -168,9 +169,9 @@ We will be hosting it virtually on the same platform that IIW uses - QiQoChat.&l
  
  <entry>
    <title>Options</title>
-   <link href="http://infominer33.github.iodark-poole/2020/04/03/options/"/>
+   <link href="http://localhost:4000/2020/04/03/options/"/>
    <updated>2020-04-03T00:00:00-04:00</updated>
-   <id>http://infominer33.github.io/2020/04/03/options</id>
+   <id>http://localhost:4000/2020/04/03/options</id>
    <content type="html">&lt;p&gt;With Poole as a baseline theme for Jekyll, there aren’t many options available out of the box. Basic light and dark mode support is included. Colors are also provided for your own customization, while other Poole themes build on this to create more unique looks.&lt;/p&gt;
 
 &lt;ul id=&quot;markdown-toc&quot;&gt;
@@ -339,9 +340,9 @@ We will be hosting it virtually on the same platform that IIW uses - QiQoChat.&l
  
  <entry>
    <title>Example content</title>
-   <link href="http://infominer33.github.iodark-poole/2020/04/02/example-content/"/>
+   <link href="http://localhost:4000/2020/04/02/example-content/"/>
    <updated>2020-04-02T00:00:00-04:00</updated>
-   <id>http://infominer33.github.io/2020/04/02/example-content</id>
+   <id>http://localhost:4000/2020/04/02/example-content</id>
    <content type="html">&lt;p class=&quot;message&quot;&gt;&lt;strong&gt;Howdy!&lt;/strong&gt; This is an example blog post that shows several types of HTML content supported in this theme.&lt;/p&gt;
 
 &lt;p&gt;Cum sociis natoque penatibus et magnis &lt;a href=&quot;#&quot;&gt;dis parturient montes&lt;/a&gt;, nascetur ridiculus mus. &lt;em&gt;Aenean eu leo quam.&lt;/em&gt; Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.&lt;/p&gt;
