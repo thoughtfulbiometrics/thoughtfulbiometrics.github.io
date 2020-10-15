@@ -6,13 +6,13 @@ title: The Thoughtful Biometrics Conference
 This interactive conference will be some time in January. 
 Dates TBD (please let us know if there are days we should avoid)
 
-![](/assets/Biometric.jpg)
-
 ## Invitation _or_ why we need this event:
 
 The Thoughtful Biometrics conference is creating a space to dialogue about critical emerging issues surrounding biometric and digital identity technologies. 
 
 Biometrics technology is being used in a wide range of contexts and there in this range of existing and potential uses, there are many questions about the ethical and socially good uses. 
+
+![](/assets/Biometric.jpg)
 
 Questions include:
 * How do they work?
@@ -57,14 +57,16 @@ Our vision for the convene a range of constituencies whose work touches on biome
 
 We hope that the conversations catalyzed at the event are starting points for ongoing work in fora that touch on biometrics issues.  
 
-![](/assets/TheDigitalArtist_biometric-4503070_640.jpg)
-
 ## About the Format
 Our inspiration for this event comes from the [Internet Identity Workshop](http://www.internetidentityworkshop.com) an event uses the open space technology to co-create the agenda live the day of the event. There are no keynotes or panels, it's all about exploring the topic with professional peers from a range of industries. We are curating videos that people who are attending can watch ahead of time to get up to speed about some of the technologies and topics of interest but the format at the event is discussion driven and about peer learning. We do know great people who will be there and it is the attendees who have a passion for learning and contributing to the event that make it the success it is.
 
+## The Conveners 
+
+![](/assets/TheDigitalArtist_biometric-4503070_640.jpg)
+
 Here are some of the thought leader attendees (this is like the “speaker” list for a regular conference). 
 
-## The Conveners 
+
 ### Asem Othman, Biometric Scientist Perspective
 
 As a lead biometric scientist, I was attending two types of events. Biometric conferences that are merely focused on the state of the art research. Where biometric academic researchers are looking to advance biometric systems (e.g., improving the accuracy, acquisition, template extraction, template storage, etc.).
