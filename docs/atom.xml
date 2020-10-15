@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Thoughtful Biometrics</title>
+ <link href="/dark-poole/atom.xml" rel="self"/>
+ <link href="http://infominer33.github.iodark-poole/"/>
+ <updated>2020-10-15T06:06:34-04:00</updated>
+ <id>http://infominer33.github.io</id>
+ <author>
+   <name>John Callahan</name>
+   <email>youremailhere@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>The Thoughtful Biometrics Conference</title>
+   <link href="http://infominer33.github.iodark-poole/2020/09/04/thoughtful-biometrics/"/>
+   <updated>2020-09-04T00:00:00-04:00</updated>
+   <id>http://infominer33.github.io/2020/09/04/thoughtful-biometrics</id>
+   <content type="html">&lt;p&gt;This interactive conference will be some time in January. 
+Dates TBD (please let us know if there are days we should avoid)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/Biometric.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;invitation-or-why-we-need-this-event&quot;&gt;Invitation &lt;em&gt;or&lt;/em&gt; why we need this event:&lt;/h2&gt;
+
+&lt;p&gt;The Thoughtful Biometrics conference is creating a space to dialogue about critical emerging issues surrounding biometric and digital identity technologies.&lt;/p&gt;
+
+&lt;p&gt;Biometrics technology is being used in a wide range of contexts and there in this range of existing and potential uses, there are many questions about the ethical and socially good uses.&lt;/p&gt;
+
+&lt;p&gt;Questions include:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;How do they work?&lt;/li&gt;
+  &lt;li&gt;How are they being used?&lt;/li&gt;
+  &lt;li&gt;What are the dangers of their use?&lt;/li&gt;
+  &lt;li&gt;What are the appropriate and even good uses?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Our society is complex. The systems within it are complex and built by networks of professionals each with their own deep technical expertise.&lt;/p&gt;
+
+&lt;p&gt;One of the challenges we face now is that these professionals are so deep in their own fields they rarely talk to those in neighboring communities who are technologies all come together in these systems.&lt;/p&gt;
+
+&lt;p&gt;We note that there are discussions happening between these professionals but usually within companies and small groups bubbles that have never been open or include more individuals in an open and transparent discussion.&lt;/p&gt;
+
+&lt;p&gt;Our hope is this event creates more cross-pollination and exploration of the technologies along with the social and policy implications of them. We invite discussion about tangible risks/threat models and all levels from the micro to the macro systems.&lt;/p&gt;
+
+&lt;p&gt;We want to expand the conversation, inclusive to support “hearing” the voices at the edges.&lt;/p&gt;
+
+&lt;p&gt;We welcome the participation of people who ask serious questions about these systems.&lt;br /&gt;
+We also want to invite those active in the industry who want to respond in a meaningful way to thoughtful criticism. Our vision for the conference is inspired by our ongoing participation in&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;This conference is not to “sell” biometrics products like the Connect:ID Conference or K(n)ow Identity Conference by OWI.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;We have several starting axioms for this event:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Biometrics are a technology that is being used and will not be vanishing.&lt;/li&gt;
+  &lt;li&gt;There are a range of uses for these technologies that can be good and can be bad.&lt;/li&gt;
+  &lt;li&gt;We value discernment about the application of biometrics technology.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Our vision for the convene a range of constituencies whose work touches on biometrics and use in the real world.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Biometrics Community&lt;/li&gt;
+  &lt;li&gt;Researchers and scientist  who is looking for new ideas to work on&lt;/li&gt;
+  &lt;li&gt;Identity Community&lt;/li&gt;
+  &lt;li&gt;Commercial Users of systems&lt;/li&gt;
+  &lt;li&gt;Regulators and policy makers&lt;/li&gt;
+  &lt;li&gt;Cybersecurity Professionals&lt;/li&gt;
+  &lt;li&gt;Privacy Professionals&lt;/li&gt;
+  &lt;li&gt;Humanitarian Groups&lt;/li&gt;
+  &lt;li&gt;Police Accountability Groups&lt;/li&gt;
+  &lt;li&gt;Citizen Watchdog Groups&lt;/li&gt;
+  &lt;li&gt;Students and Researchers&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We hope that the conversations catalyzed at the event are starting points for ongoing work in fora that touch on biometrics issues.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/TheDigitalArtist_biometric-4503070_640.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;about-the-format&quot;&gt;About the Format&lt;/h2&gt;
+&lt;p&gt;Our inspiration for this event comes from the &lt;a href=&quot;http://www.internetidentityworkshop.com&quot;&gt;Internet Identity Workshop&lt;/a&gt; an event uses the open space technology to co-create the agenda live the day of the event. There are no keynotes or panels, it’s all about exploring the topic with professional peers from a range of industries. We are curating videos that people who are attending can watch ahead of time to get up to speed about some of the technologies and topics of interest but the format at the event is discussion driven and about peer learning. We do know great people who will be there and it is the attendees who have a passion for learning and contributing to the event that make it the success it is.&lt;/p&gt;
+
+&lt;p&gt;Here are some of the thought leader attendees (this is like the “speaker” list for a regular conference).&lt;/p&gt;
+
+&lt;h2 id=&quot;the-conveners&quot;&gt;The Conveners&lt;/h2&gt;
+&lt;h3 id=&quot;asem-othman-biometric-scientist-perspective&quot;&gt;Asem Othman, Biometric Scientist Perspective&lt;/h3&gt;
+
+&lt;p&gt;As a lead biometric scientist, I was attending two types of events. Biometric conferences that are merely focused on the state of the art research. Where biometric academic researchers are looking to advance biometric systems (e.g., improving the accuracy, acquisition, template extraction, template storage, etc.).
+Then there are identity conferences and workshops such as IIW, where different identity ecosystems and architectures are discussed, and I always have this question: how come they discuss identity without consulting the most reliable way to do it? Biometric is the only way to prove who you are!! I am obviously biased.&lt;/p&gt;
+
+&lt;p&gt;Then there are these biometric and identity shows that are mainly vendor-driven industrial marketing and product showcases. In this aforementioned category of the conference, participants of these shows are conservative in sharing ideas. They are by and large “selling” biometric/identity systems to governments and enterprises that buy them at scale.&lt;/p&gt;
+
+&lt;p&gt;Therefore, I believe this workshop will bring developers, researchers, and thought leaders from these two interconnected communities to openly share ideas and be transparent about their concerns and issues about the other side.&lt;/p&gt;
+
+&lt;p&gt;Based on my interaction with both communities, I believe these concerns are merely due to misunderstanding about the basics; from one side, about biometric and the current state of the art research in the biometric space, and on the other side, the recent fast-paced development and improvement that is happening in the different identity ecosystems. Once this misunderstanding is cleared out, and knowledge transfer occurs, this workshop will create neat and doable ideas that will advance the biometric and identity development into a new and remarkable era.&lt;/p&gt;
+
+&lt;h3 id=&quot;jack-john-callahan--software-architect-and-developer&quot;&gt;Jack “John Callahan”  Software architect and developer&lt;/h3&gt;
+&lt;p&gt;Software developers are not biometric experts.  They need guidance to build solutions that are secure and respect the privacy of individuals and organizations by preventing breaches of sensitive information in the first place. Tools like encryption based on standards within approved frameworks have long served to help developers build such solutions. Unfortunately, while biometric systems are well documented, they generally lack integration into existing authentication and authorization frameworks.&lt;/p&gt;
+
+&lt;p&gt;This is changing: biometric authentication is now a common feature on mobile devices and support libraries, APIs and other tools are available to developers.&lt;/p&gt;
+
+&lt;h2 id=&quot;kaliya-young-identity-woman---digital-identity-expert&quot;&gt;Kaliya Young “Identity Woman” - Digital Identity Expert&lt;/h2&gt;
+
+&lt;p&gt;Digital Identity experts are not biometrics experts. The role that biometrics can play in digital identity systems is varied. I had a lot of preconceived notions about biometrics before I learned more about how they actually worked and how they fit within systems.  It has been eye opening to engage with Jack and Asem and my hope is that other identity experts will find value in engaging with biometric experts.&lt;br /&gt;
+Biometrics have a great potential to be quite dangerous if abused. The ethical side of the industry see that they have great potential to address some use-cases (such as recovery) that otherwise would be very difficult.&lt;/p&gt;
+
+&lt;h2 id=&quot;image-commentary&quot;&gt;Image Commentary&lt;/h2&gt;
+&lt;p&gt;The image reflects a range of the different biometrics modalities. It was created commons licensed. We note that the man in the image is white and this reflects one of the challenges of the industry is that often when biometrics systems are built the default human is “the white guy” and this means that women and people of color are not included in the reference data sets and training. 
+We also note that there is a law enforcement person who is watching and accessing the data invading the privacy of the individual. We like the image because it highlights the growing concerns about biometric function creep where biometric data can be shared and misuse without users’ knowledge via these interconnected biometric systems.&lt;/p&gt;
+
+&lt;h2 id=&quot;logistics&quot;&gt;Logistics&lt;/h2&gt;
+&lt;p&gt;This event is being planned for January 2020. 
+We are looking for sponsors who want to support this kind of dialogue. 
+We will be hosting it virtually on the same platform that IIW uses - QiQoChat.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Introduction</title>
+   <link href="http://infominer33.github.iodark-poole/2020/04/04/introduction/"/>
+   <updated>2020-04-04T00:00:00-04:00</updated>
+   <id>http://infominer33.github.io/2020/04/04/introduction</id>
+   <content type="html">&lt;p&gt;&lt;em&gt;The Strange Case of Dr. Jekyll and Mr. Hyde&lt;/em&gt; tells the story of a lawyer investigating the connection of two persons, Dr. Henry Jekyll and Mr. Edward Hyde. Chief among the novel’s supporting cast is a man by the name of Mr. Poole, Dr. Jekyll’s loyal butler.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Poole is the butler for &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt;, the static site generator. It’s designed and developed by &lt;a href=&quot;https://twitter.com/mdo&quot;&gt;@mdo&lt;/a&gt; to provide a clear and concise foundational setup for any Jekyll site. It does so by furnishing a full vanilla Jekyll install with example layouts, pages, posts, and styles.&lt;/p&gt;
+
+&lt;p&gt;This demo site was last updated October 15, 2020.&lt;/p&gt;
+
+&lt;p&gt;There are currently two themes built on Poole:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://hyde.getpoole.com&quot;&gt;Hyde&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://lanyon.getpoole.com&quot;&gt;Lanyon&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Learn more and contribute on &lt;a href=&quot;&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;whats-included&quot;&gt;What’s included&lt;/h2&gt;
+
+&lt;p&gt;Poole is a streamlined Jekyll site designed and built as a foundation for building more meaningful themes. Poole, and every theme built on it like this one, includes the following:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Complete Jekyll setup included (layouts, config, &lt;a href=&quot;/dark-poole/404.html&quot;&gt;404&lt;/a&gt;, &lt;a href=&quot;/dark-poole/atom.xml&quot;&gt;RSS feed&lt;/a&gt;, posts, &lt;a href=&quot;/dark-poole/archive&quot;&gt;archive page&lt;/a&gt;, and &lt;a href=&quot;/dark-poole/about&quot;&gt;example page&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;Mobile friendly design and development&lt;/li&gt;
+  &lt;li&gt;Easily scalable text and component sizing with &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;rem&lt;/code&gt; units in the CSS&lt;/li&gt;
+  &lt;li&gt;Support for a wide gamut of HTML elements&lt;/li&gt;
+  &lt;li&gt;Related posts (time-based, because Jekyll) below each post&lt;/li&gt;
+  &lt;li&gt;Syntax highlighting, courtesy Jekyll’s built-in support for Rouge&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Additional features are available in individual themes.&lt;/p&gt;
+
+&lt;h2 id=&quot;browser-support&quot;&gt;Browser support&lt;/h2&gt;
+
+&lt;p&gt;Poole and its themes are by preference a forward-thinking project. In addition to the latest versions of Chrome, Safari (mobile and desktop), Firefox, and Edge.&lt;/p&gt;
+
+&lt;h2 id=&quot;download&quot;&gt;Download&lt;/h2&gt;
+
+&lt;p&gt;These themes are developed on and hosted with GitHub. Head to the &lt;a href=&quot;&quot;&gt;GitHub repository&lt;/a&gt; for downloads, bug reports, and features requests.&lt;/p&gt;
+
+&lt;p&gt;Thanks!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Options</title>
+   <link href="http://infominer33.github.iodark-poole/2020/04/03/options/"/>
+   <updated>2020-04-03T00:00:00-04:00</updated>
+   <id>http://infominer33.github.io/2020/04/03/options</id>
+   <content type="html">&lt;p&gt;With Poole as a baseline theme for Jekyll, there aren’t many options available out of the box. Basic light and dark mode support is included. Colors are also provided for your own customization, while other Poole themes build on this to create more unique looks.&lt;/p&gt;
+
+&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#dark-mode&quot; id=&quot;markdown-toc-dark-mode&quot;&gt;Dark mode&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#creating-themes&quot; id=&quot;markdown-toc-creating-themes&quot;&gt;Creating themes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#colors&quot; id=&quot;markdown-toc-colors&quot;&gt;Colors&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#gray-colors&quot; id=&quot;markdown-toc-gray-colors&quot;&gt;Gray colors&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#google-analytics&quot; id=&quot;markdown-toc-google-analytics&quot;&gt;Google Analytics&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;dark-mode&quot;&gt;Dark mode&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Dark mode is enabled automatically&lt;/strong&gt; via CSS media query—you’ll find the source code for this in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_sass/_variables.scss&lt;/code&gt; stylesheet. If you’re familiar with CSS custom properties, you can also use this method to build your own color schemes.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://markdotto.com/2018/11/05/css-dark-mode/&quot;&gt;Read more about using CSS dark mode&lt;/a&gt; via media queries like this:&lt;/p&gt;
+
+&lt;div class=&quot;language-scss highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c1&quot;&gt;// Example media query to detect dark mode&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;@media&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;prefers-color-scheme&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;dark&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;c1&quot;&gt;// ...&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;creating-themes&quot;&gt;Creating themes&lt;/h2&gt;
+
+&lt;p&gt;If you want to make your own color schemes, modify the CSS variables in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_sass/_variables.scss&lt;/code&gt; stylesheet with a scoped data attribute or class name.&lt;/p&gt;
+
+&lt;p&gt;For example, below we’ve created the beginnings of a blue theme:&lt;/p&gt;
+
+&lt;div class=&quot;language-scss highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c1&quot;&gt;// Example blue theme&lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;data-theme&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;blue&quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;na&quot;&gt;--body-bg&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;var&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;--&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;blue&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+  &lt;span class=&quot;na&quot;&gt;--body-color&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;mh&quot;&gt;#fff&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Then, apply the theme by adding &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;data-theme=&quot;blue&quot;&lt;/code&gt; to the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;html&amp;gt;&lt;/code&gt; element.&lt;/p&gt;
+
+&lt;h2 id=&quot;colors&quot;&gt;Colors&lt;/h2&gt;
+
+&lt;p&gt;Change your site styles by modifying the source code with these CSS custom properties. Poole’s colors come from the &lt;a href=&quot;https://yeun.github.io/open-color/&quot;&gt;Open Color project&lt;/a&gt;.&lt;/p&gt;
+
+&lt;dl class=&quot;colors&quot;&gt;
+  &lt;dt style=&quot;background-color: #fa5252;&quot;&gt;&lt;/dt&gt;
+  &lt;dd&gt;
+    &lt;strong&gt;var(--red)&lt;/strong&gt;&lt;br /&gt;
+    #fa5252
+  &lt;/dd&gt;
+  &lt;dt style=&quot;background-color: #e64980;&quot;&gt;&lt;/dt&gt;
+  &lt;dd&gt;
+    &lt;strong&gt;var(--pink)&lt;/strong&gt;&lt;br /&gt;
+    #e64980
+  &lt;/dd&gt;
+  &lt;dt style=&quot;background-color: #be4bdb;&quot;&gt;&lt;/dt&gt;
+  &lt;dd&gt;
+    &lt;strong&gt;var(--grape)&lt;/strong&gt;&lt;br /&gt;
+    #be4bdb
+  &lt;/dd&gt;
+  &lt;dt style=&quot;background-color: #7950f2;&quot;&gt;&lt;/dt&gt;
+  &lt;dd&gt;
+    &lt;strong&gt;var(--purple)&lt;/strong&gt;&lt;br /&gt;
+    #7950f2
+  &lt;/dd&gt;
+  &lt;dt style=&quot;background-color: #4c6ef5;&quot;&gt;&lt;/dt&gt;
+  &lt;dd&gt;
+    &lt;strong&gt;var(--indigo)&lt;/strong&gt;&lt;br /&gt;
+    #4c6ef5
+  &lt;/dd&gt;
+  &lt;dt style=&quot;background-color: #228be6;&quot;&gt;&lt;/dt&gt;
+  &lt;dd&gt;
+    &lt;strong&gt;var(--blue)&lt;/strong&gt;&lt;br /&gt;
+    #228be6
+  &lt;/dd&gt;
+  &lt;dt style=&quot;background-color: #15aabf;&quot;&gt;&lt;/dt&gt;
+  &lt;dd&gt;
+    &lt;strong&gt;var(--cyan)&lt;/strong&gt;&lt;br /&gt;
+    #15aabf
+  &lt;/dd&gt;
+  &lt;dt style=&quot;background-color: #12b886;&quot;&gt;&lt;/dt&gt;
+  &lt;dd&gt;
+    &lt;strong&gt;var(--teal)&lt;/strong&gt;&lt;br /&gt;
+    #12b886
+  &lt;/dd&gt;
+  &lt;dt style=&quot;background-color: #40c057;&quot;&gt;&lt;/dt&gt;
+  &lt;dd&gt;
+    &lt;strong&gt;var(--green)&lt;/strong&gt;&lt;br /&gt;
+    #40c057
+  &lt;/dd&gt;
+  &lt;dt style=&quot;background-color: #fab005;&quot;&gt;&lt;/dt&gt;
+  &lt;dd&gt;
+    &lt;strong&gt;var(--yellow)&lt;/strong&gt;&lt;br /&gt;
+    #fab005
+  &lt;/dd&gt;
+  &lt;dt style=&quot;background-color: #fd7e14;&quot;&gt;&lt;/dt&gt;
+  &lt;dd&gt;
+    &lt;strong&gt;var(--orange)&lt;/strong&gt;&lt;br /&gt;
+    #fd7e14
+  &lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;h2 id=&quot;gray-colors&quot;&gt;Gray colors&lt;/h2&gt;
+
+&lt;p&gt;There are also ten grayscale colors to choose from.&lt;/p&gt;
+
+&lt;dl class=&quot;colors&quot;&gt;
+  &lt;dt style=&quot;background-color: #f8f9fa;&quot;&gt;&lt;/dt&gt;
+  &lt;dd&gt;
+    &lt;strong&gt;var(--gray-000)&lt;/strong&gt;&lt;br /&gt;
+    #f8f9fa
+  &lt;/dd&gt;
+  &lt;dt style=&quot;background-color: #f1f3f5;&quot;&gt;&lt;/dt&gt;
+  &lt;dd&gt;
+    &lt;strong&gt;var(--gray-100)&lt;/strong&gt;&lt;br /&gt;
+    #f1f3f5
+  &lt;/dd&gt;
+  &lt;dt style=&quot;background-color: #e9ecef;&quot;&gt;&lt;/dt&gt;
+  &lt;dd&gt;
+    &lt;strong&gt;var(--gray-200)&lt;/strong&gt;&lt;br /&gt;
+    #e9ecef
+  &lt;/dd&gt;
+  &lt;dt style=&quot;background-color: #dee2e6;&quot;&gt;&lt;/dt&gt;
+  &lt;dd&gt;
+    &lt;strong&gt;var(--gray-300)&lt;/strong&gt;&lt;br /&gt;
+    #dee2e6
+  &lt;/dd&gt;
+  &lt;dt style=&quot;background-color: #ced4da;&quot;&gt;&lt;/dt&gt;
+  &lt;dd&gt;
+    &lt;strong&gt;var(--gray-400)&lt;/strong&gt;&lt;br /&gt;
+    #ced4da
+  &lt;/dd&gt;
+  &lt;dt style=&quot;background-color: #adb5bd;&quot;&gt;&lt;/dt&gt;
+  &lt;dd&gt;
+    &lt;strong&gt;var(--gray-500)&lt;/strong&gt;&lt;br /&gt;
+    #adb5bd
+  &lt;/dd&gt;
+  &lt;dt style=&quot;background-color: #868e96;&quot;&gt;&lt;/dt&gt;
+  &lt;dd&gt;
+    &lt;strong&gt;var(--gray-600)&lt;/strong&gt;&lt;br /&gt;
+    #868e96
+  &lt;/dd&gt;
+  &lt;dt style=&quot;background-color: #495057;&quot;&gt;&lt;/dt&gt;
+  &lt;dd&gt;
+    &lt;strong&gt;var(--gray-700)&lt;/strong&gt;&lt;br /&gt;
+    #495057
+  &lt;/dd&gt;
+  &lt;dt style=&quot;background-color: #343a40;&quot;&gt;&lt;/dt&gt;
+  &lt;dd&gt;
+    &lt;strong&gt;var(--gray-800)&lt;/strong&gt;&lt;br /&gt;
+    #343a40
+  &lt;/dd&gt;
+  &lt;dt style=&quot;background-color: #212529;&quot;&gt;&lt;/dt&gt;
+  &lt;dd&gt;
+    &lt;strong&gt;var(--gray-900)&lt;/strong&gt;&lt;br /&gt;
+    #212529
+  &lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;h2 id=&quot;google-analytics&quot;&gt;Google Analytics&lt;/h2&gt;
+
+&lt;p&gt;Specify &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;ga_analytics&lt;/code&gt; in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt; and restart the server to add Google Analytics tracking code.&lt;/p&gt;
+
+&lt;div class=&quot;language-ruby highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c1&quot;&gt;# Google Analytics example&lt;/span&gt;
+&lt;span class=&quot;ss&quot;&gt;ga_analytics: &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;UA&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;mo&quot;&gt;000000&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Example content</title>
+   <link href="http://infominer33.github.iodark-poole/2020/04/02/example-content/"/>
+   <updated>2020-04-02T00:00:00-04:00</updated>
+   <id>http://infominer33.github.io/2020/04/02/example-content</id>
+   <content type="html">&lt;p class=&quot;message&quot;&gt;&lt;strong&gt;Howdy!&lt;/strong&gt; This is an example blog post that shows several types of HTML content supported in this theme.&lt;/p&gt;
+
+&lt;p&gt;Cum sociis natoque penatibus et magnis &lt;a href=&quot;#&quot;&gt;dis parturient montes&lt;/a&gt;, nascetur ridiculus mus. &lt;em&gt;Aenean eu leo quam.&lt;/em&gt; Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Etiam porta &lt;strong&gt;sem malesuada magna&lt;/strong&gt; mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.&lt;/p&gt;
+
+&lt;h2 id=&quot;inline-html-elements&quot;&gt;Inline HTML elements&lt;/h2&gt;
+
+&lt;p&gt;HTML defines a long list of available inline tags, a complete list of which can be found on the &lt;a href=&quot;https://developer.mozilla.org/en-US/docs/Web/HTML/Element&quot;&gt;Mozilla Developer Network&lt;/a&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;To bold text&lt;/strong&gt;, use &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;strong&amp;gt;&lt;/code&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;To italicize text&lt;/em&gt;, use &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;em&amp;gt;&lt;/code&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;mark&gt;To highlight&lt;/mark&gt;, use &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;mark&amp;gt;&lt;/code&gt;.&lt;/li&gt;
+  &lt;li&gt;Abbreviations, like &lt;abbr title=&quot;HyperText Markup Langage&quot;&gt;HTML&lt;/abbr&gt; should use &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;abbr&amp;gt;&lt;/code&gt;, with an optional &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;title&lt;/code&gt; attribute for the full phrase.&lt;/li&gt;
+  &lt;li&gt;Citations, like &lt;cite&gt;— Mark Otto&lt;/cite&gt;, should use &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;cite&amp;gt;&lt;/code&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;del&gt;Deleted&lt;/del&gt; text should use &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;del&amp;gt;&lt;/code&gt; and &lt;ins&gt;inserted&lt;/ins&gt; text should use &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;ins&amp;gt;&lt;/code&gt;.&lt;/li&gt;
+  &lt;li&gt;Superscript &lt;sup&gt;text&lt;/sup&gt; uses &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;sup&amp;gt;&lt;/code&gt; and subscript &lt;sub&gt;text&lt;/sub&gt; uses &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;sub&amp;gt;&lt;/code&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Most of these elements are styled by browsers with few modifications on our part.&lt;/p&gt;
+
+&lt;h2 id=&quot;footnotes&quot;&gt;Footnotes&lt;/h2&gt;
+
+&lt;p&gt;Footnotes are supported as part of the Markdown syntax. Here’s one in action. Clicking this number&lt;sup id=&quot;fnref:fn-sample_footnote&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:fn-sample_footnote&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; will lead you to a footnote. The syntax looks like:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;Clicking this number[^fn-sample_footnote]&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Each footnote needs the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;^fn-&lt;/code&gt; prefix and a unique ID to be referenced for the footnoted content. The syntax for that list looks something like this:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;[^fn-sample_footnote]: Handy! Now click the return link to go back.&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;You can place the footnoted content wherever you like. Markdown parsers should properly place it at the bottom of the post.&lt;/p&gt;
+
+&lt;h2 id=&quot;heading&quot;&gt;Heading&lt;/h2&gt;
+
+&lt;p&gt;Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.&lt;/p&gt;
+
+&lt;h3 id=&quot;code&quot;&gt;Code&lt;/h3&gt;
+
+&lt;p&gt;Inline code is available with the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;code&amp;gt;&lt;/code&gt; element. Snippets of multiple lines of code are supported through Rouge. Longer lines will automatically scroll horizontally when needed. You may also use code fencing (triple backticks) for rendering code.&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-js&quot; data-lang=&quot;js&quot;&gt;&lt;span class=&quot;c1&quot;&gt;// Example can be run directly in your JavaScript console&lt;/span&gt;
+
+&lt;span class=&quot;c1&quot;&gt;// Create a function that takes two arguments and returns the sum of those arguments&lt;/span&gt;
+&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;adder&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;Function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;a&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;b&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;return a + b&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+
+&lt;span class=&quot;c1&quot;&gt;// Call the function&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;adder&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;6&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;// &amp;gt; 8&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;You may also optionally show code snippets with line numbers. Add &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;linenos&lt;/code&gt; to the Rouge tags.&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-js&quot; data-lang=&quot;js&quot;&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
+2
+3
+4
+5
+6
+7
+8
+&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;c1&quot;&gt;// Example can be run directly in your JavaScript console&lt;/span&gt;
+
+&lt;span class=&quot;c1&quot;&gt;// Create a function that takes two arguments and returns the sum of those arguments&lt;/span&gt;
+&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;adder&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;Function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;a&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;b&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;return a + b&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+
+&lt;span class=&quot;c1&quot;&gt;// Call the function&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;adder&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;6&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;// &amp;gt; 8&lt;/span&gt;
+&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.&lt;/p&gt;
+
+&lt;h3 id=&quot;gists-via-github-pages&quot;&gt;Gists via GitHub Pages&lt;/h3&gt;
+
+&lt;p&gt;Vestibulum id ligula porta felis euismod semper. Nullam quis risus eget urna mollis ornare vel eu leo. Donec sed odio dui.&lt;/p&gt;
+
+&lt;noscript&gt;&lt;pre&gt;400: Invalid request&lt;/pre&gt;&lt;/noscript&gt;
+&lt;script src=&quot;https://gist.github.com/13f94b734a4ddb132735.js?file=gist.md&quot;&gt; &lt;/script&gt;
+
+&lt;p&gt;Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nullam quis risus eget urna mollis ornare vel eu leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec sed odio dui. Vestibulum id ligula porta felis euismod semper.&lt;/p&gt;
+
+&lt;h3 id=&quot;lists&quot;&gt;Lists&lt;/h3&gt;
+
+&lt;p&gt;Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Praesent commodo cursus magna, vel scelerisque nisl consectetur et.&lt;/li&gt;
+  &lt;li&gt;Donec id elit non mi porta gravida at eget metus.&lt;/li&gt;
+  &lt;li&gt;Nulla vitae elit libero, a pharetra augue.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Vestibulum id ligula porta felis euismod semper.&lt;/li&gt;
+  &lt;li&gt;Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.&lt;/li&gt;
+  &lt;li&gt;Maecenas sed diam eget risus varius blandit sit amet non magna.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.&lt;/p&gt;
+
+&lt;dl&gt;
+  &lt;dt&gt;HyperText Markup Language (HTML)&lt;/dt&gt;
+  &lt;dd&gt;The language used to describe and define the content of a Web page&lt;/dd&gt;
+
+  &lt;dt&gt;Cascading Style Sheets (CSS)&lt;/dt&gt;
+  &lt;dd&gt;Used to describe the appearance of Web content&lt;/dd&gt;
+
+  &lt;dt&gt;JavaScript (JS)&lt;/dt&gt;
+  &lt;dd&gt;The programming language used to build advanced Web sites and applications&lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;p&gt;Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.&lt;/p&gt;
+
+&lt;h3 id=&quot;images&quot;&gt;Images&lt;/h3&gt;
+
+&lt;p&gt;Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://placehold.it/800x400&quot; alt=&quot;placeholder&quot; title=&quot;Large example image&quot; /&gt;
+&lt;img src=&quot;http://placehold.it/400x200&quot; alt=&quot;placeholder&quot; title=&quot;Medium example image&quot; /&gt;
+&lt;img src=&quot;http://placehold.it/200x200&quot; alt=&quot;placeholder&quot; title=&quot;Small example image&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;tables&quot;&gt;Tables&lt;/h3&gt;
+
+&lt;p&gt;Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Name&lt;/th&gt;
+      &lt;th&gt;Upvotes&lt;/th&gt;
+      &lt;th&gt;Downvotes&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tfoot&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Totals&lt;/td&gt;
+      &lt;td&gt;21&lt;/td&gt;
+      &lt;td&gt;23&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tfoot&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Alice&lt;/td&gt;
+      &lt;td&gt;10&lt;/td&gt;
+      &lt;td&gt;11&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Bob&lt;/td&gt;
+      &lt;td&gt;4&lt;/td&gt;
+      &lt;td&gt;3&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Charlie&lt;/td&gt;
+      &lt;td&gt;7&lt;/td&gt;
+      &lt;td&gt;9&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Want to see something else added? &lt;a href=&quot;https://github.com/poole/poole/issues/new&quot;&gt;Open an issue.&lt;/a&gt;&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:fn-sample_footnote&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Handy! Now click the return link to go back. &lt;a href=&quot;#fnref:fn-sample_footnote&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</content>
+ </entry>
+ 
+
+</feed>
