@@ -6,6 +6,8 @@ title: The Thoughtful Biometrics Conference
 This interactive conference will be some time in January. 
 Dates TBD (please let us know if there are days we should avoid)
 
+To receive updates regarding the event, please [SIGN UP HERE](https://signup.thoughtfulbiometrics.org).  Thank you!
+
 ## Invitation _or_ why we need this event:
 
 The Thoughtful Biometrics conference is creating a space to dialogue about critical emerging issues surrounding biometric and digital identity technologies. 
