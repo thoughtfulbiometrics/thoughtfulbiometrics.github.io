@@ -1,12 +1,20 @@
 ---
-layout: post
+layout: page
 title: The Thoughtful Biometrics Conference 
+permalink: /
 ---
 
-This interactive conference will be some time in January. 
-Dates TBD (please let us know if there are days we should avoid)
+The Thoughtful Biometrics conference is creating a space to dialogue about critical emerging issues surrounding biometric and digital identity technologies.
 
-To receive updates regarding the event, please [SIGN UP HERE](https://signup.thoughtfulbiometrics.org).  Thank you!
+### This is a 3 day virtual virtual event. Feb 1, 3 and 5. 
+
+It is on Monday, Wednesday and Friday the first week of February 2021. 
+Each day will begin at 9am PST to 1pm PST / Noon EST to 5 EST.  
+
+<center><b><p class="message"><a href="https://www.eventbrite.com/e/thoughtful-biometrics-workshop-tickets-128532156139" style="color:#FF0000;">Register Here</a> on EventBrite. Thank you!</p></b></center>
+
+
+Biometrics technology is being used in a wide range of contexts and there in this range of existing and potential uses, there are many questions about the ethical and socially good uses.
 
 ## Invitation _or_ why we need this event:
 
@@ -14,35 +22,36 @@ The Thoughtful Biometrics conference is creating a space to dialogue about criti
 
 Biometrics technology is being used in a wide range of contexts and there in this range of existing and potential uses, there are many questions about the ethical and socially good uses. 
 
-![](/assets/Biometric.jpg)
+<center><img src="/assets/Biometric.jpg"></center>
 
-Questions include:
+### Questions include:
 * How do they work?
 * How are they being used?
 * What are the dangers of their use?
 * What are the appropriate and even good uses?
 
-Our society is complex. The systems within it are complex and built by networks of professionals each with their own deep technical expertise. 
+## Our society is complex. 
+
+The systems within it are complex and built by networks of professionals each with their own deep technical expertise. 
 
 One of the challenges we face now is that these professionals are so deep in their own fields they rarely talk to those in neighboring communities who are technologies all come together in these systems.  
 
 We note that there are discussions happening between these professionals but usually within companies and small groups bubbles that have never been open or include more individuals in an open and transparent discussion.
 
-Our hope is this event creates more cross-pollination and exploration of the technologies along with the social and policy implications of them. We invite discussion about tangible risks/threat models and all levels from the micro to the macro systems.
+**Our hope is this event creates more cross-pollination and exploration of the technologies along with the social and policy implications of them**. We invite discussion about tangible risks/threat models and all levels from the micro to the macro systems.
 
-We want to expand the conversation, inclusive to support “hearing” the voices at the edges. 
+### We want to expand the conversation, inclusive to support “hearing” the voices at the edges. 
 
 We welcome the participation of people who ask serious questions about these systems.  
 We also want to invite those active in the industry who want to respond in a meaningful way to thoughtful criticism. Our vision for the conference is inspired by our ongoing participation in 
 
 _This conference is not to “sell” biometrics products like the Connect:ID Conference or K(n)ow Identity Conference by OWI._  
 
-We have several starting axioms for this event:
+## We have several starting axioms for this event:
 * Biometrics are a technology that is being used and will not be vanishing. 
 * There are a range of uses for these technologies that can be good and can be bad.
 * We value discernment about the application of biometrics technology. 
  
-
 Our vision for the convene a range of constituencies whose work touches on biometrics and use in the real world. 
 
 * Biometrics Community
@@ -60,14 +69,14 @@ Our vision for the convene a range of constituencies whose work touches on biome
 We hope that the conversations catalyzed at the event are starting points for ongoing work in fora that touch on biometrics issues.  
 
 ## About the Format
-Our inspiration for this event comes from the [Internet Identity Workshop](http://www.internetidentityworkshop.com) an event uses the open space technology to co-create the agenda live the day of the event. There are no keynotes or panels, it's all about exploring the topic with professional peers from a range of industries. We are curating videos that people who are attending can watch ahead of time to get up to speed about some of the technologies and topics of interest but the format at the event is discussion driven and about peer learning. We do know great people who will be there and it is the attendees who have a passion for learning and contributing to the event that make it the success it is.
 
-## The Conveners 
+Our inspiration for this event comes from the [Internet Identity Workshop](http://www.internetidentityworkshop.com) an event uses the open space technology to co-create the agenda live the day of the event. There are no keynotes or panels, it's all about exploring the topic with professional peers from a range of industries. We are curating videos that people who are attending can watch ahead of time to get up to speed about some of the technologies and topics of interest but the format at the event is discussion driven and about peer learning. We do know great people who will be there and it is the attendees who have a passion for learning and contributing to the event that make it the success it is.
 
 ![](/assets/TheDigitalArtist_biometric-4503070_640.jpg)
 
-Here are some of the thought leader attendees (this is like the “speaker” list for a regular conference). 
+## The Conveners 
 
+Here are some of the thought leader attendees (this is like the “speaker” list for a regular conference). 
 
 ### Asem Othman, Biometric Scientist Perspective
 
@@ -94,11 +103,22 @@ Biometrics have a great potential to be quite dangerous if abused. The ethical s
 The image reflects a range of the different biometrics modalities. It was created commons licensed. We note that the man in the image is white and this reflects one of the challenges of the industry is that often when biometrics systems are built the default human is “the white guy” and this means that women and people of color are not included in the reference data sets and training. 
 We also note that there is a law enforcement person who is watching and accessing the data invading the privacy of the individual. We like the image because it highlights the growing concerns about biometric function creep where biometric data can be shared and misuse without users’ knowledge via these interconnected biometric systems.
 
-
 ## Logistics
-This event is being planned for January 2020. 
+
+This is a 3 day virtual virtual event. 
+
+### Feb 1, 3 and 5. 
+
+It is on Monday, Wednesday and Friday the first week of February 2021. 
+Each day will begin at 9am PST to 1pm PST / Noon EST to 5 EST.  
+
 We are looking for sponsors who want to support this kind of dialogue. 
 We will be hosting it virtually on the same platform that IIW uses - QiQoChat. 
 
+## Register for the Event
 
+<center><b><p class="message"><a href="https://www.eventbrite.com/e/thoughtful-biometrics-workshop-tickets-128532156139" style="color:#FF0000;">Register Here</a> on EventBrite. Thank you!</p></b></center>
 
+## Subscribe for Updates
+
+<center><b><p class="message">To receive updates on the event<br><a href="https://signup.thoughtfulbiometrics.org" style="color:#FF0000;">Subscribe</a> to our mailing list.</p></b></center>
