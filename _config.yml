@@ -1,7 +1,6 @@
 # Setup
 title: Thoughtful Biometrics
 url: http://thoughtfulbiometrics.org
-paginate: 1
 baseurl: ""
 permalink: pretty
 destination: docs
@@ -9,7 +8,6 @@ destination: docs
 # Gems
 plugins:
   - jekyll-gist
-  - jekyll-paginate
   - jekyll-seo-tag
 
 # Optimize Jekyll
@@ -42,8 +40,14 @@ version: 3.0.0
 
 # Navbar page list
 nav:
-  - title: Blog
-    url: /archive
+  - title: Home
+    url: /
 
-  - title: About
-    url: /about
+  - title: Attendees
+    url: /whos-coming
+  
+  - title: Topics
+    url: /potential-topics
+
+  - title: "OpenSpaces"
+    url: /open-spaces
