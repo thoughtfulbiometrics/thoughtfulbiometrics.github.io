@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Example content
-draft: true
+published: false
 ---
 
 **Howdy!** This is an example blog post that shows several types of HTML content supported in this theme.
