@@ -1,4 +1,4 @@
-# The Thoughtful Biometrics Conference 
+# The Thoughtful Biometrics Workshop 
 
 This interactive conference will be some time in January. 
 Dates TBD (please let us know if there are days we should avoid)
