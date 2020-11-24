@@ -1,10 +1,10 @@
 ---
 layout: page
-title: The Thoughtful Biometrics Conference 
+title: The Thoughtful Biometrics workshop 
 permalink: /
 ---
 
-The Thoughtful Biometrics conference is creating a space to dialogue about critical emerging issues surrounding biometric and digital identity technologies.
+The Thoughtful Biometrics workshop is creating a space to dialogue about critical emerging issues surrounding biometric and digital identity technologies.
 
 ### This is a 3 day virtual virtual event. Feb 1, 3 and 5. 
 
@@ -15,7 +15,7 @@ Biometrics technology is being used in a wide range of contexts and there in thi
 
 ## Invitation _or_ why we need this event:
 
-The Thoughtful Biometrics conference is creating a space to dialogue about critical emerging issues surrounding biometric and digital identity technologies. 
+The Thoughtful Biometrics workshop is creating a space to dialogue about critical emerging issues surrounding biometric and digital identity technologies. 
 
 Biometrics technology is being used in a wide range of contexts and there in this range of existing and potential uses, there are many questions about the ethical and socially good uses. 
 
@@ -40,9 +40,9 @@ We note that there are discussions happening between these professionals but usu
 ### We want to expand the conversation, inclusive to support “hearing” the voices at the edges. 
 
 We welcome the participation of people who ask serious questions about these systems.  
-We also want to invite those active in the industry who want to respond in a meaningful way to thoughtful criticism. Our vision for the conference is inspired by our ongoing participation in 
+We also want to invite those active in the industry who want to respond in a meaningful way to thoughtful criticism. Our vision for the workshop is inspired by our ongoing participation in 
 
-_This conference is not to “sell” biometrics products like the Connect:ID Conference or K(n)ow Identity Conference by OWI._  
+_This workshop is not to “sell” biometrics products like the Connect:ID Conference or K(n)ow Identity Conference by OWI._  
 
 ## We have several starting axioms for this event:
 * Biometrics are a technology that is being used and will not be vanishing. 

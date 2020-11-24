@@ -1,13 +1,13 @@
 # The Thoughtful Biometrics Workshop 
 
-This interactive conference will be some time in January. 
+This interactive workshop will be some time in January. 
 Dates TBD (please let us know if there are days we should avoid)
 
 To receive updates regarding the event, please [SIGN UP HERE](https://signup.thoughtfulbiometrics.org).  Thank you!
 
 ## Invitation _or_ why we need this event:
 
-The Thoughtful Biometrics conference is creating a space to dialogue about critical emerging issues surrounding biometric and digital identity technologies. 
+The Thoughtful Biometrics workshop is creating a space to dialogue about critical emerging issues surrounding biometric and digital identity technologies. 
 
 Biometrics technology is being used in a wide range of contexts and there in this range of existing and potential uses, there are many questions about the ethical and socially good uses. 
 
@@ -28,9 +28,9 @@ Our hope is this event creates more cross-pollination and exploration of the tec
 We want to expand the conversation, inclusive to support “hearing” the voices at the edges. 
 
 We welcome the participation of people who ask serious questions about these systems.  
-We also want to invite those active in the industry who want to respond in a meaningful way to thoughtful criticism. Our vision for the conference is inspired by our ongoing participation in 
+We also want to invite those active in the industry who want to respond in a meaningful way to thoughtful criticism. Our vision for the workshop is inspired by our ongoing participation in 
 
-_This conference is not to “sell” biometrics products like the Connect:ID Conference or K(n)ow Identity Conference by OWI._  
+_This workshop is not to “sell” biometrics products like the Connect:ID Conference or K(n)ow Identity Conference by OWI._  
 
 We have several starting axioms for this event:
 * Biometrics are a technology that is being used and will not be vanishing. 
