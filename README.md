@@ -7,7 +7,7 @@ To receive updates regarding the event, please [SIGN UP HERE](https://signup.tho
 
 ## Invitation _or_ why we need this event:
 
-The Thoughtful Biometrics workshop is creating a space to dialogue about critical emerging issues surrounding biometric and digital identity technologies. 
+The Thoughtful Biometrics Workshop is creating a space to dialogue about critical emerging issues surrounding biometric and digital identity technologies. 
 
 Biometrics technology is being used in a wide range of contexts and there in this range of existing and potential uses, there are many questions about the ethical and socially good uses. 
 
