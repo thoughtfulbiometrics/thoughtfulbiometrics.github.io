@@ -19,13 +19,19 @@ The Thoughtful Biometrics workshop is creating a space to dialogue about critica
 
 Biometrics technology is being used in a wide range of contexts and there in this range of existing and potential uses, there are many questions about the ethical and socially good uses. 
 
-<center><img src="/assets/Biometric.jpg"></center>
-
 ### Questions include:
 * How do they work?
 * How are they being used?
 * What are the dangers of their use?
 * What are the appropriate and even good uses?
+
+
+<center><hr style="width: 90%;">
+<sub>This image reflects a range of different biometrics modalities. <sub>(<a href="https://commons.wikimedia.org/wiki/File:Biometric.jpg">CC by 3.0</a>)</sub></sub>
+<img width="80%" src="/assets/Biometric.jpg" alt="Biometric man by Welleman">
+<p style="width: 85%;"><sup><em>We note that the subject in the image is a white male and this reflects one of the questions about the industry, is it true that biometrics systems are built based on a default human “the white guy”? Does this mean that women and people of color are not included, or biometric systems are inherently biased? We also note that there is a law enforcement person who is watching and accessing the data invading the privacy of the individual. We like the image because it highlights the growing concerns about biometric function creep where biometric data can be shared and misused without users’ knowledge via these interconnected biometric systems.</em></sup></p><hr style="width: 90%;"></center>
+
+
 
 ## Our society is complex. 
 
