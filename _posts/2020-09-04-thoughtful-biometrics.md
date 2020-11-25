@@ -1,10 +1,10 @@
 ---
 layout: page
-title: The Thoughtful Biometrics workshop 
+title: The Thoughtful Biometrics Workshop 
 permalink: /
 ---
 
-The Thoughtful Biometrics workshop is creating a space to dialogue about critical emerging issues surrounding biometric and digital identity technologies.
+The Thoughtful Biometrics Workshop is creating a space to dialogue about critical emerging issues surrounding biometric and digital identity technologies.
 
 ### This is a 3 day virtual virtual event. Feb 1, 3 and 5. 
 
@@ -15,7 +15,7 @@ Biometrics technology is being used in a wide range of contexts and there in thi
 
 ## Invitation _or_ why we need this event:
 
-The Thoughtful Biometrics workshop is creating a space to dialogue about critical emerging issues surrounding biometric and digital identity technologies. 
+The Thoughtful Biometrics Workshop is creating a space to dialogue about critical emerging issues surrounding biometric and digital identity technologies. 
 
 Biometrics technology is being used in a wide range of contexts and there in this range of existing and potential uses, there are many questions about the ethical and socially good uses. 
 
@@ -25,13 +25,7 @@ Biometrics technology is being used in a wide range of contexts and there in thi
 * What are the dangers of their use?
 * What are the appropriate and even good uses?
 
-
-<center><hr style="width: 90%;">
-<sub>This image reflects a range of different biometrics modalities. <sub>(<a href="https://commons.wikimedia.org/wiki/File:Biometric.jpg">CC by 3.0</a>)</sub></sub>
-<img width="80%" src="/assets/Biometric.jpg" alt="Biometric man by Welleman">
-<p style="width: 85%;"><sup><em>We note that the subject in the image is a white male and this reflects one of the questions about the industry, is it true that biometrics systems are built based on a default human “the white guy”? Does this mean that women and people of color are not included, or biometric systems are inherently biased? We also note that there is a law enforcement person who is watching and accessing the data invading the privacy of the individual. We like the image because it highlights the growing concerns about biometric function creep where biometric data can be shared and misused without users’ knowledge via these interconnected biometric systems.</em></sup></p><hr style="width: 90%;"></center>
-
-
+<center><img width="80%" src="/assets/Biometric.jpg" alt="Biometric man by Welleman"></center>
 
 ## Our society is complex. 
 
@@ -103,8 +97,14 @@ Digital Identity experts are not biometrics experts. The role that biometrics ca
 Biometrics have a great potential to be quite dangerous if abused. The ethical side of the industry see that they have great potential to address some use-cases (such as recovery) that otherwise would be very difficult. 
 
 ## Image Commentary	
-The image reflects a range of the different biometrics modalities. It was created commons licensed. We note that the man in the image is white and this reflects one of the challenges of the industry is that often when biometrics systems are built the default human is “the white guy” and this means that women and people of color are not included in the reference data sets and training. 
-We also note that there is a law enforcement person who is watching and accessing the data invading the privacy of the individual. We like the image because it highlights the growing concerns about biometric function creep where biometric data can be shared and misuse without users’ knowledge via these interconnected biometric systems.
+
+<center><img width="80%" src="/assets/Biometric.jpg" alt="Biometric man by Welleman"><br><sup><em><a href="https://commons.wikimedia.org/wiki/File:Biometric.jpg">CC by 3.0</a></em></sup></center>
+
+This image reflects a range of different biometrics modalities.
+
+We note that the subject in the image is a white male and this reflects one of the questions about the industry, is it true that biometrics systems are built based on a default human “the white guy”? Does this mean that women and people of color are not included, or biometric systems are inherently biased? We also note that there is a law enforcement person who is watching and accessing the data invading the privacy of the individual. 
+
+We like the image because it highlights the growing concerns about biometric function creep where biometric data can be shared and misused without users’ knowledge via these interconnected biometric systems.
 
 ## Logistics
 
