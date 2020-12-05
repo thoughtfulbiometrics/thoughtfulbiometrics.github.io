@@ -3,9 +3,9 @@
 
  <title>Thoughtful Biometrics</title>
  <link href="/atom.xml" rel="self"/>
- <link href="http://thoughtfulbiometrics.org/"/>
- <updated>2020-11-25T15:50:36-05:00</updated>
- <id>http://thoughtfulbiometrics.org</id>
+ <link href="http://localhost:4000/"/>
+ <updated>2020-12-04T19:21:25-05:00</updated>
+ <id>http://localhost:4000</id>
  <author>
    <name>John Callahan</name>
    <email>youremailhere@gmail.com</email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Potential Topics</title>
-   <link href="http://thoughtfulbiometrics.org/potential-topics"/>
+   <link href="http://localhost:4000/potential-topics"/>
    <updated>2020-11-16T00:00:00-05:00</updated>
-   <id>http://thoughtfulbiometrics.org/topics</id>
+   <id>http://localhost:4000/topics</id>
    <content type="html">&lt;p&gt;This is not the agenda - that will be co-created at 9am pacific/ noon eastern each day of the workshop by the participants based on their inspiration.&lt;/p&gt;
 
 &lt;p&gt;When attendees register we ask them about topics they would like to discuss and this is what they named.&lt;/p&gt;
@@ -59,9 +59,9 @@
  
  <entry>
    <title>Open Spaces Technology</title>
-   <link href="http://thoughtfulbiometrics.org/open-spaces"/>
+   <link href="http://localhost:4000/open-spaces"/>
    <updated>2020-11-16T00:00:00-05:00</updated>
-   <id>http://thoughtfulbiometrics.org/open-spaces</id>
+   <id>http://localhost:4000/open-spaces</id>
    <content type="html">&lt;p&gt;This event uses a format called &lt;a href=&quot;https://en.wikipedia.org/wiki/Open_Space_Technology&quot;&gt;Open Space Technology&lt;/a&gt; and is modeled after the &lt;a href=&quot;https://internetidentityworkshop.com/&quot;&gt;Internet Identity Workshop&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;The format is over 3 decades old and was innovated to support “alive” conversations that are inspiring and action oriented.&lt;/p&gt;
@@ -74,9 +74,9 @@
  
  <entry>
    <title>Who's Coming?</title>
-   <link href="http://thoughtfulbiometrics.org/whos-coming"/>
+   <link href="http://localhost:4000/whos-coming"/>
    <updated>2020-11-16T00:00:00-05:00</updated>
-   <id>http://thoughtfulbiometrics.org/attending</id>
+   <id>http://localhost:4000/attending</id>
    <content type="html">&lt;h2 id=&quot;who-is-coming-to-the-event&quot;&gt;Who is coming to the event?&lt;/h2&gt;
 
 &lt;p&gt;We have invited a range of experts from diverse fields to the event.&lt;/p&gt;
@@ -141,9 +141,9 @@
  
  <entry>
    <title>The Thoughtful Biometrics Workshop</title>
-   <link href="http://thoughtfulbiometrics.org/"/>
+   <link href="http://localhost:4000/"/>
    <updated>2020-09-04T00:00:00-04:00</updated>
-   <id>http://thoughtfulbiometrics.org/thoughtful-biometrics</id>
+   <id>http://localhost:4000/thoughtful-biometrics</id>
    <content type="html">&lt;p&gt;The Thoughtful Biometrics Workshop is creating a space to dialogue about critical emerging issues surrounding biometric and digital identity technologies.&lt;/p&gt;
 
 &lt;h3 id=&quot;this-is-a-3-day-virtual-virtual-event-feb-1-3-and-5&quot;&gt;This is a 3 day virtual virtual event. Feb 1, 3 and 5.&lt;/h3&gt;
