@@ -4,13 +4,37 @@
  <title>Thoughtful Biometrics</title>
  <link href="/atom.xml" rel="self"/>
  <link href="http://thoughtfulbiometrics.org/"/>
- <updated>2020-12-08T18:44:31-05:00</updated>
+ <updated>2020-12-10T14:29:54-05:00</updated>
  <id>http://thoughtfulbiometrics.org</id>
  <author>
    <name>John Callahan</name>
    <email>youremailhere@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Potential Outcomes</title>
+   <link href="http://thoughtfulbiometrics.org/potential-outcomes"/>
+   <updated>2020-12-10T00:00:00-05:00</updated>
+   <id>http://thoughtfulbiometrics.org/outcomes</id>
+   <content type="html">&lt;p&gt;The followings are some ideas about potential outcomes in no particular priority order:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Awareness/education around biometric modalities, weaknesses/strengths, related issues (including civil liberty issues), regulations, technical challenges&lt;/li&gt;
+  &lt;li&gt;Standards activities guidance, awareness, reports&lt;/li&gt;
+  &lt;li&gt;Best practices, use cases (e.g., entry-exit systems, KYC/AML, etc.)&lt;/li&gt;
+  &lt;li&gt;Regulations - global, regional, and national&lt;/li&gt;
+  &lt;li&gt;Roadmaps (technical, legal - including civil liberty, business) for use cases and modalities (by this community and others organizations like the BI)&lt;/li&gt;
+  &lt;li&gt;Futures - what is the envisioned “end state” for use cases, modalities, etc. over the next year, 5 years, 10 years?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;if-you-have-any-other-outcome-ideas-please-plan-to-attend-and-feel-free-to-reach-out&quot;&gt;If you have any other outcome ideas, please plan to attend and feel free to reach out.&lt;/h1&gt;
+
+&lt;h2 id=&quot;subscribe-for-updates&quot;&gt;Subscribe for Updates&lt;/h2&gt;
+
+&lt;center&gt;&lt;b&gt;&lt;p class=&quot;message&quot;&gt;To receive updates on the event&lt;br /&gt;&lt;a href=&quot;https://signup.thoughtfulbiometrics.org&quot; style=&quot;color:#FF0000;&quot;&gt;Subscribe&lt;/a&gt; to our mailing list.&lt;/p&gt;&lt;/b&gt;&lt;/center&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Sponsors</title>
