@@ -45,9 +45,15 @@ nav:
 
   - title: Attendees
     url: /whos-coming
-  
+
   - title: Topics
     url: /potential-topics
 
-  - title: "OpenSpaces"
+  - title: OpenSpace
     url: /open-spaces
+
+  - title: Sponsors
+    url: /sponsors
+
+  - title: Outcomes
+    url: /potential-outcomes
