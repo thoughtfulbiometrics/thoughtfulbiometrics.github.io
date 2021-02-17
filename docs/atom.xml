@@ -4,7 +4,7 @@
  <title>Thoughtful Biometrics</title>
  <link href="/atom.xml" rel="self"/>
  <link href="http://thoughtfulbiometrics.org/"/>
- <updated>2021-01-11T17:24:00-05:00</updated>
+ <updated>2021-02-17T16:59:15-05:00</updated>
  <id>http://thoughtfulbiometrics.org</id>
  <author>
    <name>John Callahan</name>
@@ -42,6 +42,8 @@
    <updated>2020-12-08T00:00:00-05:00</updated>
    <id>http://thoughtfulbiometrics.org/sponsors</id>
    <content type="html">&lt;center&gt;&lt;img width=&quot;80%&quot; src=&quot;assets/veridium_trusted-digital-identity.jpg&quot; alt=&quot;Veridium&quot; /&gt;&lt;br /&gt;&lt;sup&gt;&lt;em&gt;&lt;a href=&quot;https://veridiumid.com&quot;&gt;Veridium&lt;/a&gt;&lt;/em&gt;&lt;/sup&gt;&lt;/center&gt;
+
+&lt;center&gt;&lt;img width=&quot;80%&quot; src=&quot;assets/Acuant Logo Multi Colored.png&quot; alt=&quot;Acuant&quot; /&gt;&lt;br /&gt;&lt;sup&gt;&lt;em&gt;&lt;a href=&quot;https://Acuant.com&quot;&gt;Acuant&lt;/a&gt;&lt;/em&gt;&lt;/sup&gt;&lt;/center&gt;
 </content>
  </entry>
  
