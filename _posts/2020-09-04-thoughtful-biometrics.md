@@ -6,9 +6,9 @@ permalink: /
 
 The Thoughtful Biometrics Workshop is creating a space to dialogue about critical emerging issues surrounding biometric and digital identity technologies.
 
-### This is a 3 day virtual virtual event. Feb 1, 3 and 5.
+### This is a 3 day virtual virtual event. March 8, 10 and 12.
 
-<center><p class="message">Monday, Wednesday and Friday - 1st week, February 2021.<br><br>Each day begins 9am PST to 1pm PST / Noon EST to 5 EST.<br><br><b><a href="https://www.eventbrite.com/e/thoughtful-biometrics-workshop-tickets-128532156139" style="color:#FF0000;">Register Here</a> on EventBrite. Thank you!</b></p></center>
+<center><p class="message">Monday, Wednesday and Friday - 2nd week, March 2021.<br><br>Each day begins 9am PST to 1pm PST / Noon EST to 5 EST.<br><br><b><a href="https://www.eventbrite.com/e/thoughtful-biometrics-workshop-tickets-128532156139" style="color:#FF0000;">Register Here</a> on EventBrite. Thank you!</b></p></center>
 
 
 Biometrics technology is being used in a wide range of contexts and there in this range of existing and potential uses, there are many questions about the ethical and socially good uses.
@@ -110,9 +110,9 @@ We like the image because it highlights the growing concerns about biometric fun
 
 This is a 3 day virtual virtual event.
 
-### Feb 1, 3 and 5.
+### March 8, 10 and 12.
 
-It is on Monday, Wednesday and Friday the first week of February 2021.
+It is on Monday, Wednesday and Friday the second week of March 2021.
 Each day will begin at 9am PST to 1pm PST / Noon EST to 5 EST.  
 
 We are looking for sponsors who want to support this kind of dialogue.
