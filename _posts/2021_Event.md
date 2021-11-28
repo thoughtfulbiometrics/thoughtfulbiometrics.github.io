@@ -30,7 +30,7 @@ Biometrics technology is being used in a wide range of contexts and there in thi
 * What are the dangers of their use?
 * What are the appropriate and even good uses?
 
-<center><img width="80%" src="/assets/Biometric.jpg" alt="Biometric man by Welleman"></center>
+<center><img width="40%" src="/assets/Biometric.jpg" alt="Biometric man by Welleman"></center>
 
 ## Our society is complex.
 
@@ -103,7 +103,7 @@ Biometrics have a great potential to be quite dangerous if abused. The ethical s
 
 ## Image Commentary
 
-<center><img width="80%" src="/assets/Biometric.jpg" alt="Biometric man by Welleman"><br><sup><em><a href="https://commons.wikimedia.org/wiki/File:Biometric.jpg">CC by 3.0</a></em></sup></center>
+<center><img width="5%" src="/assets/Biometric.jpg" alt="Biometric man by Welleman"><br><sup><em><a href="https://commons.wikimedia.org/wiki/File:Biometric.jpg">CC by 3.0</a></em></sup></center>
 
 This image reflects a range of different biometrics modalities.
 
