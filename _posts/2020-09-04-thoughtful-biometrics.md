@@ -8,7 +8,7 @@ The Thoughtful Biometrics Workshop is creating a space to dialogue about critica
 
 ### This is a 3 day virtual virtual event. In the late winter / early spring 2022. 
 
-<span style="color:yellow"> *Please [fill out this form](https://docs.google.com/forms/d/e/1FAIpQLSe6lrXPP7f1tMvFVSo3dyFp7wLt18QEvkeTopNVGvbuk3eApw/viewform?usp=sf_link) to be updated when registration opens.* </span>
+* _Please [fill out this form](https://docs.google.com/forms/d/e/1FAIpQLSe6lrXPP7f1tMvFVSo3dyFp7wLt18QEvkeTopNVGvbuk3eApw/viewform?usp=sf_link) to be updated when registration opens._
 
 
 Biometrics technology is being used in a wide range of contexts and there in this range of existing and potential uses, there are many questions about the ethical and socially good uses.
