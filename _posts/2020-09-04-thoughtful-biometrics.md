@@ -77,7 +77,7 @@ _The Conveners List is being formed Still_
 
 ## Image Commentary
 
-<center><img width="80%" src="/assets/Biometric.jpg" alt="Biometric man by Welleman"><br><sup><em><a href="https://commons.wikimedia.org/wiki/File:Biometric.jpg">CC by 3.0</a></em></sup></center>
+<center><img width="50%" src="/assets/Biometric.jpg" alt="Biometric man by Welleman"><br><sup><em><a href="https://commons.wikimedia.org/wiki/File:Biometric.jpg">CC by 3.0</a></em></sup></center>
 
 This image reflects a range of different biometrics modalities.
 
