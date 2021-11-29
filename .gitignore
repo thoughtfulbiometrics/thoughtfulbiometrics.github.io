@@ -5,6 +5,10 @@ _site
 .sass-cache
 .jekyll-cache
 
+# Ignore local bundler install
+.bundle
+vendor/
+
 # Numerous always-ignore extensions
 *.diff
 *.err
