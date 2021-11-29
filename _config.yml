@@ -43,17 +43,20 @@ nav:
   - title: Home
     url: /
 
-  - title: Attendees
-    url: /whos-coming
-
-  - title: Topics
-    url: /potential-topics
-
   - title: OpenSpace
-    url: /open-spaces
+    url: /open-spaces/
 
-  - title: Sponsors
-    url: /sponsors
+  - title: 2021Event
+    url: /2021-event/
 
-  - title: Outcomes
-    url: /potential-outcomes
+#  - title: Attendees
+#    url: /whos-coming
+
+#  - title: Topics
+#    url: /potential-topics
+
+#  - title: Sponsors
+#    url: /sponsors
+
+#  - title: Outcomes
+#    url: /potential-outcomes

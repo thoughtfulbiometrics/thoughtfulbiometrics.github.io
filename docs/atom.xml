@@ -4,7 +4,7 @@
  <title>Thoughtful Biometrics</title>
  <link href="/atom.xml" rel="self"/>
  <link href="http://thoughtfulbiometrics.org/"/>
- <updated>2021-02-17T17:07:02-05:00</updated>
+ <updated>2021-11-28T23:00:03-05:00</updated>
  <id>http://thoughtfulbiometrics.org</id>
  <author>
    <name>John Callahan</name>
@@ -13,185 +13,26 @@
 
  
  <entry>
-   <title>Potential Outcomes</title>
-   <link href="http://thoughtfulbiometrics.org/potential-outcomes"/>
-   <updated>2020-12-10T00:00:00-05:00</updated>
-   <id>http://thoughtfulbiometrics.org/outcomes</id>
-   <content type="html">&lt;p&gt;The followings are some ideas about potential outcomes in no particular priority order:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Awareness/education around biometric modalities, weaknesses/strengths, related issues (including civil liberty issues), regulations, technical challenges&lt;/li&gt;
-  &lt;li&gt;Standards activities guidance, awareness, reports&lt;/li&gt;
-  &lt;li&gt;Best practices, use cases (e.g., entry-exit systems, KYC/AML, etc.)&lt;/li&gt;
-  &lt;li&gt;Regulations - global, regional, and national&lt;/li&gt;
-  &lt;li&gt;Roadmaps (technical, legal - including civil liberty, business) for use cases and modalities (by this community and others organizations like the BI)&lt;/li&gt;
-  &lt;li&gt;Futures - what is the envisioned “end state” for use cases, modalities, etc. over the next year, 5 years, 10 years?&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;if-you-have-any-other-outcome-ideas-please-plan-to-attend-and-feel-free-to-reach-out&quot;&gt;If you have any other outcome ideas, please plan to attend and feel free to reach out.&lt;/h1&gt;
-
-&lt;h2 id=&quot;subscribe-for-updates&quot;&gt;Subscribe for Updates&lt;/h2&gt;
-
-&lt;center&gt;&lt;b&gt;&lt;p class=&quot;message&quot;&gt;To receive updates on the event&lt;br /&gt;&lt;a href=&quot;https://signup.thoughtfulbiometrics.org&quot; style=&quot;color:#FF0000;&quot;&gt;Subscribe&lt;/a&gt; to our mailing list.&lt;/p&gt;&lt;/b&gt;&lt;/center&gt;
-</content>
- </entry>
- 
- <entry>
    <title>Sponsors</title>
    <link href="http://thoughtfulbiometrics.org/sponsors"/>
-   <updated>2020-12-08T00:00:00-05:00</updated>
+   <updated>2021-11-28T00:00:00-05:00</updated>
    <id>http://thoughtfulbiometrics.org/sponsors</id>
-   <content type="html">&lt;center&gt;&lt;img width=&quot;80%&quot; src=&quot;assets/veridium_trusted-digital-identity.jpg&quot; alt=&quot;Veridium&quot; /&gt;&lt;br /&gt;&lt;sup&gt;&lt;em&gt;&lt;a href=&quot;https://veridiumid.com&quot;&gt;Veridium&lt;/a&gt;&lt;/em&gt;&lt;/sup&gt;&lt;/center&gt;
-
-&lt;center&gt;&lt;img width=&quot;80%&quot; src=&quot;assets/Acuant Logo Multi Colored.png&quot; alt=&quot;Acuant&quot; /&gt;&lt;br /&gt;&lt;sup&gt;&lt;em&gt;&lt;a href=&quot;https://Acuant.com&quot;&gt;Acuant&lt;/a&gt;&lt;/em&gt;&lt;/sup&gt;&lt;/center&gt;
+   <content type="html">&lt;p&gt;Sponsors Coming - &lt;em&gt;please contact us if you are interested in sponsoring&lt;/em&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
-   <title>Potential Topics</title>
-   <link href="http://thoughtfulbiometrics.org/potential-topics"/>
-   <updated>2020-11-16T00:00:00-05:00</updated>
-   <id>http://thoughtfulbiometrics.org/topics</id>
-   <content type="html">&lt;p&gt;This is not the agenda - that will be co-created at 9am pacific/ noon eastern each day of the workshop by the participants based on their inspiration.&lt;/p&gt;
-
-&lt;p&gt;When attendees register we ask them about topics they would like to discuss and this is what they named.&lt;/p&gt;
-
-&lt;h4 id=&quot;your-topics-and-interests-are-also-welcome-please-join-us&quot;&gt;Your topics and interests are also welcome please join us.&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Biometrics in general!&lt;/li&gt;
-  &lt;li&gt;Basic Introductory Biometrics topics. Totally new to that industry.\&lt;/li&gt;
-  &lt;li&gt;101 to Biometrics.&lt;/li&gt;
-  &lt;li&gt;Open source code and open standards around biometric templates&lt;/li&gt;
-  &lt;li&gt;Enrollment processes and other best practices&lt;/li&gt;
-  &lt;li&gt;ways that people can aggregate, control and make use of the data they create with biometrics and other systems&lt;/li&gt;
-  &lt;li&gt;using biometrics as an authentication mechanism in order to “unlock” an individual’s authorizations.&lt;/li&gt;
-  &lt;li&gt;Data&lt;/li&gt;
-  &lt;li&gt;Analytics + Biometrics + Identity&lt;/li&gt;
-  &lt;li&gt;Biometrics in SSI (2)&lt;/li&gt;
-  &lt;li&gt;A Contactless biometrics on standard/mid-quality phone camera + voice Homomorphic Encryption of biometrics&lt;/li&gt;
-  &lt;li&gt;privacy &amp;amp; biometrics&lt;/li&gt;
-  &lt;li&gt;Biometrics of infants and children&lt;/li&gt;
-  &lt;li&gt;I am building a physician SSI decentralized application and we are using biometrics - we want to build it right Would love your help&lt;/li&gt;
-  &lt;li&gt;Safe Biometrics for people who don’t own a device.&lt;/li&gt;
-  &lt;li&gt;Biometrics in a NGOs &amp;amp; Government setting.&lt;/li&gt;
-  &lt;li&gt;Ethical Biometrics and AI&lt;/li&gt;
-  &lt;li&gt;Biometrics &amp;amp; SSI&lt;/li&gt;
-  &lt;li&gt;Anything Identity / Biometrics&lt;/li&gt;
-  &lt;li&gt;Biometrics used for authentication: fingerprint scanners, face unlock, vein scanners, iris scanners, near-infrared sensors, etc. Their applications. What makes them effective or not. What makes them secure or not.&lt;/li&gt;
-  &lt;li&gt;Biometrics used for surveillance: facial recognition, gait recognition, centralized biometric databases, etc. Methods, subversion, and legal aspects.&lt;/li&gt;
-  &lt;li&gt;Biometric education: fear of surveillance, local biometric evaluation, local and remote authentication, etc.&lt;/li&gt;
-  &lt;li&gt;biometric auth distributed identity security&lt;/li&gt;
-  &lt;li&gt;Infant biometrics;&lt;/li&gt;
-  &lt;li&gt;ethics of biometrics;&lt;/li&gt;
-  &lt;li&gt;getting to informed consent.&lt;/li&gt;
-  &lt;li&gt;Biometrics, data retention and data aggregation&lt;/li&gt;
-  &lt;li&gt;Surveillance Programs and Legal frameworks against coercion&lt;/li&gt;
-  &lt;li&gt;usable security biometric data disclosure&lt;/li&gt;
-  &lt;li&gt;What is the role today and what could the role tomorrow be of policy makers, at all levels of US and global government?&lt;/li&gt;
-  &lt;li&gt;Biometrics for social good.&lt;/li&gt;
-  &lt;li&gt;Biometrics that can be used to determine Race Gender and other intersectional characteristics&lt;/li&gt;
-  &lt;li&gt;oversight and governance - who decides&lt;/li&gt;
-  &lt;li&gt;Biometrics in the workplace&lt;/li&gt;
-  &lt;li&gt;Biometric jurisdiction&lt;/li&gt;
-  &lt;li&gt;How technical issues around biometrics can be distilled so that the general public in countries where new identity systems or other initiatives using biometrics can be better understood, debated, influenced, etc.&lt;/li&gt;
-  &lt;li&gt;…&lt;/li&gt;
-&lt;/ul&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Open Space Technology</title>
-   <link href="http://thoughtfulbiometrics.org/open-spaces"/>
-   <updated>2020-11-16T00:00:00-05:00</updated>
-   <id>http://thoughtfulbiometrics.org/open-spaces</id>
-   <content type="html">&lt;p&gt;This event uses a format called &lt;a href=&quot;https://en.wikipedia.org/wiki/Open_Space_Technology&quot;&gt;Open Space Technology&lt;/a&gt; and is modeled after the &lt;a href=&quot;https://internetidentityworkshop.com/&quot;&gt;Internet Identity Workshop&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;The format is over 3 decades old and was innovated to support “alive” conversations that are inspiring and action oriented.&lt;/p&gt;
-
-&lt;p&gt;Each day of the event Feb 1, 3 and 5. Participants will gather in the main room of the event and any one attending can name a topic they would like to discuss, presentation they would like to share or question they would like to have answers to.  These session conveners will then pick a time and space for that session to happen.&lt;/p&gt;
-
-&lt;p&gt;There will be three time slots each day for an hour each with a 15 min break in between them.&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Who's Coming?</title>
-   <link href="http://thoughtfulbiometrics.org/whos-coming"/>
-   <updated>2020-11-16T00:00:00-05:00</updated>
-   <id>http://thoughtfulbiometrics.org/attending</id>
-   <content type="html">&lt;h2 id=&quot;who-is-coming-to-the-event&quot;&gt;Who is coming to the event?&lt;/h2&gt;
-
-&lt;p&gt;We have invited a range of experts from diverse fields to the event.&lt;/p&gt;
-
-&lt;p&gt;This event doesn’t have “speakers” because we don’t have pre-planned sessions. They are all experts in their respective fields and will likely convene sessions.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Here are some of the people who have agreed to participate.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;kaliya-young-identity-woman&quot;&gt;Kaliya Young Identity Woman&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/zCZEBtG.jpeg&quot; width=&quot;200&quot; align=&quot;right&quot; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;producer--co-host-linkedin&quot;&gt;Producer &amp;amp; Co-host (&lt;a href=&quot;https://www.linkedin.com/in/kaliya/&quot;&gt;Linkedin&lt;/a&gt;)&lt;/h4&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://identitywoman.net/&quot;&gt;Kaliya Young&lt;/a&gt; (formerly Hamlin) is an expert in self-sovereign identity and identity on the blockchain. She is the co-author of a Comprehensive guide to Self-Sovereign Identity and is widely known as Identity Woman (its also the name of her blog and her &lt;a href=&quot;https://twitter.com/identitywoman&quot;&gt;twitter handle&lt;/a&gt;). She is committed her life to the development of an open standards based layer of the internet that empowers people.&lt;/p&gt;
-
-&lt;h3 id=&quot;asem-othman&quot;&gt;Asem Othman&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/TmfD6zB.jpg&quot; width=&quot;200&quot; align=&quot;right&quot; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;biometric-scientist-linkedin&quot;&gt;Biometric Scientist (&lt;a href=&quot;https://www.linkedin.com/in/asemothman/&quot;&gt;Linkedin&lt;/a&gt;)&lt;/h4&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://sites.google.com/site/asemawaadothman/&quot;&gt;Dr. Asem Othman&lt;/a&gt; has more than ten years as a researcher, developer and leader in the biometrics space. During his doctorate research at West Virginia University, he developed a system of protecting and storing biometric templates using visual cryptography, which Veridium uses today in its &lt;a href=&quot;https://veridiumid.com/&quot;&gt;VeridiumID&lt;/a&gt; solution. Dr. Othman performed his postdoctoral research at Michigan State University before joining the Computer Vision team at Veridium and leading research and development on their 4 Fingers TouchlessID technology. Dr. Othman holds more than 5 patents/patents pending and has published a variety of &lt;a href=&quot;https://sites.google.com/site/asemawaadothman/publications&quot;&gt;journal articles, conference papers, and key research entries&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h3 id=&quot;jack-john-callahan&quot;&gt;Jack “John Callahan”&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/zyppWfJ.jpg&quot; width=&quot;200&quot; align=&quot;right&quot; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;software-architect-and-developer-linkedin&quot;&gt;Software architect and developer (&lt;a href=&quot;https://www.linkedin.com/in/john-callahan-430707/&quot;&gt;Linkedin&lt;/a&gt;)&lt;/h4&gt;
-
-&lt;p&gt;Dr. John Callahan is responsible for the development of &lt;a href=&quot;https://veridiumid.com&quot;&gt;VeridiumID&lt;/a&gt;’s world class enterprise-ready biometric solutions, leading a global team of software developers, computer vision scientists and sales engineers. He has previously served as the Associate Director for Information Dominance at the U.S. Navy’s Office of Naval Research Global, London UK office, via an Intergovernmental Personnel Act assignment from the Johns Hopkins University Applied Physics Laboratory. John completed his PhD in Computer Science at the University of Maryland, College Park.&lt;/p&gt;
-
-&lt;h3 id=&quot;arun-ross&quot;&gt;Arun Ross&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/kuTrPKl.png&quot; width=&quot;200&quot; align=&quot;right&quot; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;linkedin&quot;&gt;&lt;a href=&quot;https://www.linkedin.com/in/rossarun/&quot;&gt;Linkedin&lt;/a&gt;&lt;/h4&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://rossarun.wixsite.com/arun-ross/&quot;&gt;Arun Ross&lt;/a&gt; is the John and Eva Cillag Endowed Chair in the College of Engineering and a Professor in the Department of Computer Science and Engineering at Michigan State University. He also serves as the Site Director of the NSF Center for Identification Technology Research (CITeR). He received the B.E. (Hons.) degree in Computer Science from BITS Pilani, India, and the M.S. and PhD degrees in Computer Science and Engineering from Michigan State University.&lt;/p&gt;
-
-&lt;p&gt;His expertise is in the area of biometrics, computer vision and machine learning. He has advocated for the responsible use of biometrics in multiple forums including the NATO Advanced Research Workshop on Identity and Security in Switzerland in 2018. He testified as an expert panelist in an event organized by the United Nations Counter-Terrorism Committee at the UN Headquarters in 2013.&lt;/p&gt;
-
-&lt;h3 id=&quot;stepahnie-schuckers&quot;&gt;Stepahnie Schuckers&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/dH2pl6E.png&quot; width=&quot;200&quot; align=&quot;right&quot; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;linkedin-1&quot;&gt;&lt;a href=&quot;https://www.linkedin.com/in/stephanie-schuckers-13a44a9b/&quot;&gt;Linkedin&lt;/a&gt;&lt;/h4&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.clarkson.edu/people/stephanie-schuckers&quot;&gt;Dr. Stephanie Schuckers&lt;/a&gt; is the Paynter-Krigman Endowed Professor in Engineering Science in the Department of Electrical and Computer Engineering at Clarkson University and serves as the Director of the Center of Identification Technology Research (CITeR), a National Science Foundation Industry/University Cooperative Research Center. She received her doctoral degree in Electrical Engineering from The University of Michigan. Professor Schuckers research focuses on processing and interpreting signals which arise from the human body. Her work is funded from various sources, including National Science Foundation, Department of Homeland Security, and private industry, among others. She has started her own business, testified for Congress, and has over 40 journal publications as well as over 60 other academic publications.&lt;/p&gt;
-
-&lt;p&gt;Dr. Schuckers also runs &lt;a href=&quot;https://citer.clarkson.edu/&quot;&gt;CITeR&lt;/a&gt; and the Biomedical Signal Analysis (&lt;a href=&quot;https://www.clarkson.edu/biomedical-signal-analysis-lab&quot;&gt;BIOSAL&lt;/a&gt;)&lt;/p&gt;
-
-&lt;h3 id=&quot;emanuela-marasco&quot;&gt;Emanuela Marasco&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/mdHI1mw.jpeg&quot; width=&quot;200&quot; align=&quot;right&quot; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;linkedin-2&quot;&gt;&lt;a href=&quot;https://www.linkedin.com/in/emanuela-marasco-ph-d-36527024/&quot;&gt;Linkedin&lt;/a&gt;&lt;/h4&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://sites.google.com/view/emanuelamarasco/home?authuser=0&quot;&gt;Assistant Professor at George Mason University&lt;/a&gt;, Information Sciences and Technology (IST) Department and Center for Secure Information Systems (CSIS), Volgenau School of Engineering. Previously, from February 2015 to July 2017 I was a post-doctoral researcher in Pattern Recognition and Biometrics at the University of North Carolina at Charlotte (UNC-C), Department of Computer Science and a member of the Video and Image Analysis lab (VIAlab). From February 2011 to January 2015, I was a post-doctoral Researcher at Lane Department of Computer Science and Electrical Engineering, West Virginia University and at the Center for Identification Technology (CiTeR-NSF). From February 2011 to December 2012, I was a member of the i-probe lab. I received a five-year degree (Bachelor and M.Sc.) in Computer Engineering, in March 2006, and a PhD in Computer and Automation Engineering, in December 2010, both at the University of Naples Federico II (Italy).&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>The Thoughtful Biometrics Workshop</title>
+   <title>The Thoughtful Biometrics Workshop 2022</title>
    <link href="http://thoughtfulbiometrics.org/"/>
-   <updated>2020-09-04T00:00:00-04:00</updated>
+   <updated>2021-11-27T00:00:00-05:00</updated>
    <id>http://thoughtfulbiometrics.org/thoughtful-biometrics</id>
    <content type="html">&lt;p&gt;The Thoughtful Biometrics Workshop is creating a space to dialogue about critical emerging issues surrounding biometric and digital identity technologies.&lt;/p&gt;
 
-&lt;h3 id=&quot;this-is-a-3-day-virtual-virtual-event-march-8-10-and-12&quot;&gt;This is a 3 day virtual virtual event. March 8, 10 and 12.&lt;/h3&gt;
+&lt;h3 id=&quot;this-is-a-3-day-virtual-virtual-event-in-the-late-winter--early-spring-2022&quot;&gt;This is a 3 day virtual virtual event. In the late winter / early spring 2022.&lt;/h3&gt;
 
-&lt;center&gt;&lt;p class=&quot;message&quot;&gt;Monday, Wednesday and Friday - 2nd week, March 2021.&lt;br /&gt;&lt;br /&gt;Each day begins 9am PST to 1pm PST / Noon EST to 5 EST.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;a href=&quot;https://www.eventbrite.com/e/thoughtful-biometrics-workshop-tickets-128532156139&quot; style=&quot;color:#FF0000;&quot;&gt;Register Here&lt;/a&gt; on EventBrite. Thank you!&lt;/b&gt;&lt;/p&gt;&lt;/center&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;Please &lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLSe6lrXPP7f1tMvFVSo3dyFp7wLt18QEvkeTopNVGvbuk3eApw/viewform?usp=sf_link&quot;&gt;fill out this form&lt;/a&gt; to be updated when registration opens.&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;Biometrics technology is being used in a wide range of contexts and there in this range of existing and potential uses, there are many questions about the ethical and socially good uses.&lt;/p&gt;
 
@@ -209,7 +50,192 @@
   &lt;li&gt;What are the appropriate and even good uses?&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;center&gt;&lt;img width=&quot;80%&quot; src=&quot;/assets/Biometric.jpg&quot; alt=&quot;Biometric man by Welleman&quot; /&gt;&lt;/center&gt;
+&lt;center&gt;&lt;img width=&quot;40%&quot; src=&quot;/assets/Biometric.jpg&quot; alt=&quot;Biometric man by Welleman&quot; /&gt;&lt;/center&gt;
+
+&lt;h2 id=&quot;our-society-is-complex&quot;&gt;Our society is complex.&lt;/h2&gt;
+
+&lt;p&gt;The systems within it are complex and built by networks of professionals each with their own deep technical expertise.&lt;/p&gt;
+
+&lt;p&gt;One of the challenges we face now is that these professionals are so deep in their own fields they rarely talk to those in neighboring communities who are technologies all come together in these systems.&lt;/p&gt;
+
+&lt;p&gt;We note that there are discussions happening between these professionals but usually within companies and small groups bubbles that have never been open or include more individuals in an open and transparent discussion.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Our hope is this event creates more cross-pollination and exploration of the technologies along with the social and policy implications of them&lt;/strong&gt;. We invite discussion about tangible risks/threat models and all levels from the micro to the macro systems.&lt;/p&gt;
+
+&lt;h3 id=&quot;we-want-to-expand-the-conversation-inclusive-to-support-hearing-the-voices-at-the-edges&quot;&gt;We want to expand the conversation, inclusive to support “hearing” the voices at the edges.&lt;/h3&gt;
+
+&lt;p&gt;We welcome the participation of people who ask serious questions about these systems.&lt;br /&gt;
+We also want to invite those active in the industry who want to respond in a meaningful way to thoughtful criticism. Our vision for the workshop is inspired by our ongoing participation in&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;This workshop is not to “sell” biometrics products like the Connect:ID Conference or K(n)ow Identity Conference by OWI.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;we-have-several-starting-axioms-for-this-event&quot;&gt;We have several starting axioms for this event:&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Biometrics are a technology that is being used and will not be vanishing.&lt;/li&gt;
+  &lt;li&gt;There are a range of uses for these technologies that can be good and can be bad.&lt;/li&gt;
+  &lt;li&gt;We value discernment about the application of biometrics technology.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Our vision for the convene a range of constituencies whose work touches on biometrics and use in the real world.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Biometrics Community&lt;/li&gt;
+  &lt;li&gt;Researchers and scientist  who is looking for new ideas to work on&lt;/li&gt;
+  &lt;li&gt;Identity Community&lt;/li&gt;
+  &lt;li&gt;Commercial Users of systems&lt;/li&gt;
+  &lt;li&gt;Regulators and policy makers&lt;/li&gt;
+  &lt;li&gt;Cybersecurity Professionals&lt;/li&gt;
+  &lt;li&gt;Privacy Professionals&lt;/li&gt;
+  &lt;li&gt;Humanitarian Groups&lt;/li&gt;
+  &lt;li&gt;Police Accountability Groups&lt;/li&gt;
+  &lt;li&gt;Citizen Watchdog Groups&lt;/li&gt;
+  &lt;li&gt;Students and Researchers&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We hope that the conversations catalyzed at the event are starting points for ongoing work in fora that touch on biometrics issues.&lt;/p&gt;
+
+&lt;h2 id=&quot;about-the-format&quot;&gt;About the Format&lt;/h2&gt;
+
+&lt;p&gt;Our inspiration for this event comes from the &lt;a href=&quot;http://www.internetidentityworkshop.com&quot;&gt;Internet Identity Workshop&lt;/a&gt; an event uses the open space technology to co-create the agenda live the day of the event. There are no keynotes or panels, it’s all about exploring the topic with professional peers from a range of industries. We are curating videos that people who are attending can watch ahead of time to get up to speed about some of the technologies and topics of interest but the format at the event is discussion driven and about peer learning. We do know great people who will be there and it is the attendees who have a passion for learning and contributing to the event that make it the success it is.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/TheDigitalArtist_biometric-4503070_640.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;the-conveners&quot;&gt;The Conveners&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;The Conveners List is being formed Still&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;image-commentary&quot;&gt;Image Commentary&lt;/h2&gt;
+
+&lt;center&gt;&lt;img width=&quot;10%&quot; src=&quot;/assets/Biometric.jpg&quot; alt=&quot;Biometric man by Welleman&quot; /&gt;&lt;br /&gt;&lt;sup&gt;&lt;em&gt;&lt;a href=&quot;https://commons.wikimedia.org/wiki/File:Biometric.jpg&quot;&gt;CC by 3.0&lt;/a&gt;&lt;/em&gt;&lt;/sup&gt;&lt;/center&gt;
+
+&lt;p&gt;This image reflects a range of different biometrics modalities.&lt;/p&gt;
+
+&lt;p&gt;We note that the subject in the image is a white male and this reflects one of the questions about the industry, is it true that biometrics systems are built based on a default human “the white guy”? Does this mean that women and people of color are not included, or biometric systems are inherently biased? We also note that there is a law enforcement person who is watching and accessing the data invading the privacy of the individual.&lt;/p&gt;
+
+&lt;p&gt;We like the image because it highlights the growing concerns about biometric function creep where biometric data can be shared and misused without users’ knowledge via these interconnected biometric systems.&lt;/p&gt;
+
+&lt;h2 id=&quot;logistics&quot;&gt;Logistics&lt;/h2&gt;
+
+&lt;p&gt;This is a 3 day virtual virtual event.&lt;/p&gt;
+
+&lt;p&gt;It is on Monday, Wednesday and Friday - Exact Dates TBD. 
+Each day will begin at 9am PST to 1pm PST / Noon EST to 5 EST.&lt;/p&gt;
+
+&lt;p&gt;We are looking for sponsors who want to support this kind of dialogue.
+We will be hosting it virtually on the same platform that IIW uses - QiQoChat.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Potential Outcomes</title>
+   <link href="http://thoughtfulbiometrics.org/potential-outcomes"/>
+   <updated>2020-12-10T00:00:00-05:00</updated>
+   <id>http://thoughtfulbiometrics.org/outcomes</id>
+   <content type="html">&lt;p&gt;The followings are some ideas about potential outcomes in no particular priority order:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Awareness/education around biometric modalities, weaknesses/strengths, related issues (including civil liberty issues), regulations, technical challenges&lt;/li&gt;
+  &lt;li&gt;Standards activities guidance, awareness, reports&lt;/li&gt;
+  &lt;li&gt;Best practices, use cases (e.g., entry-exit systems, KYC/AML, etc.)&lt;/li&gt;
+  &lt;li&gt;Regulations - global, regional, and national&lt;/li&gt;
+  &lt;li&gt;Roadmaps (technical, legal - including civil liberty, business) for use cases and modalities (by this community and others organizations like the BI)&lt;/li&gt;
+  &lt;li&gt;Futures - what is the envisioned “end state” for use cases, modalities, etc. over the next year, 5 years, 10 years?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;if-you-have-any-other-outcome-ideas-please-plan-to-attend-and-feel-free-to-reach-out&quot;&gt;If you have any other outcome ideas, please plan to attend and feel free to reach out.&lt;/h3&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Potential Topics</title>
+   <link href="http://thoughtfulbiometrics.org/potential-topics"/>
+   <updated>2020-11-16T00:00:00-05:00</updated>
+   <id>http://thoughtfulbiometrics.org/topics</id>
+   <content type="html">&lt;p&gt;This is not the agenda - that will be co-created at 9am pacific/ noon eastern each day of the workshop by the participants based on their inspiration.&lt;/p&gt;
+
+&lt;p&gt;When attendees register we ask them about topics they would like to discuss and this is what they named.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;As attendees register - potential topics will be collected.&lt;/em&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Open Space Technology</title>
+   <link href="http://thoughtfulbiometrics.org/open-spaces"/>
+   <updated>2020-11-16T00:00:00-05:00</updated>
+   <id>http://thoughtfulbiometrics.org/open-spaces</id>
+   <content type="html">&lt;p&gt;This event uses a format called &lt;a href=&quot;https://en.wikipedia.org/wiki/Open_Space_Technology&quot;&gt;Open Space Technology&lt;/a&gt; and is modeled after the &lt;a href=&quot;https://internetidentityworkshop.com/&quot;&gt;Internet Identity Workshop&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The format is over 3 decades old and was innovated to support “alive” conversations that are inspiring and action oriented.&lt;/p&gt;
+
+&lt;p&gt;Each day of the event. Participants will gather in the main room of the event and any one attending can name a topic they would like to discuss, presentation they would like to share or question they would like to have answers to.  These session conveners will then pick a time and space for that session to happen.&lt;/p&gt;
+
+&lt;p&gt;There will be three time slots each day for an hour each with a 15 min break in between them.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Who's Coming?</title>
+   <link href="http://thoughtfulbiometrics.org/whos-coming"/>
+   <updated>2020-11-16T00:00:00-05:00</updated>
+   <id>http://thoughtfulbiometrics.org/attending</id>
+   <content type="html">&lt;h2 id=&quot;who-is-coming-to-the-event&quot;&gt;Who is coming to the event?&lt;/h2&gt;
+
+&lt;p&gt;We are inviting peoplf rom a diverse range of fields ot the event.&lt;/p&gt;
+
+&lt;p&gt;This event doesn’t have “speakers” because we don’t have pre-planned sessions. They are all experts in their respective fields and will likely convene sessions.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Here are some of the people who have agreed to participate.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;kaliya-young-identity-woman&quot;&gt;Kaliya Young Identity Woman&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/zCZEBtG.jpeg&quot; width=&quot;200&quot; align=&quot;right&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;producer--co-host-linkedin&quot;&gt;Producer &amp;amp; Co-host (&lt;a href=&quot;https://www.linkedin.com/in/kaliya/&quot;&gt;Linkedin&lt;/a&gt;)&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://identitywoman.net/&quot;&gt;Kaliya Young&lt;/a&gt; (formerly Hamlin) is an expert in self-sovereign identity and identity on the blockchain. She is the co-author of a Comprehensive guide to Self-Sovereign Identity and is widely known as Identity Woman (its also the name of her blog and her &lt;a href=&quot;https://twitter.com/identitywoman&quot;&gt;twitter handle&lt;/a&gt;). She is committed her life to the development of an open standards based layer of the internet that empowers people.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;This page will get filled out in the coming months.&lt;/em&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>The Thoughtful Biometrics Workshop 2021</title>
+   <link href="http://thoughtfulbiometrics.org/2021-event/"/>
+   <updated>2020-09-04T00:00:00-04:00</updated>
+   <id>http://thoughtfulbiometrics.org/2021_Event</id>
+   <content type="html">&lt;p&gt;The First Thoughtful Biometrics conference was held March 8, 10, and 12 that is Monday, Wednesday and Friday - 2nd week, March 2021.&lt;/p&gt;
+
+&lt;h1 id=&quot;book-of-proceedings&quot;&gt;Book of Proceedings&lt;/h1&gt;
+&lt;p&gt;Here is the book of proceedings for the 2021 Thoughful Biometrics&lt;/p&gt;
+
+&lt;h1 id=&quot;this-page-is-an-archive-of-the-website-content&quot;&gt;This page is an Archive of the website content.&lt;/h1&gt;
+
+&lt;p&gt;Biometrics technology is being used in a wide range of contexts and there in this range of existing and potential uses, there are many questions about the ethical and socially good uses.&lt;/p&gt;
+
+&lt;h2 id=&quot;sponsors&quot;&gt;Sponsors&lt;/h2&gt;
+
+&lt;center&gt;&lt;img width=&quot;80%&quot; src=&quot;/assets/veridium_trusted-digital-identity.jpg&quot; alt=&quot;Veridium&quot; /&gt;&lt;br /&gt;&lt;sup&gt;&lt;em&gt;&lt;a href=&quot;https://veridiumid.com&quot;&gt;Veridium&lt;/a&gt;&lt;/em&gt;&lt;/sup&gt;&lt;/center&gt;
+
+&lt;center&gt;&lt;img width=&quot;80%&quot; src=&quot;/assets/Acuant-Logo-Multi-Colored.png&quot; alt=&quot;Acuant&quot; /&gt;&lt;br /&gt;&lt;sup&gt;&lt;em&gt;&lt;a href=&quot;https://Acuant.com&quot;&gt;Acuant&lt;/a&gt;&lt;/em&gt;&lt;/sup&gt;&lt;/center&gt;
+
+&lt;center&gt;&lt;img width=&quot;80%&quot; src=&quot;/assets/accessnow.png&quot; alt=&quot;AccessNow&quot; /&gt;&lt;br /&gt;&lt;sup&gt;&lt;em&gt;&lt;a href=&quot;https://www.accessnow.org/&quot;&gt;AccessNow&lt;/a&gt;&lt;/em&gt;&lt;/sup&gt;&lt;/center&gt;
+
+&lt;h2 id=&quot;invitation-so-the-2021-event-why-we-need-this-event&quot;&gt;Invitation so the 2021 event why we need this event:&lt;/h2&gt;
+
+&lt;p&gt;The Thoughtful Biometrics Workshop is creating a space to dialogue about critical emerging issues surrounding biometric and digital identity technologies.&lt;/p&gt;
+
+&lt;p&gt;Biometrics technology is being used in a wide range of contexts and there in this range of existing and potential uses, there are many questions about the ethical and socially good uses.&lt;/p&gt;
+
+&lt;h3 id=&quot;questions-include&quot;&gt;Questions include:&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;How do they work?&lt;/li&gt;
+  &lt;li&gt;How are they being used?&lt;/li&gt;
+  &lt;li&gt;What are the dangers of their use?&lt;/li&gt;
+  &lt;li&gt;What are the appropriate and even good uses?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;center&gt;&lt;img width=&quot;40%&quot; src=&quot;/assets/Biometric.jpg&quot; alt=&quot;Biometric man by Welleman&quot; /&gt;&lt;/center&gt;
 
 &lt;h2 id=&quot;our-society-is-complex&quot;&gt;Our society is complex.&lt;/h2&gt;
 
@@ -286,7 +312,7 @@ Biometrics have a great potential to be quite dangerous if abused. The ethical s
 
 &lt;h2 id=&quot;image-commentary&quot;&gt;Image Commentary&lt;/h2&gt;
 
-&lt;center&gt;&lt;img width=&quot;80%&quot; src=&quot;/assets/Biometric.jpg&quot; alt=&quot;Biometric man by Welleman&quot; /&gt;&lt;br /&gt;&lt;sup&gt;&lt;em&gt;&lt;a href=&quot;https://commons.wikimedia.org/wiki/File:Biometric.jpg&quot;&gt;CC by 3.0&lt;/a&gt;&lt;/em&gt;&lt;/sup&gt;&lt;/center&gt;
+&lt;center&gt;&lt;img width=&quot;5%&quot; src=&quot;/assets/Biometric.jpg&quot; alt=&quot;Biometric man by Welleman&quot; /&gt;&lt;br /&gt;&lt;sup&gt;&lt;em&gt;&lt;a href=&quot;https://commons.wikimedia.org/wiki/File:Biometric.jpg&quot;&gt;CC by 3.0&lt;/a&gt;&lt;/em&gt;&lt;/sup&gt;&lt;/center&gt;
 
 &lt;p&gt;This image reflects a range of different biometrics modalities.&lt;/p&gt;
 
@@ -306,13 +332,119 @@ Each day will begin at 9am PST to 1pm PST / Noon EST to 5 EST.&lt;/p&gt;
 &lt;p&gt;We are looking for sponsors who want to support this kind of dialogue.
 We will be hosting it virtually on the same platform that IIW uses - QiQoChat.&lt;/p&gt;
 
-&lt;h2 id=&quot;register-for-the-event&quot;&gt;Register for the Event&lt;/h2&gt;
+&lt;h2 id=&quot;who-came-to-the-event&quot;&gt;Who came to the event?&lt;/h2&gt;
 
-&lt;center&gt;&lt;b&gt;&lt;p class=&quot;message&quot;&gt;&lt;a href=&quot;https://www.eventbrite.com/e/thoughtful-biometrics-workshop-tickets-128532156139&quot; style=&quot;color:#FF0000;&quot;&gt;Register Here&lt;/a&gt; on EventBrite. Thank you!&lt;/p&gt;&lt;/b&gt;&lt;/center&gt;
+&lt;p&gt;We have invited a range of experts from diverse fields to the event.&lt;/p&gt;
 
-&lt;h2 id=&quot;subscribe-for-updates&quot;&gt;Subscribe for Updates&lt;/h2&gt;
+&lt;p&gt;This event doesn’t have “speakers” because we don’t have pre-planned sessions. They are all experts in their respective fields and will likely convene sessions.&lt;/p&gt;
 
-&lt;center&gt;&lt;b&gt;&lt;p class=&quot;message&quot;&gt;To receive updates on the event&lt;br /&gt;&lt;a href=&quot;https://signup.thoughtfulbiometrics.org&quot; style=&quot;color:#FF0000;&quot;&gt;Subscribe&lt;/a&gt; to our mailing list.&lt;/p&gt;&lt;/b&gt;&lt;/center&gt;
+&lt;p&gt;&lt;strong&gt;Here are some of the people who have agreed to participate.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;kaliya-young-identity-woman&quot;&gt;Kaliya Young Identity Woman&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/zCZEBtG.jpeg&quot; width=&quot;200&quot; align=&quot;right&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;producer--co-host-linkedin&quot;&gt;Producer &amp;amp; Co-host (&lt;a href=&quot;https://www.linkedin.com/in/kaliya/&quot;&gt;Linkedin&lt;/a&gt;)&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://identitywoman.net/&quot;&gt;Kaliya Young&lt;/a&gt; (formerly Hamlin) is an expert in self-sovereign identity and identity on the blockchain. She is the co-author of a Comprehensive guide to Self-Sovereign Identity and is widely known as Identity Woman (its also the name of her blog and her &lt;a href=&quot;https://twitter.com/identitywoman&quot;&gt;twitter handle&lt;/a&gt;). She is committed her life to the development of an open standards based layer of the internet that empowers people.&lt;/p&gt;
+
+&lt;h3 id=&quot;asem-othman&quot;&gt;Asem Othman&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/TmfD6zB.jpg&quot; width=&quot;200&quot; align=&quot;right&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;biometric-scientist-linkedin&quot;&gt;Biometric Scientist (&lt;a href=&quot;https://www.linkedin.com/in/asemothman/&quot;&gt;Linkedin&lt;/a&gt;)&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://sites.google.com/site/asemawaadothman/&quot;&gt;Dr. Asem Othman&lt;/a&gt; has more than ten years as a researcher, developer and leader in the biometrics space. During his doctorate research at West Virginia University, he developed a system of protecting and storing biometric templates using visual cryptography, which Veridium uses today in its &lt;a href=&quot;https://veridiumid.com/&quot;&gt;VeridiumID&lt;/a&gt; solution. Dr. Othman performed his postdoctoral research at Michigan State University before joining the Computer Vision team at Veridium and leading research and development on their 4 Fingers TouchlessID technology. Dr. Othman holds more than 5 patents/patents pending and has published a variety of &lt;a href=&quot;https://sites.google.com/site/asemawaadothman/publications&quot;&gt;journal articles, conference papers, and key research entries&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;jack-john-callahan&quot;&gt;Jack “John Callahan”&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/zyppWfJ.jpg&quot; width=&quot;200&quot; align=&quot;right&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;software-architect-and-developer-linkedin&quot;&gt;Software architect and developer (&lt;a href=&quot;https://www.linkedin.com/in/john-callahan-430707/&quot;&gt;Linkedin&lt;/a&gt;)&lt;/h4&gt;
+
+&lt;p&gt;Dr. John Callahan is responsible for the development of &lt;a href=&quot;https://veridiumid.com&quot;&gt;VeridiumID&lt;/a&gt;’s world class enterprise-ready biometric solutions, leading a global team of software developers, computer vision scientists and sales engineers. He has previously served as the Associate Director for Information Dominance at the U.S. Navy’s Office of Naval Research Global, London UK office, via an Intergovernmental Personnel Act assignment from the Johns Hopkins University Applied Physics Laboratory. John completed his PhD in Computer Science at the University of Maryland, College Park.&lt;/p&gt;
+
+&lt;h3 id=&quot;arun-ross&quot;&gt;Arun Ross&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/kuTrPKl.png&quot; width=&quot;200&quot; align=&quot;right&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;linkedin&quot;&gt;&lt;a href=&quot;https://www.linkedin.com/in/rossarun/&quot;&gt;Linkedin&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://rossarun.wixsite.com/arun-ross/&quot;&gt;Arun Ross&lt;/a&gt; is the John and Eva Cillag Endowed Chair in the College of Engineering and a Professor in the Department of Computer Science and Engineering at Michigan State University. He also serves as the Site Director of the NSF Center for Identification Technology Research (CITeR). He received the B.E. (Hons.) degree in Computer Science from BITS Pilani, India, and the M.S. and PhD degrees in Computer Science and Engineering from Michigan State University.&lt;/p&gt;
+
+&lt;p&gt;His expertise is in the area of biometrics, computer vision and machine learning. He has advocated for the responsible use of biometrics in multiple forums including the NATO Advanced Research Workshop on Identity and Security in Switzerland in 2018. He testified as an expert panelist in an event organized by the United Nations Counter-Terrorism Committee at the UN Headquarters in 2013.&lt;/p&gt;
+
+&lt;h3 id=&quot;stepahnie-schuckers&quot;&gt;Stepahnie Schuckers&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/dH2pl6E.png&quot; width=&quot;200&quot; align=&quot;right&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;linkedin-1&quot;&gt;&lt;a href=&quot;https://www.linkedin.com/in/stephanie-schuckers-13a44a9b/&quot;&gt;Linkedin&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.clarkson.edu/people/stephanie-schuckers&quot;&gt;Dr. Stephanie Schuckers&lt;/a&gt; is the Paynter-Krigman Endowed Professor in Engineering Science in the Department of Electrical and Computer Engineering at Clarkson University and serves as the Director of the Center of Identification Technology Research (CITeR), a National Science Foundation Industry/University Cooperative Research Center. She received her doctoral degree in Electrical Engineering from The University of Michigan. Professor Schuckers research focuses on processing and interpreting signals which arise from the human body. Her work is funded from various sources, including National Science Foundation, Department of Homeland Security, and private industry, among others. She has started her own business, testified for Congress, and has over 40 journal publications as well as over 60 other academic publications.&lt;/p&gt;
+
+&lt;p&gt;Dr. Schuckers also runs &lt;a href=&quot;https://citer.clarkson.edu/&quot;&gt;CITeR&lt;/a&gt; and the Biomedical Signal Analysis (&lt;a href=&quot;https://www.clarkson.edu/biomedical-signal-analysis-lab&quot;&gt;BIOSAL&lt;/a&gt;)&lt;/p&gt;
+
+&lt;h3 id=&quot;emanuela-marasco&quot;&gt;Emanuela Marasco&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/mdHI1mw.jpeg&quot; width=&quot;200&quot; align=&quot;right&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;linkedin-2&quot;&gt;&lt;a href=&quot;https://www.linkedin.com/in/emanuela-marasco-ph-d-36527024/&quot;&gt;Linkedin&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://sites.google.com/view/emanuelamarasco/home?authuser=0&quot;&gt;Assistant Professor at George Mason University&lt;/a&gt;, Information Sciences and Technology (IST) Department and Center for Secure Information Systems (CSIS), Volgenau School of Engineering. Previously, from February 2015 to July 2017 I was a post-doctoral researcher in Pattern Recognition and Biometrics at the University of North Carolina at Charlotte (UNC-C), Department of Computer Science and a member of the Video and Image Analysis lab (VIAlab). From February 2011 to January 2015, I was a post-doctoral Researcher at Lane Department of Computer Science and Electrical Engineering, West Virginia University and at the Center for Identification Technology (CiTeR-NSF). From February 2011 to December 2012, I was a member of the i-probe lab. I received a five-year degree (Bachelor and M.Sc.) in Computer Engineering, in March 2006, and a PhD in Computer and Automation Engineering, in December 2010, both at the University of Naples Federico II (Italy).&lt;/p&gt;
+
+&lt;h2 id=&quot;proposed-topics&quot;&gt;PROPOSED TOPICS&lt;/h2&gt;
+&lt;p&gt;When attendees register we ask them about topics they would like to discuss and this is what they named.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Biometrics in general!&lt;/li&gt;
+  &lt;li&gt;Basic Introductory Biometrics topics. Totally new to that industry.\&lt;/li&gt;
+  &lt;li&gt;101 to Biometrics.&lt;/li&gt;
+  &lt;li&gt;Open source code and open standards around biometric templates&lt;/li&gt;
+  &lt;li&gt;Enrollment processes and other best practices ways that people can aggregate, control and make use of the data they create with biometrics and other systems using biometrics as an authentication mechanism in order to “unlock” an individual’s authorizations.&lt;/li&gt;
+  &lt;li&gt;Data&lt;/li&gt;
+  &lt;li&gt;Analytics + Biometrics + Identity&lt;/li&gt;
+  &lt;li&gt;Biometrics in SSI (2)&lt;/li&gt;
+  &lt;li&gt;A Contactless biometrics on standard/mid-quality phone camera + voice Homomorphic Encryption of biometrics privacy &amp;amp; biometrics&lt;/li&gt;
+  &lt;li&gt;Biometrics of infants and children&lt;/li&gt;
+  &lt;li&gt;I am building a physician SSI decentralized application and we are using biometrics - we want to build it right Would love your help&lt;/li&gt;
+  &lt;li&gt;Safe Biometrics for people who don’t own a device.&lt;/li&gt;
+  &lt;li&gt;Biometrics in a NGOs &amp;amp; Government setting.&lt;/li&gt;
+  &lt;li&gt;Ethical Biometrics and AI&lt;/li&gt;
+  &lt;li&gt;Biometrics &amp;amp; SSI&lt;/li&gt;
+  &lt;li&gt;Anything Identity / Biometrics&lt;/li&gt;
+  &lt;li&gt;Biometrics used for authentication: fingerprint scanners, face unlock, vein scanners, iris scanners, near-infrared sensors, etc. Their applications. What makes them effective or not. What makes them secure or not.
+ *Biometrics used for surveillance: facial recognition, gait recognition, centralized biometric databases, etc. Methods, subversion, and legal aspects.&lt;/li&gt;
+  &lt;li&gt;Biometric education: fear of surveillance, local biometric evaluation, local and remote authentication, etc.&lt;/li&gt;
+  &lt;li&gt;biometric auth distributed identity security&lt;/li&gt;
+  &lt;li&gt;Infant biometrics;&lt;/li&gt;
+  &lt;li&gt;ethics of biometrics;&lt;/li&gt;
+  &lt;li&gt;getting to informed consent.&lt;/li&gt;
+  &lt;li&gt;Biometrics, data retention and data aggregation&lt;/li&gt;
+  &lt;li&gt;Surveillance Programs and Legal frameworks against coercion usable security biometric data disclosure&lt;/li&gt;
+  &lt;li&gt;What is the role today and what could the role tomorrow be of policy makers, at all levels of US and global government?&lt;/li&gt;
+  &lt;li&gt;Biometrics for social good.&lt;/li&gt;
+  &lt;li&gt;Biometrics that can be used to determine Race Gender and other intersectional characteristics oversight and governance - who decides&lt;/li&gt;
+  &lt;li&gt;Biometrics in the workplace&lt;/li&gt;
+  &lt;li&gt;Biometric jurisdiction&lt;/li&gt;
+  &lt;li&gt;How technical issues around biometrics can be distilled so that the general public in countries where new identity systems or other initiatives using biometrics can be better understood, debated, influenced, etc.&lt;/li&gt;
+  &lt;li&gt;…&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;potential-outcomes&quot;&gt;Potential Outcomes&lt;/h2&gt;
+
+&lt;p&gt;The followings are some ideas about potential outcomes in no particular priority order:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Awareness/education around biometric modalities, weaknesses/strengths, related issues (including civil liberty issues), regulations, technical challenges&lt;/li&gt;
+  &lt;li&gt;Standards activities guidance, awareness, reports&lt;/li&gt;
+  &lt;li&gt;Best practices, use cases (e.g., entry-exit systems, KYC/AML, etc.)&lt;/li&gt;
+  &lt;li&gt;Regulations - global, regional, and national&lt;/li&gt;
+  &lt;li&gt;Roadmaps (technical, legal - including civil liberty, business) for use cases and modalities (by this community and others organizations like the BI)&lt;/li&gt;
+  &lt;li&gt;Futures - what is the envisioned “end state” for use cases, modalities, etc. over the next year, 5 years, 10 years?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If you have any other outcome ideas, please plan to attend and feel free to reach out.&lt;/p&gt;
+
 </content>
  </entry>
  
