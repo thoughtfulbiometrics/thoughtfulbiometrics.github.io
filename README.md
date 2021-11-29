@@ -1,4 +1,4 @@
-# The Thoughtful Biometrics Workshop 
+# The Thoughtful Biometrics Workshop 2022
 
 This interactive workshop will be some time in January. 
 Dates TBD (please let us know if there are days we should avoid)

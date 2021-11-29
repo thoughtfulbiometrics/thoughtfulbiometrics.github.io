@@ -1,14 +1,14 @@
 ---
 layout: page
-title: The Thoughtful Biometrics Workshop
+title: The Thoughtful Biometrics Workshop 2022
 permalink: /
 ---
 
 The Thoughtful Biometrics Workshop is creating a space to dialogue about critical emerging issues surrounding biometric and digital identity technologies.
 
-### This is a 3 day virtual virtual event. March 8, 10 and 12.
+### This is a 3 day virtual virtual event. In the late winter / early spring 2022. 
 
-<center><p class="message">Monday, Wednesday and Friday - 2nd week, March 2021.<br><br>Each day begins 9am PST to 1pm PST / Noon EST to 5 EST.<br><br><b><a href="https://www.eventbrite.com/e/thoughtful-biometrics-workshop-tickets-128532156139" style="color:#FF0000;">Register Here</a> on EventBrite. Thank you!</b></p></center>
+* _Please [fill out this form](https://docs.google.com/forms/d/e/1FAIpQLSe6lrXPP7f1tMvFVSo3dyFp7wLt18QEvkeTopNVGvbuk3eApw/viewform?usp=sf_link) to be updated when registration opens._
 
 
 Biometrics technology is being used in a wide range of contexts and there in this range of existing and potential uses, there are many questions about the ethical and socially good uses.
@@ -25,7 +25,7 @@ Biometrics technology is being used in a wide range of contexts and there in thi
 * What are the dangers of their use?
 * What are the appropriate and even good uses?
 
-<center><img width="80%" src="/assets/Biometric.jpg" alt="Biometric man by Welleman"></center>
+<center><img width="40%" src="/assets/Biometric.jpg" alt="Biometric man by Welleman"></center>
 
 ## Our society is complex.
 
@@ -73,32 +73,11 @@ Our inspiration for this event comes from the [Internet Identity Workshop](http:
 
 ## The Conveners
 
-Here are some of the thought leader attendees (this is like the “speaker” list for a regular conference).
-
-## Asem Othman, Biometric Scientist Perspective
-
-As a lead biometric scientist, I was attending two types of events. Biometric conferences that are merely focused on the state of the art research. Where biometric academic researchers are looking to advance biometric systems (e.g., improving the accuracy, acquisition, template extraction, template storage, etc.).
-Then there are identity conferences and workshops such as IIW, where different identity ecosystems and architectures are discussed, and I always have this question: how come they discuss identity without consulting the most reliable way to do it? Biometric is the only way to prove who you are!! I am obviously biased.
-
-Then there are these biometric and identity shows that are mainly vendor-driven industrial marketing and product showcases. In this aforementioned category of the conference, participants of these shows are conservative in sharing ideas. They are by and large "selling" biometric/identity systems to governments and enterprises that buy them at scale.
-
-Therefore, I believe this workshop will bring developers, researchers, and thought leaders from these two interconnected communities to openly share ideas and be transparent about their concerns and issues about the other side.
-
-Based on my interaction with both communities, I believe these concerns are merely due to misunderstanding about the basics; from one side, about biometric and the current state of the art research in the biometric space, and on the other side, the recent fast-paced development and improvement that is happening in the different identity ecosystems. Once this misunderstanding is cleared out, and knowledge transfer occurs, this workshop will create neat and doable ideas that will advance the biometric and identity development into a new and remarkable era.
-
-## Jack “John Callahan”  Software architect and developer
-Software developers are not biometric experts.  They need guidance to build solutions that are secure and respect the privacy of individuals and organizations by preventing breaches of sensitive information in the first place. Tools like encryption based on standards within approved frameworks have long served to help developers build such solutions. Unfortunately, while biometric systems are well documented, they generally lack integration into existing authentication and authorization frameworks.
-
-This is changing: biometric authentication is now a common feature on mobile devices and support libraries, APIs and other tools are available to developers.
-
-## Kaliya Young "Identity Woman" - Digital Identity Expert
-
-Digital Identity experts are not biometrics experts. The role that biometrics can play in digital identity systems is varied. I had a lot of preconceived notions about biometrics before I learned more about how they actually worked and how they fit within systems.  It has been eye opening to engage with Jack and Asem and my hope is that other identity experts will find value in engaging with biometric experts.  
-Biometrics have a great potential to be quite dangerous if abused. The ethical side of the industry see that they have great potential to address some use-cases (such as recovery) that otherwise would be very difficult.
+_The Conveners List is being formed Still_
 
 ## Image Commentary
 
-<center><img width="80%" src="/assets/Biometric.jpg" alt="Biometric man by Welleman"><br><sup><em><a href="https://commons.wikimedia.org/wiki/File:Biometric.jpg">CC by 3.0</a></em></sup></center>
+<center><img width="10%" src="/assets/Biometric.jpg" alt="Biometric man by Welleman"><br><sup><em><a href="https://commons.wikimedia.org/wiki/File:Biometric.jpg">CC by 3.0</a></em></sup></center>
 
 This image reflects a range of different biometrics modalities.
 
@@ -110,18 +89,8 @@ We like the image because it highlights the growing concerns about biometric fun
 
 This is a 3 day virtual virtual event.
 
-### March 8, 10 and 12.
-
-It is on Monday, Wednesday and Friday the second week of March 2021.
+It is on Monday, Wednesday and Friday - Exact Dates TBD. 
 Each day will begin at 9am PST to 1pm PST / Noon EST to 5 EST.  
 
 We are looking for sponsors who want to support this kind of dialogue.
 We will be hosting it virtually on the same platform that IIW uses - QiQoChat.
-
-## Register for the Event
-
-<center><b><p class="message"><a href="https://www.eventbrite.com/e/thoughtful-biometrics-workshop-tickets-128532156139" style="color:#FF0000;">Register Here</a> on EventBrite. Thank you!</p></b></center>
-
-## Subscribe for Updates
-
-<center><b><p class="message">To receive updates on the event<br><a href="https://signup.thoughtfulbiometrics.org" style="color:#FF0000;">Subscribe</a> to our mailing list.</p></b></center>
