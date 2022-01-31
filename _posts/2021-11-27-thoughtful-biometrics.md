@@ -4,26 +4,24 @@ title: The Thoughtful Biometrics Workshop 2022
 permalink: /
 ---
 
-The Thoughtful Biometrics Workshop is creating a space to dialogue about critical emerging issues surrounding biometric and digital identity technologies.
+Thoughtful Biometrics Workshop is a space to dialogue about critical emerging issues surrounding biometric and digital identity technologies.
 
-### This is a 3 day virtual virtual event. In the late winter / early spring 2022. 
+### This is a 3 day virtual event. 18, 20, 22 April 2022. 
 
 * _Please [fill out this form](https://docs.google.com/forms/d/e/1FAIpQLSe6lrXPP7f1tMvFVSo3dyFp7wLt18QEvkeTopNVGvbuk3eApw/viewform?usp=sf_link) to be updated when registration opens._
 
 
-Biometrics technology is being used in a wide range of contexts and there in this range of existing and potential uses, there are many questions about the ethical and socially good uses.
+Biometrics technologies are used in many contexts and there are many questions about their ethical and socially good uses.
 
 ## Invitation _or_ why we need this event:
 
-The Thoughtful Biometrics Workshop is creating a space to dialogue about critical emerging issues surrounding biometric and digital identity technologies.
-
-Biometrics technology is being used in a wide range of contexts and there in this range of existing and potential uses, there are many questions about the ethical and socially good uses.
+Shouting _"Biometrics solve X brilliantly!"_ or _"Biometrics threaten Y horribly!"_ is so pre-corona. We need a middle way and place for responsible and thoughtful folks to explore hopeful paths. 
 
 ### Questions include:
 * How do they work?
 * How are they being used?
 * What are the dangers of their use?
-* What are the appropriate and even good uses?
+* What are appropriate and good uses?
 
 <center><img width="40%" src="/assets/Biometric.jpg" alt="Biometric man by Welleman"></center>
 
