@@ -2,28 +2,27 @@
 layout: page
 title: The Thoughtful Biometrics Workshop 2022
 permalink: /
+published: true
 ---
 
-The Thoughtful Biometrics Workshop is creating a space to dialogue about critical emerging issues surrounding biometric and digital identity technologies.
+**Thoughtful Biometrics Workshop** is a space to dialogue about critical emerging issues surrounding biometric and digital identity technologies.
 
-### This is a 3 day virtual virtual event. In the late winter / early spring 2022. 
+### This is a 4 day virtual event. 16, 18, 20, 25 May 2022. 
 
 * _Please [fill out this form](https://docs.google.com/forms/d/e/1FAIpQLSe6lrXPP7f1tMvFVSo3dyFp7wLt18QEvkeTopNVGvbuk3eApw/viewform?usp=sf_link) to be updated when registration opens._
 
 
-Biometrics technology is being used in a wide range of contexts and there in this range of existing and potential uses, there are many questions about the ethical and socially good uses.
+Biometrics technologies are used in many contexts and there are many questions about their ethical and socially good uses.
 
 ## Invitation _or_ why we need this event:
 
-The Thoughtful Biometrics Workshop is creating a space to dialogue about critical emerging issues surrounding biometric and digital identity technologies.
-
-Biometrics technology is being used in a wide range of contexts and there in this range of existing and potential uses, there are many questions about the ethical and socially good uses.
+Shouting _"Biometrics solve X brilliantly!"_ or _"Biometrics threaten Y horribly!"_ is so pre-corona. We need a middle way and place for responsible and thoughtful folks to explore hopeful paths.
 
 ### Questions include:
 * How do they work?
 * How are they being used?
 * What are the dangers of their use?
-* What are the appropriate and even good uses?
+* What are appropriate and good uses?
 
 <center><img width="40%" src="/assets/Biometric.jpg" alt="Biometric man by Welleman"></center>
 
@@ -39,8 +38,9 @@ We note that there are discussions happening between these professionals but usu
 
 ### We want to expand the conversation, inclusive to support “hearing” the voices at the edges.
 
-We welcome the participation of people who ask serious questions about these systems.  
-We also want to invite those active in the industry who want to respond in a meaningful way to thoughtful criticism. Our vision for the workshop is inspired by our ongoing participation in
+We welcome the participation of people who ask serious questions about these systems.
+
+We also want to invite those active in the industry who want to respond in a meaningful way to thoughtful criticism.
 
 _This workshop is not to “sell” biometrics products like the Connect:ID Conference or K(n)ow Identity Conference by OWI._  
 
@@ -87,9 +87,9 @@ We like the image because it highlights the growing concerns about biometric fun
 
 ## Logistics
 
-This is a 3 day virtual virtual event.
+This is a 4 day virtual virtual event.
 
-It is on Monday, Wednesday and Friday - Exact Dates TBD. 
+It is on Monday, Wednesday and Friday, and the following Wednesday - Exact Dates TBD.
 Each day will begin at 9am PST to 1pm PST / Noon EST to 5 EST.  
 
 We are looking for sponsors who want to support this kind of dialogue.

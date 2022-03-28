@@ -4,18 +4,539 @@
  <title>Thoughtful Biometrics</title>
  <link href="/atom.xml" rel="self"/>
  <link href="http://thoughtfulbiometrics.org/"/>
- <updated>2021-11-28T23:00:03-05:00</updated>
+ <updated>2022-03-28T08:07:32-07:00</updated>
  <id>http://thoughtfulbiometrics.org</id>
  <author>
-   <name>John Callahan</name>
+   <name>Phil Wolff</name>
    <email>youremailhere@gmail.com</email>
  </author>
 
  
  <entry>
+   <title>The Thoughtful Biometrics Workshop 2022</title>
+   <link href="http://thoughtfulbiometrics.org/temp"/>
+   <updated>2022-03-14T00:00:00-07:00</updated>
+   <id>http://thoughtfulbiometrics.org/thoughtful-biometrics</id>
+   <content type="html">&lt;p&gt;The second Thoughtful Biometrics Workshop starts the third week of May 2022.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;#intro&quot;&gt;Register&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;#invitation&quot;&gt;Why now?&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;#format&quot;&gt;The Format&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;#sponsorship&quot;&gt;Sponsorship&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;#conduct&quot;&gt;Conduct&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h1 id=&quot;intro&quot;&gt;Intro&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.eventbrite.com/e/thoughtful-biometrics-workshop-tickets-297266601407&quot;&gt;Register on Eventbrite&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Please &lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLSe6lrXPP7f1tMvFVSo3dyFp7wLt18QEvkeTopNVGvbuk3eApw/viewform?usp=sf_link&quot;&gt;fill out this form to be updated when registration opens&lt;/a&gt;. Express interest and we’ll email you when the details are firm.&lt;/p&gt;
+
+&lt;dl&gt;
+    &lt;dt&gt;When&lt;/dt&gt;
+        &lt;dd&gt;9, 11, 13 May 2022 &lt;/dd&gt;
+        &lt;dd&gt;Monday, Wednesday, Friday &lt;/dd&gt;
+        &lt;dd&gt;9:00 AM to 2:00 PM Pacific Time) &lt;/dd&gt;
+    &lt;dt&gt;Where&lt;/dt&gt;
+        &lt;dd&gt;&lt;a href=&quot;#format&quot;&gt;Virtual Unconference Format&lt;/a&gt; &lt;/dd&gt;
+    &lt;dt&gt;What&lt;/dt&gt;
+        &lt;dd&gt;20 hours of live workshop in May 2022&lt;/dd&gt;
+        &lt;dd&gt;Brings divergent biometrics policy stakeholders together to ideate a middle way&lt;/dd&gt;
+        &lt;dd&gt;You build common ground and shared understanding.&lt;/dd&gt;
+        &lt;dd&gt;&lt;a href=&quot;#history&quot;&gt;Second in a series&lt;/a&gt;. &lt;a href=&quot;#conveners&quot;&gt;Respected conveners&lt;/a&gt;. A &lt;a href=&quot;#a-proven-team&quot;&gt;Proven team&lt;/a&gt;.&lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;h1 id=&quot;invitation&quot;&gt;Invitation&lt;/h1&gt;
+
+&lt;p&gt;The Thoughtful Biometrics Workshops create a space to dialogue about critical emerging issues surrounding biometric and digital identity technologies.&lt;/p&gt;
+
+&lt;p&gt;We welcome the participation of people who ask serious questions about these systems.&lt;/p&gt;
+
+&lt;p&gt;We also want to invite those active in the industry who want to respond in a meaningful way to thoughtful criticism.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;This workshop is not to “sell” biometrics products like the Connect:ID Conference or K(n)ow Identity Conference by OWI.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;your-concerns&quot;&gt;Your Concerns&lt;/h2&gt;
+
+&lt;p&gt;Biometrics are widely used and there are many questions about their ethical and socially good uses.&lt;/p&gt;
+
+&lt;p&gt;Questions include:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;How do they work?&lt;/li&gt;
+  &lt;li&gt;How are they being used?&lt;/li&gt;
+  &lt;li&gt;What are the dangers of their use?&lt;/li&gt;
+  &lt;li&gt;What are the appropriate and even good uses?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;context-and-challenges&quot;&gt;Context and Challenges&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;#silos&quot;&gt;The problem&lt;/a&gt;, &lt;a href=&quot;#our-response&quot;&gt;Our response&lt;/a&gt;, &lt;a href=&quot;#axioms&quot;&gt;Our assumptions&lt;/a&gt;, &lt;a href=&quot;#you-should-be-here-if-you&quot;&gt;Who we need in this conversation&lt;/a&gt;
+and &lt;a href=&quot;#conveners&quot;&gt;our convener invitations to you&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;silos&quot;&gt;&lt;/a&gt;
+&lt;strong&gt;Silos.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Networks of professionals build systems, each network with their own deep technical expertise. These professionals are so deep in their own fields they rarely talk to those in neighboring communities.&lt;/p&gt;
+
+&lt;p&gt;Discussions happen between these professionals but usually within companies or small groups.&lt;/p&gt;
+
+&lt;p&gt;These isolated conversations have never been open or transparent. Until this Workshop.&lt;/p&gt;
+
+&lt;h2 id=&quot;our-response&quot;&gt;Our Response&lt;/h2&gt;
+
+&lt;p&gt;The Workshop fosters more cross-pollination and exploration of the technologies. And maps to their social and policy implications. We invite discussion about tangible risks and threat models at all levels, from the micro to the macro systems.&lt;/p&gt;
+
+&lt;p&gt;We want to expand the conversation to support “hearing” the voices at the edges.&lt;/p&gt;
+
+&lt;p&gt;We welcome people who ask serious questions about these systems.&lt;/p&gt;
+
+&lt;p&gt;We also want to invite those active in the industry who want to respond in a meaningful way to thoughtful criticism. Our vision for the workshop is inspired by our ongoing participation in&lt;/p&gt;
+
+&lt;p&gt;This workshop is not to “sell” biometrics products like the Connect:ID Conference or K(n)ow Identity Conference by OWI.&lt;/p&gt;
+
+&lt;h2 id=&quot;axioms&quot;&gt;Axioms&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Biometrics technologies are in widespread use and will not vanish.&lt;/li&gt;
+  &lt;li&gt;Their uses can be good or can be bad.&lt;/li&gt;
+  &lt;li&gt;We value discernment about the application of biometrics technology.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a name=&quot;you-should-be-here-if-you&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;you-should-be-here-if-you&quot;&gt;You should be here if you…&lt;/h2&gt;
+
+&lt;p&gt;We convene constituencies whose work touches on biometrics and use in the real world.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Biometrics Community&lt;/li&gt;
+  &lt;li&gt;Researchers and scientist who is looking for new ideas to work on&lt;/li&gt;
+  &lt;li&gt;Identity Community&lt;/li&gt;
+  &lt;li&gt;Commercial Users of systems&lt;/li&gt;
+  &lt;li&gt;Regulators and policy makers&lt;/li&gt;
+  &lt;li&gt;Cybersecurity Professionals&lt;/li&gt;
+  &lt;li&gt;Privacy Professionals&lt;/li&gt;
+  &lt;li&gt;Humanitarian Groups&lt;/li&gt;
+  &lt;li&gt;Police Accountability Groups&lt;/li&gt;
+  &lt;li&gt;Citizen Watchdog Groups&lt;/li&gt;
+  &lt;li&gt;Students and Researchers&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We hope the conversations catalyzed at the Workshop start ongoing work on biometrics issues.&lt;/p&gt;
+
+&lt;h2 id=&quot;conveners&quot;&gt;Conveners&lt;/h2&gt;
+
+&lt;p&gt;We invited experts from diverse fields to tell us why this conversation matters now. &lt;a href=&quot;#biometric-scientist-asem-othman&quot;&gt;A biometric scientist&lt;/a&gt;, &lt;a href=&quot;#software-architect-and-developer-jack-john-callahan&quot;&gt;a biometric service CEO&lt;/a&gt;, &lt;a href=&quot;#privacy-commissioner-brian-hofer&quot;&gt;a privacy commissioner&lt;/a&gt;, and &lt;a href=&quot;#digital-identity-expert-kaliya-young-identity-woman&quot;&gt;an identity expert&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;asemothman&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;biometric-scientist-asem-othman&quot;&gt;Biometric scientist Asem Othman&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/bios/asem.jpg&quot; style=&quot;border:1px #000; float:left; padding: 1em; border-radius:50%;&quot; /&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;“As a biometric and document verification researcher and developer, I was attending three types of events.&lt;/p&gt;
+
+  &lt;p&gt;Biometric conferences that are merely focused on the state-of-the-art research. Where biometric academic researchers are looking to advance biometric systems (e.g., improving the accuracy, acquisition, template extraction, template storage, etc.).&lt;/p&gt;
+
+  &lt;p&gt;Then there are identity conferences and workshops such as IIW, where different identity ecosystems and architectures are discussed, and I always have this question: how come they discuss identity without consulting the most reliable way to do it? Biometric is the only way to prove who you are!! I am obviously biased.&lt;/p&gt;
+
+  &lt;p&gt;Then there are these biometric and identity shows that are mainly vendor-driven industrial marketing and product showcases. In this aforementioned category of the conference, participants of these shows are conservative in sharing ideas. They are by and large “selling” biometric/identity systems to governments and enterprises that buy them at scale.&lt;/p&gt;
+
+  &lt;p&gt;Therefore, I believe this workshop will bring developers, researchers, and thought leaders from these two interconnected communities to openly share ideas and be transparent about their concerns and issues about the other side.&lt;/p&gt;
+
+  &lt;p&gt;Based on my interaction with both communities, I believe these concerns are merely due to misunderstanding about the basics; from one side, about biometric and the current state of the art research in the biometric space, and on the other side, the recent fast-paced development and improvement that is happening in the different identity ecosystems. Once this misunderstanding is cleared out, and knowledge transfer occurs, this workshop will create neat and doable ideas that will advance the biometric and identity development into a new and remarkable era.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;em&gt;Dr. Asem Othman (&lt;a href=&quot;https://www.linkedin.com/in/asemothman/&quot;&gt;LinkedIn&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/asem_othman&quot;&gt;Twitter&lt;/a&gt;) has more than ten years as a researcher, developer and leader in the biometrics space. During his doctoral research at West Virginia University, he developed a system of protecting and storing biometric templates using visual cryptography, which Veridium uses today in its VeridiumID solution. Dr. Othman performed his postdoctoral research at Michigan State University before joining the Computer Vision team at Veridium and leading research and development on their 4 Fingers TouchlessID technology. Dr. Othman holds more than 5 patents/patents pending and has published a variety of journal articles, conference papers, and key research entries. In February 2021, Dr. Othman joined &lt;a href=&quot;https://www.acuant.com/&quot;&gt;Acuant&lt;/a&gt;, a document verification leader, as a Director of Computer Vision and Machine Learning.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;software-architect-and-developer-jack-john-callahan&quot;&gt;Software architect and developer Jack “John Callahan”&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/bios/jack.jpg&quot; style=&quot;border:1px #000; float:left; padding: 1em; border-radius:50%;&quot; /&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;“Biometrics are more relevant than ever because of the increase in remote work due to the COVID-19 pandemic.  Protection and control (by each person) of their biometric data is paramount to assure that privacy, accessibility, inclusion, and diversity are available to all.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;em&gt;Dr. John Callahan is responsible for the development of VeridiumID’s world class enterprise-ready biometric solutions, leading a global team of software developers, computer vision scientists and sales engineers. He has previously served as the Associate Director for Information Dominance at the U.S. Navy’s Office of Naval Research Global, London UK office, via an Intergovernmental Personnel Act assignment from the Johns Hopkins University Applied Physics Laboratory. John completed his PhD in Computer Science at the University of Maryland, College Park.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;privacy-commissioner-brian-hofer&quot;&gt;Privacy commissioner Brian Hofer&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/bios/brian.jpg&quot; style=&quot;border:1px #000; float:left; padding: 1em; border-radius:50%;&quot; /&gt;
+&lt;em&gt;Brian Hofer, J.D., works with municipal and state law enforcement throughout California to create privacy and use policies regulating surveillance equipment and data sharing. He has been a featured speaker at forums organized by the California Department of Justice, RightsCon, HOPE Conference, and Berkeley Law School, among others. He has been the Chair of the City of Oakland Privacy Advisory Commission since he helped create it in 2016. Before that he led the Oakland Domain Awareness Center Ad Hoc Privacy Committee in pushing back against citywide surveillance without public review.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Hofer is Chair and Executive Director of Secure Justice, a not-for-profit that advocates against state abuse of power, and for reduction in government and corporate over-reach. They target change in government contracting and corporate complicity with government policies and practices that are inconsistent with democratic values and principles of human rights.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;digital-identity-expert-kaliya-young-identity-woman&quot;&gt;Digital identity expert Kaliya Young “Identity Woman”&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/bios/kaliya.jpg&quot; style=&quot;border:1px #000; float:left; padding: 1em; border-radius:50%;&quot; /&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;“Digital Identity experts are not biometrics experts. The role that biometrics can play in digital identity systems is varied. I had a lot of preconceived notions about biometrics before I learned more about how they actually worked and how they fit within systems. It has been eye opening to engage with Jack and Asem and my hope is that other identity experts will find value in engaging with biometric experts.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Biometrics have a great potential to be quite dangerous if abused. The ethical side of the industry see they have great potential to address some use-cases (such as recovery) that otherwise would be very difficult.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;em&gt;Kaliya Young (formerly Hamlin) is an expert in self-sovereign identity and identity on the blockchain. She is the co-author of a Comprehensive guide to Self-Sovereign Identity and is widely known as Identity Woman (it’s also the name of her blog and her twitter handle). She has committed her life to the development of an open-standards based layer of the Internet that empowers people.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;format&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;format&quot;&gt;Format&lt;/h1&gt;
+
+&lt;p&gt;This is a four-day virtual workshop.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Monday, Wednesday and Friday - 16, 18, 20 May 2022&lt;/li&gt;
+  &lt;li&gt;Wednesday, 25 May 2022: A &lt;em&gt;Day Of Action.&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;9am to 2pm Pacific / Noon to 5pm Eastern / 5pm to 10pm London&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/TBW2_4_days_flow_compressed.jpg&quot; style=&quot;border:1px #300; align:center; padding: 1em; border-radius:5%;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;its-a-proven-format&quot;&gt;It’s a proven format.&lt;/h2&gt;
+
+&lt;p&gt;Ever “sign in with X”? We developed this format over thirty &lt;em&gt;Internet Identity Workshops&lt;/em&gt;, where attendees co-create the agenda live, each day. There are no keynotes or panels; it’s about exploring the topic with professional peers from a range of industries.&lt;/p&gt;
+
+&lt;p&gt;The Workshop is discussion driven and about peer learning and co-creating. Great people will be there. Attendees with passion for learning, and for contributing to the event, make it successful.&lt;/p&gt;
+
+&lt;h2 id=&quot;how-an-unconference-works&quot;&gt;How an Unconference Works&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;Host Committee writes invitation&lt;/strong&gt; so…&lt;/li&gt;
+  &lt;li&gt;The right participants register and the…&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Attendees co-create The Agenda each morning&lt;/strong&gt; at which…&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Attendees lead sessions&lt;/strong&gt; where…&lt;/li&gt;
+  &lt;li&gt;Participants write notes for a Book of Proceedings.&lt;/li&gt;
+  &lt;li&gt;Attendees recap their takeaways at the all-hands closing circle so…&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Community emerges&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;day-one---level-setting&quot;&gt;Day One - Level Setting&lt;/h2&gt;
+
+&lt;p&gt;Our first day of TBW2 is in the World Café format. We break into small groups for discussion among strangers.&lt;/p&gt;
+
+&lt;h3 id=&quot;open-introductions&quot;&gt;Open Introductions&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Who am I&lt;/li&gt;
+  &lt;li&gt;Where am I coming from&lt;/li&gt;
+  &lt;li&gt;What I want to share or learn from this&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;world-café-for-level-setting&quot;&gt;World Café for Level Setting&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Explain World Café&lt;/li&gt;
+  &lt;li&gt;Organizers set the stage with a question for the tables.&lt;/li&gt;
+  &lt;li&gt;Each café table is a small group conversation.&lt;/li&gt;
+  &lt;li&gt;At the end of a round, one person stays, the rest go to other tables.&lt;/li&gt;
+  &lt;li&gt;Repeat for three rounds&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;harvesting-the-day&quot;&gt;Harvesting The Day&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Ask the whole room to give feedback. Post-it wall. Gisting of what you learned.&lt;/li&gt;
+  &lt;li&gt;Name potential topics for the Day Two/Three parking lot.&lt;/li&gt;
+  &lt;li&gt;Look at clusters and themes rising from this.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;days-two-and-three--open-space&quot;&gt;Days Two and Three – Open Space&lt;/h2&gt;
+
+&lt;p&gt;We’ll switch to the Open Space Technology format for the rest of the Workshop. It was innovated over thirty years to support “alive” conversations that inspire thought and action.&lt;/p&gt;
+
+&lt;h3 id=&quot;opening-circle&quot;&gt;Opening Circle&lt;/h3&gt;
+
+&lt;p&gt;Participants gather in the “main room” video chat where attendees can name a topic they would like to discuss, a presentation they would like to share, or a question they would see answers to. These session conveners pick a time and space on our “agenda wall” for that session to happen. Together, just in time, those in the room create the most relevant agenda on that day.&lt;/p&gt;
+
+&lt;h3 id=&quot;sessions&quot;&gt;Sessions&lt;/h3&gt;
+
+&lt;p&gt;There will be three one-hour time slots each day, with a 15 min break in between them. Participants facilitate their sessions. We follow the four Open Space principles:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Whoever comes to a session are the right people.&lt;/li&gt;
+  &lt;li&gt;Whenever it starts is the right time.&lt;/li&gt;
+  &lt;li&gt;Whatever happens is the only thing that could have.&lt;/li&gt;
+  &lt;li&gt;When it’s over, it’s over.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Follow the “Law of Two Feet”. Do you find yourself in a session but not learning or contributing? Find another session where you can.&lt;/p&gt;
+
+&lt;h3 id=&quot;document&quot;&gt;Document&lt;/h3&gt;
+
+&lt;p&gt;Leave footprints. During your sessions, we encourage group editing of a session google doc to document your session. The doc is for the public Workshop proceedings.&lt;/p&gt;
+
+&lt;h3 id=&quot;closing-circle&quot;&gt;Closing Circle&lt;/h3&gt;
+
+&lt;p&gt;We wrap up each day by recapping each session, so we get a sense of what we missed. We call out observations and insights, remaining concerns and future work. We thank the people who inspired us that day.&lt;/p&gt;
+
+&lt;h2 id=&quot;day-four---a-day-of-action&quot;&gt;Day Four - A Day Of Action&lt;/h2&gt;
+
+&lt;p&gt;Workshoppers choose next steps. Turn ideas into schedules, goals, calls. Choose channels, form teams, find allies.&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;team&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;a-proven-team&quot;&gt;A proven team.&lt;/h2&gt;
+
+&lt;h3 id=&quot;building-on-last-years-successes&quot;&gt;Building on last year’s successes:&lt;/h3&gt;
+
+&lt;p&gt;Positive and effective space:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Proven unconference interactions.&lt;/li&gt;
+  &lt;li&gt;Focus on bridge and community building&lt;/li&gt;
+  &lt;li&gt;Prerequisites to progress&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Your host team is skilled in facilitation and space creation:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;17 year track record convening in technical-social systems with Internet Identity Workshop since 2005&lt;/li&gt;
+  &lt;li&gt;Skilled facilitation and knowledge of how to facilitate “alive” events  in person and online&lt;/li&gt;
+  &lt;li&gt;Bringing together technologists, wonks, capital, and industry&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;img src=&quot;/assets/bios/phil.jpg&quot; style=&quot;border:1px #000; padding: 1em; border-radius:25%;&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;strong&gt;Phil Wolff&lt;/strong&gt;&lt;br /&gt;TBW Producer&lt;br /&gt;&lt;a href=&quot;https://Wider.Team/&quot;&gt;Wider.Team&lt;/a&gt;.&lt;br /&gt; &lt;a href=&quot;mailto:phil@wider.team&quot;&gt;phil@wider.team&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;tel:1-360-441-2522&quot;&gt;360-441-2522&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;img src=&quot;/assets/bios/kaliya-casual.jpg&quot; style=&quot;border:1px #000;  padding: 1em ; border-radius:25%;&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;strong&gt;Kaliya Young&lt;/strong&gt;&lt;br /&gt;IIW Co-founder&lt;br /&gt;&lt;a href=&quot;mailto:kaliya@identitywoman.net&quot;&gt;kaliya@identitywoman.net&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;a name=&quot;sponsor&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;sponsorship&quot;&gt;Sponsorship&lt;/h1&gt;
+
+&lt;h2 id=&quot;thank-you&quot;&gt;Thank You!&lt;/h2&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;TBW2’s sponsors&lt;/th&gt;
+      &lt;th&gt; &lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;img src=&quot;/assets/Planetwork-White.svg&quot; style=&quot;width:200px&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;strong&gt;&lt;a href=&quot;https://planetwork.net/&quot;&gt;Planetwork&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;“Dedicated to addressing the global imperatives of our time.”&lt;br /&gt;&lt;em&gt;TBW is a fiscal project of Planetwork NGO Ltd.&lt;/em&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;img src=&quot;/assets/paravision-logo-white.svg&quot; style=&quot;width:200px&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;strong&gt;&lt;a href=&quot;https://www.paravision.ai/company/&quot;&gt;Paravision&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;“Innovating in safety, security, and identity with AI and computer vision.”&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;And thanks to our Founding Sponsors:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://veridiumid.com&quot;&gt;Veridium&lt;/a&gt;. “Trusted digital identity for a passwordless world.”&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://Acuant.com&quot;&gt;Acuant&lt;/a&gt;. “AI-powered identity verification, regulatory compliance (AML/KYC) and digital identity solutions.”&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.accessnow.org/&quot;&gt;AccessNow&lt;/a&gt;. “We defend and extend the digital rights of users at risk around the world.”&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;why-sponsor-the-workshop&quot;&gt;Why sponsor the Workshop?&lt;/h2&gt;
+&lt;p&gt;Support this dialogue. Your investment:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Fosters a space producing “policies you can live with”&lt;/li&gt;
+  &lt;li&gt;Produces clarity about the roadblocks to a Middle Way so they can be debugged early&lt;/li&gt;
+  &lt;li&gt;Builds ongoing community among those seeking a well-informed public policy&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;And…&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Visibly supports your ESG and Corporate Social Responsibility priorities (human rights, privacy, responsible x)&lt;/li&gt;
+  &lt;li&gt;Sponsors are credited on the TBW website&lt;/li&gt;
+  &lt;li&gt;You are thanked each day&lt;/li&gt;
+  &lt;li&gt;Your letter to the community in the book of proceedings&lt;/li&gt;
+  &lt;li&gt;Includes three comp tickets&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;how-do-i-sponsor&quot;&gt;How do I sponsor?&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Contact: Kaliya Young, kaliya@identitywoman.net&lt;/li&gt;
+  &lt;li&gt;We’ll invoice you. You’ll “cut a check” to TBW2 care of Planetwork, our fiscal sponsor.&lt;/li&gt;
+  &lt;li&gt;Send your info for acknowledgement, and your logo for the website.&lt;/li&gt;
+  &lt;li&gt;Optional: your letter to the community via the Proceedings.&lt;/li&gt;
+  &lt;li&gt;Invite colleagues who can contribute to this conversation&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&quot;history&quot;&gt;History&lt;/h1&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt; &lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Event name&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Venue&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Date&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Documentation&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;#tbw1&quot;&gt;Thoughtful Biometrics Workshop&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Virtual&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;March 2021&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;../assets/TBW01_Book_of_Proceedings.pdf&quot; title=&quot;download pdf&quot;&gt;Proceedings&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Thoughtful Biometrics Workshop&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Virtual&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;May 2022&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Proceedings&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;a name=&quot;tbw1&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;the-first-thoughtful-biometrics-workshop---2021&quot;&gt;The First Thoughtful Biometrics Workshop - 2021&lt;/h3&gt;
+
+&lt;p&gt;The first Thoughtful Biometrics conference was held the week of 8 March 2021.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;TBW1 Book of Proceedings&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;../assets/TBW01_Book_of_Proceedings.pdf&quot; title=&quot;download pdf of the TBW1 proceedings&quot;&gt;Thoughtful Biometrics Workshop 01 - March 2021 - Book of Proceedings&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Contents:&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Number&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Session&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1A&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Phones – Friends or Foes!&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1C&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;How to Distinguish Between Products with Good Biometric Stewardship from those Without&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1D&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Deviceless solution design using biometrics for financial interactions (au naturel vs implants, privacy, ethics)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1F&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Social Impact of Biometrics&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2A&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Ethical Use of Biometrics&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2D&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Voice Biometrics – As a Factor in Identity Access&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2C&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Biometric Software Development&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3A&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Conversational Voice AI – B2B and B2C Standards&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3C&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;What is Self-Sovereign Identity&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3E&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Deepfakes &amp;amp; Biometric 101&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;4A&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Using Biometrics to Unlock a Cryptographic Keystore&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;4C&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;FIDO-what is it and certification&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;5A&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Biometrics and SSI - How and Where Does It Fit&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;5E&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Biometric Deepfake Use Cases and PoCs 201&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;6A&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Biometrics for Different Ages: Examples, Issues, and Future&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;6B&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Biometrics and the Role of Open Source&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;7A&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;The Privacy, Accessibility, Inclusion and Diversity (PAID) framework for Biometric Technologies&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;7E&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Biometric Incident Response&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;8A&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;How does SSI, FIDO, Physical and non-physical Biometrics, Identity and Authentication all fit together, for privacy, security and Compliance?&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;9A&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Optional: DID (what is it) and how did Biometrics come (and go) in w3c/ did-core&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;9D&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;COVID-19 Focus: How has the pandemic impacted biometrics? And what are ethical concerns related to health data collection?&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h1 id=&quot;conduct&quot;&gt;Conduct&lt;/h1&gt;
+
+&lt;p&gt;Thoughtful Biometrics Workshop Code of Conduct:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;We want to expand the conversation, and be inclusive to support “hearing” the voices at the edges.&lt;/li&gt;
+  &lt;li&gt;We welcome the participation of people who ask serious questions about these systems.&lt;/li&gt;
+  &lt;li&gt;We have invited those active in the industry who want to exchange ideas and respond in a meaningful way to thoughtful critique and criticism.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Engagement Guidelines&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;We create, together as participants, the environment that we all inhabit over the three days of the &lt;em&gt;Thoughtful Biometrics Workshop&lt;/em&gt;. As such we each are responsible for contributing to a safe space for respectful and meaningful conversations and exchange over the course of the event.&lt;/p&gt;
+
+&lt;p&gt;We expect everyone attending to conduct themselves at all times during the workshop in a respectful, professional and decent manner. No space can be completely “safe” and we agree to work together to maintain a productive, enjoyable and open space for everyone.&lt;/p&gt;
+
+&lt;p&gt;To be very explicit about Expected Behavior and Unacceptable Behavior, we like how the W3C outlined these in their Positive Work Environment Code of Ethics and Professional Conduct. We will use their descriptions to help us address any issues. &lt;a href=&quot;https://www.w3.org/Consortium/cepc/&quot;&gt;https://www.w3.org/Consortium/cepc/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;We’re here to help.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;If you encounter any behavior that causes you any concern, please bring it immediately to the attention of the event staff.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Kaliya Young. &lt;a href=&quot;mailto:kaliya@identitywoman.net&quot;&gt;kaliya@identitywoman.net&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Phil Wolff. &lt;a href=&quot;mailto:phil@wider.team&quot;&gt;phil@wider.team&lt;/a&gt; US 1-360-441-2522&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>Sponsors</title>
    <link href="http://thoughtfulbiometrics.org/sponsors"/>
-   <updated>2021-11-28T00:00:00-05:00</updated>
+   <updated>2021-11-28T00:00:00-08:00</updated>
    <id>http://thoughtfulbiometrics.org/sponsors</id>
    <content type="html">&lt;p&gt;Sponsors Coming - &lt;em&gt;please contact us if you are interested in sponsoring&lt;/em&gt;&lt;/p&gt;
 </content>
@@ -24,30 +545,28 @@
  <entry>
    <title>The Thoughtful Biometrics Workshop 2022</title>
    <link href="http://thoughtfulbiometrics.org/"/>
-   <updated>2021-11-27T00:00:00-05:00</updated>
+   <updated>2021-11-27T00:00:00-08:00</updated>
    <id>http://thoughtfulbiometrics.org/thoughtful-biometrics</id>
-   <content type="html">&lt;p&gt;The Thoughtful Biometrics Workshop is creating a space to dialogue about critical emerging issues surrounding biometric and digital identity technologies.&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;strong&gt;Thoughtful Biometrics Workshop&lt;/strong&gt; is a space to dialogue about critical emerging issues surrounding biometric and digital identity technologies.&lt;/p&gt;
 
-&lt;h3 id=&quot;this-is-a-3-day-virtual-virtual-event-in-the-late-winter--early-spring-2022&quot;&gt;This is a 3 day virtual virtual event. In the late winter / early spring 2022.&lt;/h3&gt;
+&lt;h3 id=&quot;this-is-a-4-day-virtual-event-16-18-20-25-may-2022&quot;&gt;This is a 4 day virtual event. 16, 18, 20, 25 May 2022.&lt;/h3&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;em&gt;Please &lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLSe6lrXPP7f1tMvFVSo3dyFp7wLt18QEvkeTopNVGvbuk3eApw/viewform?usp=sf_link&quot;&gt;fill out this form&lt;/a&gt; to be updated when registration opens.&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Biometrics technology is being used in a wide range of contexts and there in this range of existing and potential uses, there are many questions about the ethical and socially good uses.&lt;/p&gt;
+&lt;p&gt;Biometrics technologies are used in many contexts and there are many questions about their ethical and socially good uses.&lt;/p&gt;
 
 &lt;h2 id=&quot;invitation-or-why-we-need-this-event&quot;&gt;Invitation &lt;em&gt;or&lt;/em&gt; why we need this event:&lt;/h2&gt;
 
-&lt;p&gt;The Thoughtful Biometrics Workshop is creating a space to dialogue about critical emerging issues surrounding biometric and digital identity technologies.&lt;/p&gt;
-
-&lt;p&gt;Biometrics technology is being used in a wide range of contexts and there in this range of existing and potential uses, there are many questions about the ethical and socially good uses.&lt;/p&gt;
+&lt;p&gt;Shouting &lt;em&gt;“Biometrics solve X brilliantly!”&lt;/em&gt; or &lt;em&gt;“Biometrics threaten Y horribly!”&lt;/em&gt; is so pre-corona. We need a middle way and place for responsible and thoughtful folks to explore hopeful paths.&lt;/p&gt;
 
 &lt;h3 id=&quot;questions-include&quot;&gt;Questions include:&lt;/h3&gt;
 &lt;ul&gt;
   &lt;li&gt;How do they work?&lt;/li&gt;
   &lt;li&gt;How are they being used?&lt;/li&gt;
   &lt;li&gt;What are the dangers of their use?&lt;/li&gt;
-  &lt;li&gt;What are the appropriate and even good uses?&lt;/li&gt;
+  &lt;li&gt;What are appropriate and good uses?&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;center&gt;&lt;img width=&quot;40%&quot; src=&quot;/assets/Biometric.jpg&quot; alt=&quot;Biometric man by Welleman&quot; /&gt;&lt;/center&gt;
@@ -64,8 +583,9 @@
 
 &lt;h3 id=&quot;we-want-to-expand-the-conversation-inclusive-to-support-hearing-the-voices-at-the-edges&quot;&gt;We want to expand the conversation, inclusive to support “hearing” the voices at the edges.&lt;/h3&gt;
 
-&lt;p&gt;We welcome the participation of people who ask serious questions about these systems.&lt;br /&gt;
-We also want to invite those active in the industry who want to respond in a meaningful way to thoughtful criticism. Our vision for the workshop is inspired by our ongoing participation in&lt;/p&gt;
+&lt;p&gt;We welcome the participation of people who ask serious questions about these systems.&lt;/p&gt;
+
+&lt;p&gt;We also want to invite those active in the industry who want to respond in a meaningful way to thoughtful criticism.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;This workshop is not to “sell” biometrics products like the Connect:ID Conference or K(n)ow Identity Conference by OWI.&lt;/em&gt;&lt;/p&gt;
 
@@ -116,9 +636,9 @@ We also want to invite those active in the industry who want to respond in a mea
 
 &lt;h2 id=&quot;logistics&quot;&gt;Logistics&lt;/h2&gt;
 
-&lt;p&gt;This is a 3 day virtual virtual event.&lt;/p&gt;
+&lt;p&gt;This is a 4 day virtual virtual event.&lt;/p&gt;
 
-&lt;p&gt;It is on Monday, Wednesday and Friday - Exact Dates TBD. 
+&lt;p&gt;It is on Monday, Wednesday and Friday, and the following Wednesday - Exact Dates TBD.
 Each day will begin at 9am PST to 1pm PST / Noon EST to 5 EST.&lt;/p&gt;
 
 &lt;p&gt;We are looking for sponsors who want to support this kind of dialogue.
@@ -129,7 +649,7 @@ We will be hosting it virtually on the same platform that IIW uses - QiQoChat.&l
  <entry>
    <title>Potential Outcomes</title>
    <link href="http://thoughtfulbiometrics.org/potential-outcomes"/>
-   <updated>2020-12-10T00:00:00-05:00</updated>
+   <updated>2020-12-10T00:00:00-08:00</updated>
    <id>http://thoughtfulbiometrics.org/outcomes</id>
    <content type="html">&lt;p&gt;The followings are some ideas about potential outcomes in no particular priority order:&lt;/p&gt;
 
@@ -149,7 +669,7 @@ We will be hosting it virtually on the same platform that IIW uses - QiQoChat.&l
  <entry>
    <title>Potential Topics</title>
    <link href="http://thoughtfulbiometrics.org/potential-topics"/>
-   <updated>2020-11-16T00:00:00-05:00</updated>
+   <updated>2020-11-16T00:00:00-08:00</updated>
    <id>http://thoughtfulbiometrics.org/topics</id>
    <content type="html">&lt;p&gt;This is not the agenda - that will be co-created at 9am pacific/ noon eastern each day of the workshop by the participants based on their inspiration.&lt;/p&gt;
 
@@ -162,7 +682,7 @@ We will be hosting it virtually on the same platform that IIW uses - QiQoChat.&l
  <entry>
    <title>Open Space Technology</title>
    <link href="http://thoughtfulbiometrics.org/open-spaces"/>
-   <updated>2020-11-16T00:00:00-05:00</updated>
+   <updated>2020-11-16T00:00:00-08:00</updated>
    <id>http://thoughtfulbiometrics.org/open-spaces</id>
    <content type="html">&lt;p&gt;This event uses a format called &lt;a href=&quot;https://en.wikipedia.org/wiki/Open_Space_Technology&quot;&gt;Open Space Technology&lt;/a&gt; and is modeled after the &lt;a href=&quot;https://internetidentityworkshop.com/&quot;&gt;Internet Identity Workshop&lt;/a&gt;.&lt;/p&gt;
 
@@ -175,9 +695,9 @@ We will be hosting it virtually on the same platform that IIW uses - QiQoChat.&l
  </entry>
  
  <entry>
-   <title>Who's Coming?</title>
+   <title>Who&apos;s Coming?</title>
    <link href="http://thoughtfulbiometrics.org/whos-coming"/>
-   <updated>2020-11-16T00:00:00-05:00</updated>
+   <updated>2020-11-16T00:00:00-08:00</updated>
    <id>http://thoughtfulbiometrics.org/attending</id>
    <content type="html">&lt;h2 id=&quot;who-is-coming-to-the-event&quot;&gt;Who is coming to the event?&lt;/h2&gt;
 
@@ -202,7 +722,7 @@ We will be hosting it virtually on the same platform that IIW uses - QiQoChat.&l
  <entry>
    <title>The Thoughtful Biometrics Workshop 2021</title>
    <link href="http://thoughtfulbiometrics.org/2021-event/"/>
-   <updated>2020-09-04T00:00:00-04:00</updated>
+   <updated>2020-09-04T00:00:00-07:00</updated>
    <id>http://thoughtfulbiometrics.org/2021_Event</id>
    <content type="html">&lt;p&gt;The First Thoughtful Biometrics conference was held March 8, 10, and 12 that is Monday, Wednesday and Friday - 2nd week, March 2021.&lt;/p&gt;
 

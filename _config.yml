@@ -31,8 +31,8 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: John Callahan
-  url: https://github.com/johncallahan
+  name: Phil Wolff
+  url: https://github.com/evanwolf
   email: youremailhere@gmail.com
 
 # Custom vars
@@ -43,11 +43,11 @@ nav:
   - title: Home
     url: /
 
-  - title: OpenSpace
-    url: /open-spaces/
+#  - title: OpenSpace
+#    url: /open-spaces/
 
-  - title: 2021Event
-    url: /2021-event/
+#  - title: 2021Event
+#    url: /2021-event/
 
 #  - title: Attendees
 #    url: /whos-coming
