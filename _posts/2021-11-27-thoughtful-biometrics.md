@@ -1,13 +1,13 @@
 ---
 layout: page
 title: The Thoughtful Biometrics Workshop 2022
-permalink: /
+permalink: /old
 published: true
 ---
 
 **Thoughtful Biometrics Workshop** is a space to dialogue about critical emerging issues surrounding biometric and digital identity technologies.
 
-### This is a 4 day virtual event. 16, 18, 20, 25 May 2022. 
+### This is a 4 day virtual event. 11, 13, 15, and 20 July 2022.
 
 * _Please [fill out this form](https://docs.google.com/forms/d/e/1FAIpQLSe6lrXPP7f1tMvFVSo3dyFp7wLt18QEvkeTopNVGvbuk3eApw/viewform?usp=sf_link) to be updated when registration opens._
 
@@ -89,7 +89,7 @@ We like the image because it highlights the growing concerns about biometric fun
 
 This is a 4 day virtual virtual event.
 
-It is on Monday, Wednesday and Friday, and the following Wednesday - Exact Dates TBD.
+It is on Monday, Wednesday and Friday, and the following Wednesday - 11, 13, 15, and 20 July 2022.
 Each day will begin at 9am PST to 1pm PST / Noon EST to 5 EST.  
 
 We are looking for sponsors who want to support this kind of dialogue.
