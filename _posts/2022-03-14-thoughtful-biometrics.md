@@ -1,12 +1,12 @@
 ---
 layout: page
 title: The Thoughtful Biometrics Workshop 2022
-permalink: /temp
+permalink: /
+published: true
 ---
-The second Thoughtful Biometrics Workshop starts the third week of May 2022.
+The second Thoughtful Biometrics Workshop starts 11 July 2022.
 
 | [Register](#intro) | [Why now?](#invitation) | [The Format](#format) | [Sponsorship](#sponsorship) | [Conduct](#conduct) |
-
 
 # Intro
 
@@ -16,9 +16,9 @@ Please [fill out this form to be updated when registration opens](https://docs.g
 
 <dl>
     <dt>When</dt>
-        <dd>9, 11, 13 May 2022 </dd>
-        <dd>Monday, Wednesday, Friday </dd>
-        <dd>9:00 AM to 2:00 PM Pacific Time) </dd>
+        <dd>11, 13, 15, and 20 July 2022 </dd>
+        <dd>Monday, Wednesday, Friday, and Wednesday </dd>
+        <dd>9:00 AM to 2:00 PM Pacific Time. (noon to 5:00 PM Eastern) </dd>
     <dt>Where</dt>
         <dd><a href="#format">Virtual Unconference Format</a> </dd>
     <dt>What</dt>
@@ -27,7 +27,6 @@ Please [fill out this form to be updated when registration opens](https://docs.g
         <dd>You build common ground and shared understanding.</dd>
         <dd><a href="#history">Second in a series</a>. <a href="#conveners">Respected conveners</a>. A <a href="#a-proven-team">Proven team</a>.</dd>
 </dl>
-
 
 # Invitation
 
@@ -74,7 +73,7 @@ We welcome people who ask serious questions about these systems.
 
 We also want to invite those active in the industry who want to respond in a meaningful way to thoughtful criticism. Our vision for the workshop is inspired by our ongoing participation in
 
-This workshop is not to “sell” biometrics products like the Connect:ID Conference or K(n)ow Identity Conference by OWI.
+This workshop is not to “sell” biometrics products like industry trade shows and conferences.
 
 ## Axioms
 
@@ -87,6 +86,9 @@ This workshop is not to “sell” biometrics products like the Connect:ID Confe
 
 We convene constituencies whose work touches on biometrics and use in the real world.
 
+<img src="/assets/whoparticipates.jpg" style="align:center; border-radius:1em;" title="Biometrics industry, biometrics researchers and scientists, Identity community, Commercial users of systems, Government users of systems, Regulators and policy makers, Infosec and cybersecurity professionals, Privacy professionals and advocates, Humanitarian groups, Police accountability groups, Citizen watchdog groups, students and researchers">
+
+<!---
 * Biometrics Community
 * Researchers and scientist who is looking for new ideas to work on
 * Identity Community
@@ -98,6 +100,7 @@ We convene constituencies whose work touches on biometrics and use in the real w
 * Police Accountability Groups
 * Citizen Watchdog Groups
 * Students and Researchers
+--->
 
 We hope the conversations catalyzed at the Workshop start ongoing work on biometrics issues.
 
@@ -148,9 +151,9 @@ _Kaliya Young (formerly Hamlin) is an expert in self-sovereign identity and iden
 
 This is a four-day virtual workshop.
 
-- Monday, Wednesday and Friday - 16, 18, 20 May 2022
-- Wednesday, 25 May 2022: A *Day Of Action.*
-- 9am to 2pm Pacific / Noon to 5pm Eastern / 5pm to 10pm London
+* Monday, Wednesday and Friday - 16, 18, 20 May 2022
+* Wednesday, 25 May 2022: A *Day Of Action.*
+* 9am to 2pm Pacific / Noon to 5pm Eastern / 5pm to 10pm London
 
 <img src="/assets/TBW2_4_days_flow_compressed.jpg" style="border:1px #300; align:center; padding: 1em; border-radius:5%;">
 
@@ -170,11 +173,9 @@ The Workshop is discussion driven and about peer learning and co-creating. Great
 6. Attendees recap their takeaways at the all-hands closing circle so…
 7. **Community emerges**.
 
-
 ## Day One - Level Setting
 
 Our first day of TBW2 is in the World Café format. We break into small groups for discussion among strangers.
-
 
 ### Open Introductions
 
@@ -248,6 +249,7 @@ Your host team is skilled in facilitation and space creation:
 |<img src="/assets/bios/kaliya-casual.jpg"  style="border:1px #000;  padding: 1em ; border-radius:25%;"> |**Kaliya Young**<br>IIW Co-founder<br>[kaliya@identitywoman.net](mailto:kaliya@identitywoman.net)|
 
 <a name="sponsor"></a>
+
 # Sponsorship
 
 ## Thank You!
@@ -262,7 +264,6 @@ And thanks to our Founding Sponsors:
 * [Veridium](https://veridiumid.com). "Trusted digital identity for a passwordless world."
 * [Acuant](https://Acuant.com). "AI-powered identity verification, regulatory compliance (AML/KYC) and digital identity solutions."
 * [AccessNow](https://www.accessnow.org/). "We defend and extend the digital rights of users at risk around the world."
-
 
 ## Why sponsor the Workshop?
 Support this dialogue. Your investment:
