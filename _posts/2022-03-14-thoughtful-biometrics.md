@@ -139,7 +139,7 @@ _Brian Hofer, J.D., works with municipal and state law enforcement throughout Ca
 _Hofer is Chair and Executive Director of Secure Justice, a not-for-profit that advocates against state abuse of power, and for reduction in government and corporate over-reach. They target change in government contracting and corporate complicity with government policies and practices that are inconsistent with democratic values and principles of human rights._
 
 ### Digital identity expert Kaliya Young “Identity Woman”
-<img src="/assets/bios/kaliya.jpg" style="border:1px #000; float:left; padding: 1em; border-radius:50%;">
+<img src="/assets/bios/kaliya2.jpg" style="border:1px #000; float:left; padding: 1em; border-radius:50%;">
 > “Digital Identity experts are not biometrics experts. The role that biometrics can play in digital identity systems is varied. I had a lot of preconceived notions about biometrics before I learned more about how they actually worked and how they fit within systems. It has been eye opening to engage with Jack and Asem and my hope is that other identity experts will find value in engaging with biometric experts.
 
 > Biometrics have a great potential to be quite dangerous if abused. The ethical side of the industry see they have great potential to address some use-cases (such as recovery) that otherwise would be very difficult.”
