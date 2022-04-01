@@ -4,7 +4,7 @@
  <title>Thoughtful Biometrics</title>
  <link href="/atom.xml" rel="self"/>
  <link href="http://thoughtfulbiometrics.org/"/>
- <updated>2022-03-29T12:13:10-07:00</updated>
+ <updated>2022-04-01T08:53:26-07:00</updated>
  <id>http://thoughtfulbiometrics.org</id>
  <author>
    <name>Phil Wolff</name>
@@ -35,7 +35,7 @@
 
 &lt;p&gt;&lt;a href=&quot;https://www.eventbrite.com/e/thoughtful-biometrics-workshop-tickets-297266601407&quot;&gt;Register on Eventbrite&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Please &lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLSe6lrXPP7f1tMvFVSo3dyFp7wLt18QEvkeTopNVGvbuk3eApw/viewform?usp=sf_link&quot;&gt;fill out this form to be updated when registration opens&lt;/a&gt;. Express interest and we’ll email you when the details are firm.&lt;/p&gt;
+&lt;!--- Please [fill out this form to be updated when registration opens](https://docs.google.com/forms/d/e/1FAIpQLSe6lrXPP7f1tMvFVSo3dyFp7wLt18QEvkeTopNVGvbuk3eApw/viewform?usp=sf_link). Express interest and we&apos;ll email you when the details are firm. ---&gt;
 
 &lt;dl&gt;
     &lt;dt&gt;When&lt;/dt&gt;

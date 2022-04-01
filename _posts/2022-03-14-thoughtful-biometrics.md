@@ -12,7 +12,7 @@ The second Thoughtful Biometrics Workshop starts 11 July 2022.
 
 [Register on Eventbrite](https://www.eventbrite.com/e/thoughtful-biometrics-workshop-tickets-297266601407).
 
-Please [fill out this form to be updated when registration opens](https://docs.google.com/forms/d/e/1FAIpQLSe6lrXPP7f1tMvFVSo3dyFp7wLt18QEvkeTopNVGvbuk3eApw/viewform?usp=sf_link). Express interest and we'll email you when the details are firm.
+<!--- Please [fill out this form to be updated when registration opens](https://docs.google.com/forms/d/e/1FAIpQLSe6lrXPP7f1tMvFVSo3dyFp7wLt18QEvkeTopNVGvbuk3eApw/viewform?usp=sf_link). Express interest and we'll email you when the details are firm. --->
 
 <dl>
     <dt>When</dt>
