@@ -3,9 +3,9 @@
 
  <title>Thoughtful Biometrics</title>
  <link href="/atom.xml" rel="self"/>
- <link href="http://thoughtfulbiometrics.org/"/>
- <updated>2022-04-01T08:53:26-07:00</updated>
- <id>http://thoughtfulbiometrics.org</id>
+ <link href="http://localhost:4000/"/>
+ <updated>2022-04-01T09:54:24-07:00</updated>
+ <id>http://localhost:4000</id>
  <author>
    <name>Phil Wolff</name>
    <email>youremailhere@gmail.com</email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>The Thoughtful Biometrics Workshop 2022</title>
-   <link href="http://thoughtfulbiometrics.org/"/>
+   <link href="http://localhost:4000/"/>
    <updated>2022-03-14T00:00:00-07:00</updated>
-   <id>http://thoughtfulbiometrics.org/thoughtful-biometrics</id>
+   <id>http://localhost:4000/thoughtful-biometrics</id>
    <content type="html">&lt;p&gt;The second Thoughtful Biometrics Workshop starts 11 July 2022.&lt;/p&gt;
 
 &lt;table&gt;
@@ -538,18 +538,18 @@ and &lt;a href=&quot;#conveners&quot;&gt;our convener invitations to you&lt;/a&g
  
  <entry>
    <title>Sponsors</title>
-   <link href="http://thoughtfulbiometrics.org/sponsors"/>
+   <link href="http://localhost:4000/sponsors"/>
    <updated>2021-11-28T00:00:00-08:00</updated>
-   <id>http://thoughtfulbiometrics.org/sponsors</id>
+   <id>http://localhost:4000/sponsors</id>
    <content type="html">&lt;p&gt;Sponsors Coming - &lt;em&gt;please contact us if you are interested in sponsoring&lt;/em&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>The Thoughtful Biometrics Workshop 2022</title>
-   <link href="http://thoughtfulbiometrics.org/old"/>
+   <link href="http://localhost:4000/old"/>
    <updated>2021-11-27T00:00:00-08:00</updated>
-   <id>http://thoughtfulbiometrics.org/thoughtful-biometrics</id>
+   <id>http://localhost:4000/thoughtful-biometrics</id>
    <content type="html">&lt;p&gt;&lt;strong&gt;Thoughtful Biometrics Workshop&lt;/strong&gt; is a space to dialogue about critical emerging issues surrounding biometric and digital identity technologies.&lt;/p&gt;
 
 &lt;h3 id=&quot;this-is-a-4-day-virtual-event-11-13-15-and-20-july-2022&quot;&gt;This is a 4 day virtual event. 11, 13, 15, and 20 July 2022.&lt;/h3&gt;
@@ -651,9 +651,9 @@ We will be hosting it virtually on the same platform that IIW uses - QiQoChat.&l
  
  <entry>
    <title>Potential Outcomes</title>
-   <link href="http://thoughtfulbiometrics.org/potential-outcomes"/>
+   <link href="http://localhost:4000/potential-outcomes"/>
    <updated>2020-12-10T00:00:00-08:00</updated>
-   <id>http://thoughtfulbiometrics.org/outcomes</id>
+   <id>http://localhost:4000/outcomes</id>
    <content type="html">&lt;p&gt;The followings are some ideas about potential outcomes in no particular priority order:&lt;/p&gt;
 
 &lt;ul&gt;
@@ -671,9 +671,9 @@ We will be hosting it virtually on the same platform that IIW uses - QiQoChat.&l
  
  <entry>
    <title>Potential Topics</title>
-   <link href="http://thoughtfulbiometrics.org/potential-topics"/>
+   <link href="http://localhost:4000/potential-topics"/>
    <updated>2020-11-16T00:00:00-08:00</updated>
-   <id>http://thoughtfulbiometrics.org/topics</id>
+   <id>http://localhost:4000/topics</id>
    <content type="html">&lt;p&gt;This is not the agenda - that will be co-created at 9am pacific/ noon eastern each day of the workshop by the participants based on their inspiration.&lt;/p&gt;
 
 &lt;p&gt;When attendees register we ask them about topics they would like to discuss and this is what they named.&lt;/p&gt;
@@ -684,9 +684,9 @@ We will be hosting it virtually on the same platform that IIW uses - QiQoChat.&l
  
  <entry>
    <title>Open Space Technology</title>
-   <link href="http://thoughtfulbiometrics.org/open-spaces"/>
+   <link href="http://localhost:4000/open-spaces"/>
    <updated>2020-11-16T00:00:00-08:00</updated>
-   <id>http://thoughtfulbiometrics.org/open-spaces</id>
+   <id>http://localhost:4000/open-spaces</id>
    <content type="html">&lt;p&gt;This event uses a format called &lt;a href=&quot;https://en.wikipedia.org/wiki/Open_Space_Technology&quot;&gt;Open Space Technology&lt;/a&gt; and is modeled after the &lt;a href=&quot;https://internetidentityworkshop.com/&quot;&gt;Internet Identity Workshop&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;The format is over 3 decades old and was innovated to support “alive” conversations that are inspiring and action oriented.&lt;/p&gt;
@@ -699,9 +699,9 @@ We will be hosting it virtually on the same platform that IIW uses - QiQoChat.&l
  
  <entry>
    <title>Who&apos;s Coming?</title>
-   <link href="http://thoughtfulbiometrics.org/whos-coming"/>
+   <link href="http://localhost:4000/whos-coming"/>
    <updated>2020-11-16T00:00:00-08:00</updated>
-   <id>http://thoughtfulbiometrics.org/attending</id>
+   <id>http://localhost:4000/attending</id>
    <content type="html">&lt;h2 id=&quot;who-is-coming-to-the-event&quot;&gt;Who is coming to the event?&lt;/h2&gt;
 
 &lt;p&gt;We are inviting peoplf rom a diverse range of fields ot the event.&lt;/p&gt;
@@ -724,9 +724,9 @@ We will be hosting it virtually on the same platform that IIW uses - QiQoChat.&l
  
  <entry>
    <title>The Thoughtful Biometrics Workshop 2021</title>
-   <link href="http://thoughtfulbiometrics.org/2021-event/"/>
+   <link href="http://localhost:4000/2021-event/"/>
    <updated>2020-09-04T00:00:00-07:00</updated>
-   <id>http://thoughtfulbiometrics.org/2021_Event</id>
+   <id>http://localhost:4000/2021_Event</id>
    <content type="html">&lt;p&gt;The First Thoughtful Biometrics conference was held March 8, 10, and 12 that is Monday, Wednesday and Friday - 2nd week, March 2021.&lt;/p&gt;
 
 &lt;h1 id=&quot;book-of-proceedings&quot;&gt;Book of Proceedings&lt;/h1&gt;
