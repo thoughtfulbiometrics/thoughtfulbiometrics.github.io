@@ -36,7 +36,7 @@ We welcome the participation of people who ask serious questions about these sys
 
 We also want to invite those active in the industry who want to respond in a meaningful way to thoughtful criticism.
 
-_This workshop is not to “sell” biometrics products like the Connect:ID Conference or K(n)ow Identity Conference by OWI._  
+_This workshop is not to “sell” biometrics products like trade shows or industry conferences._
 
 ## Your Concerns
 
@@ -82,6 +82,7 @@ This workshop is not to “sell” biometrics products like industry trade shows
 * We value discernment about the application of biometrics technology.
 
 <a name="you-should-be-here-if-you">
+
 ## You should be here if you…
 
 We convene constituencies whose work touches on biometrics and use in the real world.
@@ -124,27 +125,30 @@ We invited experts from diverse fields to tell us why this conversation matters 
 >
 > Based on my interaction with both communities, I believe these concerns are merely due to misunderstanding about the basics; from one side, about biometric and the current state of the art research in the biometric space, and on the other side, the recent fast-paced development and improvement that is happening in the different identity ecosystems. Once this misunderstanding is cleared out, and knowledge transfer occurs, this workshop will create neat and doable ideas that will advance the biometric and identity development into a new and remarkable era.”
 
-_Dr. Asem Othman ([LinkedIn](https://www.linkedin.com/in/asemothman/), [Twitter](https://twitter.com/asem_othman)) has more than ten years as a researcher, developer and leader in the biometrics space. During his doctoral research at West Virginia University, he developed a system of protecting and storing biometric templates using visual cryptography, which Veridium uses today in its VeridiumID solution. Dr. Othman performed his postdoctoral research at Michigan State University before joining the Computer Vision team at Veridium and leading research and development on their 4 Fingers TouchlessID technology. Dr. Othman holds more than 5 patents/patents pending and has published a variety of journal articles, conference papers, and key research entries. In February 2021, Dr. Othman joined [Acuant](https://www.acuant.com/), a document verification leader, as a Director of Computer Vision and Machine Learning._
+_**_Dr. Asem Othman_** _([LinkedIn](https://www.linkedin.com/in/asemothman/), [Twitter](https://twitter.com/asem_othman)) has more than ten years as a researcher, developer and leader in the biometrics space. During his doctoral research at West Virginia University, he developed a system of protecting and storing biometric templates using visual cryptography, which Veridium uses today in its VeridiumID solution. Dr. Othman performed his postdoctoral research at Michigan State University before joining the Computer Vision team at Veridium and leading research and development on their 4 Fingers TouchlessID technology. Dr. Othman holds more than 5 patents/patents pending and has published a variety of journal articles, conference papers, and key research entries. In February 2021, Dr. Othman joined [Acuant](https://www.acuant.com/), a document verification leader, as a Director of Computer Vision and Machine Learning._
 
 ### Software architect and developer Jack “John Callahan”
 <img src="/assets/bios/jack.jpg" style="border:1px #000; float:left; padding: 1em; border-radius:50%;">
 > “Biometrics are more relevant than ever because of the increase in remote work due to the COVID-19 pandemic.  Protection and control (by each person) of their biometric data is paramount to assure that privacy, accessibility, inclusion, and diversity are available to all.”
 
-_Dr. John Callahan is responsible for the development of VeridiumID’s world class enterprise-ready biometric solutions, leading a global team of software developers, computer vision scientists and sales engineers. He has previously served as the Associate Director for Information Dominance at the U.S. Navy’s Office of Naval Research Global, London UK office, via an Intergovernmental Personnel Act assignment from the Johns Hopkins University Applied Physics Laboratory. John completed his PhD in Computer Science at the University of Maryland, College Park._
+**_[Dr. John Callahan](https://www.linkedin.com/in/john-callahan-430707/)_** _is responsible for the development of VeridiumID’s world class enterprise-ready biometric solutions, leading a global team of software developers, computer vision scientists and sales engineers. He has previously served as the Associate Director for Information Dominance at the U.S. Navy’s Office of Naval Research Global, London UK office, via an Intergovernmental Personnel Act assignment from the Johns Hopkins University Applied Physics Laboratory. John completed his PhD in Computer Science at the University of Maryland, College Park._
 
 ### Privacy commissioner Brian Hofer
 <img src="/assets/bios/brian.jpg" style="border:1px #000; float:left; padding: 1em; border-radius:50%;">
-_Brian Hofer, J.D., works with municipal and state law enforcement throughout California to create privacy and use policies regulating surveillance equipment and data sharing. He has been a featured speaker at forums organized by the California Department of Justice, RightsCon, HOPE Conference, and Berkeley Law School, among others. He has been the Chair of the City of Oakland Privacy Advisory Commission since he helped create it in 2016. Before that he led the Oakland Domain Awareness Center Ad Hoc Privacy Committee in pushing back against citywide surveillance without public review._
+> “The use of biometric technology in our everyday lives is not yet a foregone conclusion. Although biometrics suggests an exciting promise of perfect security and convenience, the potential pitfalls from identity theft, unregulated data brokers, and government overreach are equally significant. Far too often the tech sector rushes to market without first creating sufficient guardrails to mitigate the potential negative impacts from newer and more powerful technology. New and emerging technologies must first be understood before possible implementation and use.”
 
+**_Brian Hofer_** _is Chair of the [Oakland Privacy Advisory Commission](https://www.oaklandca.gov/boards-commissions/privacy-advisory-board) and the Chair and Executive Director of [Secure Justice](https://secure-justice.org/). His advocacy has been instrumental in a number of nation-leading ordinances, including ones that established a vetting framework for the potential acquisition and use of surveillance equipment. Mr. Hofer is presently consulting with the cities of San Diego, San Jose, Los Angeles, Washington, D.C. and Portland on establishing similar frameworks. <br/><br/>Brian has presented on his work at conferences sponsored by the California Department of Justice, National Association of Criminal Defense Lawyers, Berkeley Law School, NYU Law School, Georgetown Law School, Berkeley Goldman School of Public Policy, and he has testified before various California state Senate and Assembly committees in support of privacy enhancing legislation._
+<!---_Brian Hofer, J.D., works with municipal and state law enforcement throughout California to create privacy and use policies regulating surveillance equipment and data sharing. He has been a featured speaker at forums organized by the California Department of Justice, RightsCon, HOPE Conference, and Berkeley Law School, among others. He has been the Chair of the City of Oakland Privacy Advisory Commission since he helped create it in 2016. Before that he led the Oakland Domain Awareness Center Ad Hoc Privacy Committee in pushing back against citywide surveillance without public review._
+ 
 _Hofer is Chair and Executive Director of Secure Justice, a not-for-profit that advocates against state abuse of power, and for reduction in government and corporate over-reach. They target change in government contracting and corporate complicity with government policies and practices that are inconsistent with democratic values and principles of human rights._
-
+--->
 ### Digital identity expert Kaliya Young “Identity Woman”
 <img src="/assets/bios/kaliya2.jpg" style="border:1px #000; float:left; padding: 1em; border-radius:50%;">
 > “Digital Identity experts are not biometrics experts. The role that biometrics can play in digital identity systems is varied. I had a lot of preconceived notions about biometrics before I learned more about how they actually worked and how they fit within systems. It has been eye opening to engage with Jack and Asem and my hope is that other identity experts will find value in engaging with biometric experts.
 
 > Biometrics have a great potential to be quite dangerous if abused. The ethical side of the industry see they have great potential to address some use-cases (such as recovery) that otherwise would be very difficult.”
 
-_Kaliya Young (formerly Hamlin) is an expert in self-sovereign identity and identity on the blockchain. She is the co-author of a Comprehensive guide to Self-Sovereign Identity and is widely known as Identity Woman (it’s also the name of her blog and her twitter handle). She has committed her life to the development of an open-standards based layer of the Internet that empowers people._
+**_Kaliya Young_** _(formerly Hamlin) is an expert in self-sovereign identity and identity on the blockchain. She is the co-author of [A Comprehensive guide to Self-Sovereign Identity](https://www.amazon.com/Comprehensive-Guide-Self-Sovereign-Identity-ebook/dp/B07Q3TXLDP/) and is widely known as Identity Woman (it’s also the name of [her blog](https://identitywoman.net/blog-2/) and [her twitter handle](https://twitter.com/identitywoman)). She has committed her life to the development of an open-standards based layer of the Internet that empowers people._
 
 <a name="format"></a>
 # Format
