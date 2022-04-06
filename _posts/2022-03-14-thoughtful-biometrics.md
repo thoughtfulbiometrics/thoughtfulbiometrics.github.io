@@ -134,6 +134,8 @@ _Dr. John Callahan is responsible for the development of VeridiumID’s world cl
 
 ### Privacy commissioner Brian Hofer
 <img src="/assets/bios/brian.jpg" style="border:1px #000; float:left; padding: 1em; border-radius:50%;">
+> “The use of biometric technology in our everyday lives is not yet a foregone conclusion. Although biometrics suggests an exciting promise of perfect security and convenience, the potential pitfalls from identity theft, unregulated data brokers, and government overreach are equally significant. Far too often the tech sector rushes to market without first creating sufficient guardrails to mitigate the potential negative impacts from newer and more powerful technology. New and emerging technologies must first be understood before possible implementation and use.”
+
 _Brian Hofer, J.D., works with municipal and state law enforcement throughout California to create privacy and use policies regulating surveillance equipment and data sharing. He has been a featured speaker at forums organized by the California Department of Justice, RightsCon, HOPE Conference, and Berkeley Law School, among others. He has been the Chair of the City of Oakland Privacy Advisory Commission since he helped create it in 2016. Before that he led the Oakland Domain Awareness Center Ad Hoc Privacy Committee in pushing back against citywide surveillance without public review._
 
 _Hofer is Chair and Executive Director of Secure Justice, a not-for-profit that advocates against state abuse of power, and for reduction in government and corporate over-reach. They target change in government contracting and corporate complicity with government policies and practices that are inconsistent with democratic values and principles of human rights._
@@ -245,7 +247,7 @@ Your host team is skilled in facilitation and space creation:
 * Skilled facilitation and knowledge of how to facilitate “alive” events  in person and online
 * Bringing together technologists, wonks, capital, and industry
 
-|<img src="/assets/bios/phil.jpg" style="border:1px #000; padding: 1em; border-radius:25%;"> |**Phil Wolff**<br>TBW Producer<br>[Wider.Team](https://Wider.Team/).<br> [phil@wider.team](mailto:phil@wider.team)<br>[360-441-2522](tel:1-360-441-2522) |
+|<img src="/assets/bios/phil.jpg" style="border:1px #000; padding: 1em; border-radius:25%;"> |**Phil Wolff**<br>TBW Producer<br>[Wider.Team](https://Wider.Team/).<br> [philwolff@planetwork.net](mailto:philwolff@planetwork.net)<br>[360-441-2522](tel:1-360-441-2522) |
 |<img src="/assets/bios/kaliya-casual.jpg"  style="border:1px #000;  padding: 1em ; border-radius:25%;"> |**Kaliya Young**<br>IIW Co-founder<br>[kaliya@identitywoman.net](mailto:kaliya@identitywoman.net)|
 
 <a name="sponsor"></a>

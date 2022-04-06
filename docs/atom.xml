@@ -4,7 +4,7 @@
  <title>Thoughtful Biometrics</title>
  <link href="/atom.xml" rel="self"/>
  <link href="http://thoughtfulbiometrics.org/"/>
- <updated>2022-04-05T19:24:51-07:00</updated>
+ <updated>2022-04-05T19:45:38-07:00</updated>
  <id>http://thoughtfulbiometrics.org</id>
  <author>
    <name>Phil Wolff</name>
@@ -164,8 +164,12 @@ and &lt;a href=&quot;#conveners&quot;&gt;our convener invitations to you&lt;/a&g
 &lt;p&gt;&lt;em&gt;Dr. John Callahan is responsible for the development of VeridiumID’s world class enterprise-ready biometric solutions, leading a global team of software developers, computer vision scientists and sales engineers. He has previously served as the Associate Director for Information Dominance at the U.S. Navy’s Office of Naval Research Global, London UK office, via an Intergovernmental Personnel Act assignment from the Johns Hopkins University Applied Physics Laboratory. John completed his PhD in Computer Science at the University of Maryland, College Park.&lt;/em&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;privacy-commissioner-brian-hofer&quot;&gt;Privacy commissioner Brian Hofer&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;/assets/bios/brian.jpg&quot; style=&quot;border:1px #000; float:left; padding: 1em; border-radius:50%;&quot; /&gt;
-&lt;em&gt;Brian Hofer, J.D., works with municipal and state law enforcement throughout California to create privacy and use policies regulating surveillance equipment and data sharing. He has been a featured speaker at forums organized by the California Department of Justice, RightsCon, HOPE Conference, and Berkeley Law School, among others. He has been the Chair of the City of Oakland Privacy Advisory Commission since he helped create it in 2016. Before that he led the Oakland Domain Awareness Center Ad Hoc Privacy Committee in pushing back against citywide surveillance without public review.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/bios/brian.jpg&quot; style=&quot;border:1px #000; float:left; padding: 1em; border-radius:50%;&quot; /&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;“The use of biometric technology in our everyday lives is not yet a foregone conclusion. Although biometrics suggests an exciting promise of perfect security and convenience, the potential pitfalls from identity theft, unregulated data brokers, and government overreach are equally significant. Far too often the tech sector rushes to market without first creating sufficient guardrails to mitigate the potential negative impacts from newer and more powerful technology. New and emerging technologies must first be understood before possible implementation and use.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;em&gt;Brian Hofer, J.D., works with municipal and state law enforcement throughout California to create privacy and use policies regulating surveillance equipment and data sharing. He has been a featured speaker at forums organized by the California Department of Justice, RightsCon, HOPE Conference, and Berkeley Law School, among others. He has been the Chair of the City of Oakland Privacy Advisory Commission since he helped create it in 2016. Before that he led the Oakland Domain Awareness Center Ad Hoc Privacy Committee in pushing back against citywide surveillance without public review.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Hofer is Chair and Executive Director of Secure Justice, a not-for-profit that advocates against state abuse of power, and for reduction in government and corporate over-reach. They target change in government contracting and corporate complicity with government policies and practices that are inconsistent with democratic values and principles of human rights.&lt;/em&gt;&lt;/p&gt;
 
@@ -300,7 +304,7 @@ and &lt;a href=&quot;#conveners&quot;&gt;our convener invitations to you&lt;/a&g
   &lt;tbody&gt;
     &lt;tr&gt;
       &lt;td&gt;&lt;img src=&quot;/assets/bios/phil.jpg&quot; style=&quot;border:1px #000; padding: 1em; border-radius:25%;&quot; /&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;strong&gt;Phil Wolff&lt;/strong&gt;&lt;br /&gt;TBW Producer&lt;br /&gt;&lt;a href=&quot;https://Wider.Team/&quot;&gt;Wider.Team&lt;/a&gt;.&lt;br /&gt; &lt;a href=&quot;mailto:phil@wider.team&quot;&gt;phil@wider.team&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;tel:1-360-441-2522&quot;&gt;360-441-2522&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;strong&gt;Phil Wolff&lt;/strong&gt;&lt;br /&gt;TBW Producer&lt;br /&gt;&lt;a href=&quot;https://Wider.Team/&quot;&gt;Wider.Team&lt;/a&gt;.&lt;br /&gt; &lt;a href=&quot;mailto:philwolff@planetwork.net&quot;&gt;philwolff@planetwork.net&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;tel:1-360-441-2522&quot;&gt;360-441-2522&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;&lt;img src=&quot;/assets/bios/kaliya-casual.jpg&quot; style=&quot;border:1px #000;  padding: 1em ; border-radius:25%;&quot; /&gt;&lt;/td&gt;
