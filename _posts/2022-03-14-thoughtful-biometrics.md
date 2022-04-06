@@ -12,7 +12,7 @@ The second Thoughtful Biometrics Workshop starts 11 July 2022.
 
 [Register on Eventbrite](https://www.eventbrite.com/e/thoughtful-biometrics-workshop-tickets-297266601407).
 
-Please [fill out this form to be updated when registration opens](https://docs.google.com/forms/d/e/1FAIpQLSe6lrXPP7f1tMvFVSo3dyFp7wLt18QEvkeTopNVGvbuk3eApw/viewform?usp=sf_link). Express interest and we'll email you when the details are firm.
+<!--- Please [fill out this form to be updated when registration opens](https://docs.google.com/forms/d/e/1FAIpQLSe6lrXPP7f1tMvFVSo3dyFp7wLt18QEvkeTopNVGvbuk3eApw/viewform?usp=sf_link). Express interest and we'll email you when the details are firm. --->
 
 <dl>
     <dt>When</dt>
@@ -249,7 +249,7 @@ Your host team is skilled in facilitation and space creation:
 * Skilled facilitation and knowledge of how to facilitate “alive” events  in person and online
 * Bringing together technologists, wonks, capital, and industry
 
-|<img src="/assets/bios/phil.jpg" style="border:1px #000; padding: 1em; border-radius:25%;"> |**Phil Wolff**<br>TBW Producer<br>[Wider.Team](https://Wider.Team/).<br> [phil@wider.team](mailto:phil@wider.team)<br>[360-441-2522](tel:1-360-441-2522) |
+|<img src="/assets/bios/phil.jpg" style="border:1px #000; padding: 1em; border-radius:25%;"> |**Phil Wolff**<br>TBW Producer<br>[Wider.Team](https://Wider.Team/).<br> [philwolff@planetwork.net](mailto:philwolff@planetwork.net)<br>[360-441-2522](tel:1-360-441-2522) |
 |<img src="/assets/bios/kaliya-casual.jpg"  style="border:1px #000;  padding: 1em ; border-radius:25%;"> |**Kaliya Young**<br>IIW Co-founder<br>[kaliya@identitywoman.net](mailto:kaliya@identitywoman.net)|
 
 <a name="sponsor"></a>
