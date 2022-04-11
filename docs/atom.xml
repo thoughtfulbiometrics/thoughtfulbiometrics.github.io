@@ -4,7 +4,7 @@
  <title>Thoughtful Biometrics</title>
  <link href="/atom.xml" rel="self"/>
  <link href="http://thoughtfulbiometrics.org/"/>
- <updated>2022-04-05T19:45:38-07:00</updated>
+ <updated>2022-04-11T14:04:53-07:00</updated>
  <id>http://thoughtfulbiometrics.org</id>
  <author>
    <name>Phil Wolff</name>
@@ -17,23 +17,34 @@
    <link href="http://thoughtfulbiometrics.org/"/>
    <updated>2022-03-14T00:00:00-07:00</updated>
    <id>http://thoughtfulbiometrics.org/thoughtful-biometrics</id>
-   <content type="html">&lt;p&gt;The second Thoughtful Biometrics Workshop starts 11 July 2022.&lt;/p&gt;
+   <content type="html">&lt;p&gt;The second &lt;strong&gt;Thoughtful Biometrics Workshop&lt;/strong&gt; starts 11 July 2022.&lt;br /&gt;&lt;strong&gt;&lt;a href=&quot;https://www.eventbrite.com/e/thoughtful-biometrics-workshop-tickets-297266601407&quot;&gt;Register on Eventbrite&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;&lt;strong&gt;1. &lt;a href=&quot;#intro&quot;&gt;Introduction&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;&lt;small&gt;&lt;/small&gt;&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;a href=&quot;#intro&quot;&gt;Register&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;#invitation&quot;&gt;Why now?&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;#format&quot;&gt;The Format&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;#sponsorship&quot;&gt;Sponsorship&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;#conduct&quot;&gt;Conduct&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;2. &lt;a href=&quot;#invitation&quot;&gt;Why now?&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;&lt;small&gt;&lt;a href=&quot;#your-concerns&quot;&gt;Your concerns&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;#context-and-challenges&quot;&gt;Context and Challenges&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;#our-response&quot;&gt;Our Response&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;#axioms&quot;&gt;Axioms&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;#you-should-be-here-if-you&quot;&gt;You should be here if you…&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;#conveners&quot;&gt;Your Conveners&lt;/a&gt;&lt;/small&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;3. &lt;a href=&quot;#format&quot;&gt;The Format&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;&lt;small&gt;&lt;a href=&quot;#its-a-proven-format&quot;&gt;A proven format&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;#how-an-unconference-works&quot;&gt;How an Unconference works&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;#day-one---level-setting&quot;&gt;Day One - Level Setting&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;#days-two-and-three--open-space&quot;&gt;Days Two and Three - Open Space&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;#day-four---a-day-of-action&quot;&gt;Day Four - Action&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;#a-proven-team&quot;&gt;A proven team&lt;/a&gt;&lt;/small&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;4. &lt;a href=&quot;#sponsorship&quot;&gt;Sponsorship&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;&lt;small&gt;&lt;a href=&quot;#thank-you&quot;&gt;Thank you!&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;#why-sponsor-the-workshop&quot;&gt;Why sponsor this conversation?&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;#how-do-i-sponsor&quot;&gt;How to sponsor&lt;/a&gt;&lt;/small&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;5. &lt;a href=&quot;#history&quot;&gt;Proceedings&lt;/a&gt;&lt;/strong&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;6. &lt;a href=&quot;#conduct&quot;&gt;Conduct&lt;/a&gt;&lt;/strong&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 
 &lt;h1 id=&quot;intro&quot;&gt;Intro&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.eventbrite.com/e/thoughtful-biometrics-workshop-tickets-297266601407&quot;&gt;Register on Eventbrite&lt;/a&gt;.&lt;/p&gt;
 
 &lt;!--- Please [fill out this form to be updated when registration opens](https://docs.google.com/forms/d/e/1FAIpQLSe6lrXPP7f1tMvFVSo3dyFp7wLt18QEvkeTopNVGvbuk3eApw/viewform?usp=sf_link). Express interest and we&apos;ll email you when the details are firm. ---&gt;
 
@@ -47,8 +58,10 @@
     &lt;dt&gt;What&lt;/dt&gt;
         &lt;dd&gt;20 hours of live workshop in May 2022&lt;/dd&gt;
         &lt;dd&gt;Brings divergent biometrics policy stakeholders together to ideate a middle way&lt;/dd&gt;
-        &lt;dd&gt;You build common ground and shared understanding.&lt;/dd&gt;
-        &lt;dd&gt;&lt;a href=&quot;#history&quot;&gt;Second in a series&lt;/a&gt;. &lt;a href=&quot;#conveners&quot;&gt;Respected conveners&lt;/a&gt;. A &lt;a href=&quot;#a-proven-team&quot;&gt;Proven team&lt;/a&gt;.&lt;/dd&gt;
+        &lt;dd&gt;You build common ground and shared understanding&lt;/dd&gt;
+        &lt;dd&gt;&lt;a href=&quot;#history&quot;&gt;Second in a series&lt;/a&gt; with more to come&lt;/dd&gt;
+        &lt;dd&gt;&lt;a href=&quot;#conveners&quot;&gt;Respected conveners&lt;/a&gt; inviting you&lt;/dd&gt;
+        &lt;dd&gt;&lt;a href=&quot;#a-proven-team&quot;&gt;A proven team&lt;/a&gt;&lt;/dd&gt;
 &lt;/dl&gt;
 
 &lt;h1 id=&quot;invitation&quot;&gt;Invitation&lt;/h1&gt;
@@ -59,7 +72,7 @@
 
 &lt;p&gt;We also want to invite those active in the industry who want to respond in a meaningful way to thoughtful criticism.&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;This workshop is not to “sell” biometrics products like the Connect:ID Conference or K(n)ow Identity Conference by OWI.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;This workshop is not to “sell” biometrics products like trade shows and industry confabs.&lt;/em&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;your-concerns&quot;&gt;Your Concerns&lt;/h2&gt;
 
@@ -79,8 +92,9 @@
 &lt;p&gt;&lt;a href=&quot;#silos&quot;&gt;The problem&lt;/a&gt;, &lt;a href=&quot;#our-response&quot;&gt;Our response&lt;/a&gt;, &lt;a href=&quot;#axioms&quot;&gt;Our assumptions&lt;/a&gt;, &lt;a href=&quot;#you-should-be-here-if-you&quot;&gt;Who we need in this conversation&lt;/a&gt;
 and &lt;a href=&quot;#conveners&quot;&gt;our convener invitations to you&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;a name=&quot;silos&quot;&gt;&lt;/a&gt;
-&lt;strong&gt;Silos.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name=&quot;silos&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Silos.&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Networks of professionals build systems, each network with their own deep technical expertise. These professionals are so deep in their own fields they rarely talk to those in neighboring communities.&lt;/p&gt;
 
@@ -90,15 +104,12 @@ and &lt;a href=&quot;#conveners&quot;&gt;our convener invitations to you&lt;/a&g
 
 &lt;h2 id=&quot;our-response&quot;&gt;Our Response&lt;/h2&gt;
 
-&lt;p&gt;The Workshop fosters more cross-pollination and exploration of the technologies. And maps to their social and policy implications. We invite discussion about tangible risks and threat models at all levels, from the micro to the macro systems.&lt;/p&gt;
-
-&lt;p&gt;We want to expand the conversation to support “hearing” the voices at the edges.&lt;/p&gt;
-
-&lt;p&gt;We welcome people who ask serious questions about these systems.&lt;/p&gt;
-
-&lt;p&gt;We also want to invite those active in the industry who want to respond in a meaningful way to thoughtful criticism. Our vision for the workshop is inspired by our ongoing participation in&lt;/p&gt;
-
-&lt;p&gt;This workshop is not to “sell” biometrics products like industry trade shows and conferences.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;The Workshop fosters more cross-pollination and exploration of the technologies. And maps to their social and policy implications. We invite discussion about tangible risks and threat models at all levels, from the micro to the macro systems.&lt;/li&gt;
+  &lt;li&gt;We want to expand the conversation to support “hearing” the voices at the edges.&lt;/li&gt;
+  &lt;li&gt;We welcome people who ask serious questions about these systems.&lt;/li&gt;
+  &lt;li&gt;This workshop is not to “sell” biometrics products like industry trade shows and conferences.&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h2 id=&quot;axioms&quot;&gt;Axioms&lt;/h2&gt;
 
@@ -111,7 +122,12 @@ and &lt;a href=&quot;#conveners&quot;&gt;our convener invitations to you&lt;/a&g
 &lt;p&gt;&lt;a name=&quot;you-should-be-here-if-you&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&quot;you-should-be-here-if-you&quot;&gt;You should be here if you…&lt;/h2&gt;
 
-&lt;p&gt;We convene constituencies whose work touches on biometrics and use in the real world.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;You should be here if your work touches on biometrics and its use in the real world.&lt;/li&gt;
+  &lt;li&gt;You should be here if you have a bias for action.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Come if you want Workshop conversations to start ongoing work on biometrics issues.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/whoparticipates.jpg&quot; style=&quot;align:center; border-radius:1em;&quot; title=&quot;Biometrics industry, biometrics researchers and scientists, Identity community, Commercial users of systems, Government users of systems, Regulators and policy makers, Infosec and cybersecurity professionals, Privacy professionals and advocates, Humanitarian groups, Police accountability groups, Citizen watchdog groups, students and researchers&quot; /&gt;&lt;/p&gt;
 
@@ -128,8 +144,6 @@ and &lt;a href=&quot;#conveners&quot;&gt;our convener invitations to you&lt;/a&g
 * Citizen Watchdog Groups
 * Students and Researchers
 ---&gt;
-
-&lt;p&gt;We hope the conversations catalyzed at the Workshop start ongoing work on biometrics issues.&lt;/p&gt;
 
 &lt;h2 id=&quot;conveners&quot;&gt;Conveners&lt;/h2&gt;
 
@@ -328,11 +342,11 @@ and &lt;a href=&quot;#conveners&quot;&gt;our convener invitations to you&lt;/a&g
   &lt;/thead&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;/assets/Planetwork-White.svg&quot; style=&quot;width:200px&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;/assets/partners/planetwork%20402x-p-500.png&quot; style=&quot;width:200px&quot; /&gt;&lt;/td&gt;
       &lt;td&gt;&lt;strong&gt;&lt;a href=&quot;https://planetwork.net/&quot;&gt;Planetwork&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;“Dedicated to addressing the global imperatives of our time.”&lt;br /&gt;&lt;em&gt;TBW is a fiscal project of Planetwork NGO Ltd.&lt;/em&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;/assets/paravision-logo-white.svg&quot; style=&quot;width:200px&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;/assets/partners/2022-paravision-logo-blue.svg&quot; style=&quot;width:200px&quot; /&gt;&lt;/td&gt;
       &lt;td&gt;&lt;strong&gt;&lt;a href=&quot;https://www.paravision.ai/company/&quot;&gt;Paravision&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;“Innovating in safety, security, and identity with AI and computer vision.”&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
@@ -511,6 +525,7 @@ and &lt;a href=&quot;#conveners&quot;&gt;our convener invitations to you&lt;/a&g
   &lt;/tbody&gt;
 &lt;/table&gt;
 
+&lt;p&gt; &lt;/p&gt;
 &lt;h1 id=&quot;conduct&quot;&gt;Conduct&lt;/h1&gt;
 
 &lt;p&gt;Thoughtful Biometrics Workshop Code of Conduct:&lt;/p&gt;
@@ -535,7 +550,7 @@ and &lt;a href=&quot;#conveners&quot;&gt;our convener invitations to you&lt;/a&g
 
 &lt;ul&gt;
   &lt;li&gt;Kaliya Young. &lt;a href=&quot;mailto:kaliya@identitywoman.net&quot;&gt;kaliya@identitywoman.net&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Phil Wolff. &lt;a href=&quot;mailto:phil@wider.team&quot;&gt;phil@wider.team&lt;/a&gt; US 1-360-441-2522&lt;/li&gt;
+  &lt;li&gt;Phil Wolff. &lt;a href=&quot;mailto:philwolff@planetwork.net&quot;&gt;philwolff@planetwork.net&lt;/a&gt; US 1-360-441-2522&lt;/li&gt;
 &lt;/ul&gt;
 </content>
  </entry>

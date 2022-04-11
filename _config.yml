@@ -60,3 +60,5 @@ nav:
 
 #  - title: Outcomes
 #    url: /potential-outcomes
+
+markdown: kramdown

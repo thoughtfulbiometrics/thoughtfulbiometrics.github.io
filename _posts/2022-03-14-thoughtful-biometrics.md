@@ -4,13 +4,18 @@ title: The Thoughtful Biometrics Workshop 2022
 permalink: /
 published: true
 ---
-The second Thoughtful Biometrics Workshop starts 11 July 2022.
+The second **Thoughtful Biometrics Workshop** starts 11 July 2022.<br>**[Register on Eventbrite](https://www.eventbrite.com/e/thoughtful-biometrics-workshop-tickets-297266601407)**.
 
-| [Register](#intro) | [Why now?](#invitation) | [The Format](#format) | [Sponsorship](#sponsorship) | [Conduct](#conduct) |
+| **1. [Introduction](#intro)**<br><small></small> |
+|  :---  |
+| **2. [Why now?](#invitation)**<br><small>[Your concerns](#your-concerns)<br>[Context and Challenges](#context-and-challenges)<br>[Our Response](#our-response)<br>[Axioms](#axioms)<br>[You should be here if you…](#you-should-be-here-if-you)<br>[Your Conveners](#conveners)</small> |
+| **3. [The Format](#format)**<br><small>[A proven format](#its-a-proven-format)<br>[How an Unconference works](#how-an-unconference-works)<br>[Day One - Level Setting](#day-one---level-setting)<br>[Days Two and Three - Open Space](#days-two-and-three--open-space)<br>[Day Four - Action](#day-four---a-day-of-action)<br>[A proven team](#a-proven-team)</small> |
+| **4. [Sponsorship](#sponsorship)**<br><small>[Thank you!](#thank-you)<br>[Why sponsor this conversation?](#why-sponsor-the-workshop)<br>[How to sponsor](#how-do-i-sponsor)</small> |
+| **5. [Proceedings](#history)** |
+| **6. [Conduct](#conduct)** |
+
 
 # Intro
-
-[Register on Eventbrite](https://www.eventbrite.com/e/thoughtful-biometrics-workshop-tickets-297266601407).
 
 <!--- Please [fill out this form to be updated when registration opens](https://docs.google.com/forms/d/e/1FAIpQLSe6lrXPP7f1tMvFVSo3dyFp7wLt18QEvkeTopNVGvbuk3eApw/viewform?usp=sf_link). Express interest and we'll email you when the details are firm. --->
 
@@ -24,8 +29,10 @@ The second Thoughtful Biometrics Workshop starts 11 July 2022.
     <dt>What</dt>
         <dd>20 hours of live workshop in May 2022</dd>
         <dd>Brings divergent biometrics policy stakeholders together to ideate a middle way</dd>
-        <dd>You build common ground and shared understanding.</dd>
-        <dd><a href="#history">Second in a series</a>. <a href="#conveners">Respected conveners</a>. A <a href="#a-proven-team">Proven team</a>.</dd>
+        <dd>You build common ground and shared understanding</dd>
+        <dd><a href="#history">Second in a series</a> with more to come</dd>
+        <dd><a href="#conveners">Respected conveners</a> inviting you</dd>
+        <dd><a href="#a-proven-team">A proven team</a></dd>
 </dl>
 
 # Invitation
@@ -36,7 +43,7 @@ We welcome the participation of people who ask serious questions about these sys
 
 We also want to invite those active in the industry who want to respond in a meaningful way to thoughtful criticism.
 
-_This workshop is not to “sell” biometrics products like the Connect:ID Conference or K(n)ow Identity Conference by OWI._  
+_This workshop is not to “sell” biometrics products like trade shows and industry confabs._  
 
 ## Your Concerns
 
@@ -55,6 +62,7 @@ Questions include:
 and [our convener invitations to you](#conveners).
 
 <a name="silos"></a>
+
 **Silos.**
 
 Networks of professionals build systems, each network with their own deep technical expertise. These professionals are so deep in their own fields they rarely talk to those in neighboring communities.
@@ -65,15 +73,10 @@ These isolated conversations have never been open or transparent. Until this Wor
 
 ## Our Response
 
-The Workshop fosters more cross-pollination and exploration of the technologies. And maps to their social and policy implications. We invite discussion about tangible risks and threat models at all levels, from the micro to the macro systems.
-
-We want to expand the conversation to support “hearing” the voices at the edges.
-
-We welcome people who ask serious questions about these systems.
-
-We also want to invite those active in the industry who want to respond in a meaningful way to thoughtful criticism. Our vision for the workshop is inspired by our ongoing participation in
-
-This workshop is not to “sell” biometrics products like industry trade shows and conferences.
+* The Workshop fosters more cross-pollination and exploration of the technologies. And maps to their social and policy implications. We invite discussion about tangible risks and threat models at all levels, from the micro to the macro systems.
+* We want to expand the conversation to support “hearing” the voices at the edges.
+* We welcome people who ask serious questions about these systems.
+* This workshop is not to “sell” biometrics products like industry trade shows and conferences.
 
 ## Axioms
 
@@ -81,10 +84,13 @@ This workshop is not to “sell” biometrics products like industry trade shows
 * Their uses can be good or can be bad.
 * We value discernment about the application of biometrics technology.
 
-<a name="you-should-be-here-if-you">
+<a name="you-should-be-here-if-you"></a>
 ## You should be here if you…
 
-We convene constituencies whose work touches on biometrics and use in the real world.
+* You should be here if your work touches on biometrics and its use in the real world.
+* You should be here if you have a bias for action.
+
+Come if you want Workshop conversations to start ongoing work on biometrics issues.
 
 <img src="/assets/whoparticipates.jpg" style="align:center; border-radius:1em;" title="Biometrics industry, biometrics researchers and scientists, Identity community, Commercial users of systems, Government users of systems, Regulators and policy makers, Infosec and cybersecurity professionals, Privacy professionals and advocates, Humanitarian groups, Police accountability groups, Citizen watchdog groups, students and researchers">
 
@@ -101,8 +107,6 @@ We convene constituencies whose work touches on biometrics and use in the real w
 * Citizen Watchdog Groups
 * Students and Researchers
 --->
-
-We hope the conversations catalyzed at the Workshop start ongoing work on biometrics issues.
 
 ## Conveners
 
@@ -258,8 +262,8 @@ Your host team is skilled in facilitation and space creation:
 
 | TBW2's sponsors |
 |---|
-|<img src="/assets/Planetwork-White.svg" style="width:200px">|**[Planetwork](https://planetwork.net/)**<br>"Dedicated to addressing the global imperatives of our time."<br>*TBW is a fiscal project of Planetwork NGO Ltd.*|
-|<img src="/assets/paravision-logo-white.svg" style="width:200px">|**[Paravision](https://www.paravision.ai/company/)**<br>"Innovating in safety, security, and identity with AI and computer vision."|
+|<img src="/assets/partners/planetwork%20402x-p-500.png" style="width:200px">|**[Planetwork](https://planetwork.net/)**<br>"Dedicated to addressing the global imperatives of our time."<br>*TBW is a fiscal project of Planetwork NGO Ltd.*|
+|<img src="/assets/partners/2022-paravision-logo-blue.svg" style="width:200px">|**[Paravision](https://www.paravision.ai/company/)**<br>"Innovating in safety, security, and identity with AI and computer vision."|
 
 And thanks to our Founding Sponsors:
 
@@ -333,7 +337,7 @@ Contents:
 |9A| Optional: DID (what is it) and how did Biometrics come (and go) in w3c/ did-core|
 |9D| COVID-19 Focus: How has the pandemic impacted biometrics? And what are ethical concerns related to health data collection?|
 
-
+&nbsp;
 # Conduct
 
 Thoughtful Biometrics Workshop Code of Conduct:
@@ -355,4 +359,4 @@ To be very explicit about Expected Behavior and Unacceptable Behavior, we like h
 If you encounter any behavior that causes you any concern, please bring it immediately to the attention of the event staff.
 
 * Kaliya Young. [kaliya@identitywoman.net](mailto:kaliya@identitywoman.net)
-* Phil Wolff. [phil@wider.team](mailto:phil@wider.team) US 1-360-441-2522
+* Phil Wolff. [philwolff@planetwork.net](mailto:philwolff@planetwork.net) US 1-360-441-2522
