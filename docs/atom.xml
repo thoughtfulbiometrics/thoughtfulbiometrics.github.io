@@ -3,9 +3,9 @@
 
  <title>Thoughtful Biometrics</title>
  <link href="/atom.xml" rel="self"/>
- <link href="http://thoughtfulbiometrics.org/"/>
- <updated>2022-04-11T14:04:53-07:00</updated>
- <id>http://thoughtfulbiometrics.org</id>
+ <link href="http://localhost:4000/"/>
+ <updated>2022-04-11T14:13:13-07:00</updated>
+ <id>http://localhost:4000</id>
  <author>
    <name>Phil Wolff</name>
    <email>youremailhere@gmail.com</email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>The Thoughtful Biometrics Workshop 2022</title>
-   <link href="http://thoughtfulbiometrics.org/"/>
+   <link href="http://localhost:4000/"/>
    <updated>2022-03-14T00:00:00-07:00</updated>
-   <id>http://thoughtfulbiometrics.org/thoughtful-biometrics</id>
+   <id>http://localhost:4000/thoughtful-biometrics</id>
    <content type="html">&lt;p&gt;The second &lt;strong&gt;Thoughtful Biometrics Workshop&lt;/strong&gt; starts 11 July 2022.&lt;br /&gt;&lt;strong&gt;&lt;a href=&quot;https://www.eventbrite.com/e/thoughtful-biometrics-workshop-tickets-297266601407&quot;&gt;Register on Eventbrite&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;table&gt;
@@ -72,7 +72,7 @@
 
 &lt;p&gt;We also want to invite those active in the industry who want to respond in a meaningful way to thoughtful criticism.&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;This workshop is not to “sell” biometrics products like trade shows and industry confabs.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;This workshop is not to “sell” biometrics products like trade shows or industry conferences.&lt;/em&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;your-concerns&quot;&gt;Your Concerns&lt;/h2&gt;
 
@@ -167,7 +167,7 @@ and &lt;a href=&quot;#conveners&quot;&gt;our convener invitations to you&lt;/a&g
   &lt;p&gt;Based on my interaction with both communities, I believe these concerns are merely due to misunderstanding about the basics; from one side, about biometric and the current state of the art research in the biometric space, and on the other side, the recent fast-paced development and improvement that is happening in the different identity ecosystems. Once this misunderstanding is cleared out, and knowledge transfer occurs, this workshop will create neat and doable ideas that will advance the biometric and identity development into a new and remarkable era.”&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;em&gt;Dr. Asem Othman (&lt;a href=&quot;https://www.linkedin.com/in/asemothman/&quot;&gt;LinkedIn&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/asem_othman&quot;&gt;Twitter&lt;/a&gt;) has more than ten years as a researcher, developer and leader in the biometrics space. During his doctoral research at West Virginia University, he developed a system of protecting and storing biometric templates using visual cryptography, which Veridium uses today in its VeridiumID solution. Dr. Othman performed his postdoctoral research at Michigan State University before joining the Computer Vision team at Veridium and leading research and development on their 4 Fingers TouchlessID technology. Dr. Othman holds more than 5 patents/patents pending and has published a variety of journal articles, conference papers, and key research entries. In February 2021, Dr. Othman joined &lt;a href=&quot;https://www.acuant.com/&quot;&gt;Acuant&lt;/a&gt;, a document verification leader, as a Director of Computer Vision and Machine Learning.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;_Dr. Asem Othman_&lt;/strong&gt; _(&lt;a href=&quot;https://www.linkedin.com/in/asemothman/&quot;&gt;LinkedIn&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/asem_othman&quot;&gt;Twitter&lt;/a&gt;) has more than ten years as a researcher, developer and leader in the biometrics space. During his doctoral research at West Virginia University, he developed a system of protecting and storing biometric templates using visual cryptography, which Veridium uses today in its VeridiumID solution. Dr. Othman performed his postdoctoral research at Michigan State University before joining the Computer Vision team at Veridium and leading research and development on their 4 Fingers TouchlessID technology. Dr. Othman holds more than 5 patents/patents pending and has published a variety of journal articles, conference papers, and key research entries. In February 2021, Dr. Othman joined &lt;a href=&quot;https://www.acuant.com/&quot;&gt;Acuant&lt;/a&gt;, a document verification leader, as a Director of Computer Vision and Machine Learning.&lt;/em&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;software-architect-and-developer-jack-john-callahan&quot;&gt;Software architect and developer Jack “John Callahan”&lt;/h3&gt;
 &lt;p&gt;&lt;img src=&quot;/assets/bios/jack.jpg&quot; style=&quot;border:1px #000; float:left; padding: 1em; border-radius:50%;&quot; /&gt;&lt;/p&gt;
@@ -175,7 +175,7 @@ and &lt;a href=&quot;#conveners&quot;&gt;our convener invitations to you&lt;/a&g
   &lt;p&gt;“Biometrics are more relevant than ever because of the increase in remote work due to the COVID-19 pandemic.  Protection and control (by each person) of their biometric data is paramount to assure that privacy, accessibility, inclusion, and diversity are available to all.”&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;em&gt;Dr. John Callahan is responsible for the development of VeridiumID’s world class enterprise-ready biometric solutions, leading a global team of software developers, computer vision scientists and sales engineers. He has previously served as the Associate Director for Information Dominance at the U.S. Navy’s Office of Naval Research Global, London UK office, via an Intergovernmental Personnel Act assignment from the Johns Hopkins University Applied Physics Laboratory. John completed his PhD in Computer Science at the University of Maryland, College Park.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;&lt;a href=&quot;https://www.linkedin.com/in/john-callahan-430707/&quot;&gt;Dr. John Callahan&lt;/a&gt;&lt;/em&gt;&lt;/strong&gt; &lt;em&gt;is responsible for the development of VeridiumID’s world class enterprise-ready biometric solutions, leading a global team of software developers, computer vision scientists and sales engineers. He has previously served as the Associate Director for Information Dominance at the U.S. Navy’s Office of Naval Research Global, London UK office, via an Intergovernmental Personnel Act assignment from the Johns Hopkins University Applied Physics Laboratory. John completed his PhD in Computer Science at the University of Maryland, College Park.&lt;/em&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;privacy-commissioner-brian-hofer&quot;&gt;Privacy commissioner Brian Hofer&lt;/h3&gt;
 &lt;p&gt;&lt;img src=&quot;/assets/bios/brian.jpg&quot; style=&quot;border:1px #000; float:left; padding: 1em; border-radius:50%;&quot; /&gt;&lt;/p&gt;
@@ -183,10 +183,11 @@ and &lt;a href=&quot;#conveners&quot;&gt;our convener invitations to you&lt;/a&g
   &lt;p&gt;“The use of biometric technology in our everyday lives is not yet a foregone conclusion. Although biometrics suggests an exciting promise of perfect security and convenience, the potential pitfalls from identity theft, unregulated data brokers, and government overreach are equally significant. Far too often the tech sector rushes to market without first creating sufficient guardrails to mitigate the potential negative impacts from newer and more powerful technology. New and emerging technologies must first be understood before possible implementation and use.”&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;em&gt;Brian Hofer, J.D., works with municipal and state law enforcement throughout California to create privacy and use policies regulating surveillance equipment and data sharing. He has been a featured speaker at forums organized by the California Department of Justice, RightsCon, HOPE Conference, and Berkeley Law School, among others. He has been the Chair of the City of Oakland Privacy Advisory Commission since he helped create it in 2016. Before that he led the Oakland Domain Awareness Center Ad Hoc Privacy Committee in pushing back against citywide surveillance without public review.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Brian Hofer&lt;/em&gt;&lt;/strong&gt; &lt;em&gt;is Chair of the &lt;a href=&quot;https://www.oaklandca.gov/boards-commissions/privacy-advisory-board&quot;&gt;Oakland Privacy Advisory Commission&lt;/a&gt; and the Chair and Executive Director of &lt;a href=&quot;https://secure-justice.org/&quot;&gt;Secure Justice&lt;/a&gt;. His advocacy has been instrumental in a number of nation-leading ordinances, including ones that established a vetting framework for the potential acquisition and use of surveillance equipment. Mr. Hofer is presently consulting with the cities of San Diego, San Jose, Los Angeles, Washington, D.C. and Portland on establishing similar frameworks. &lt;br /&gt;&lt;br /&gt;Brian has presented on his work at conferences sponsored by the California Department of Justice, National Association of Criminal Defense Lawyers, Berkeley Law School, NYU Law School, Georgetown Law School, Berkeley Goldman School of Public Policy, and he has testified before various California state Senate and Assembly committees in support of privacy enhancing legislation.&lt;/em&gt;
+&amp;lt;!—&lt;em&gt;Brian Hofer, J.D., works with municipal and state law enforcement throughout California to create privacy and use policies regulating surveillance equipment and data sharing. He has been a featured speaker at forums organized by the California Department of Justice, RightsCon, HOPE Conference, and Berkeley Law School, among others. He has been the Chair of the City of Oakland Privacy Advisory Commission since he helped create it in 2016. Before that he led the Oakland Domain Awareness Center Ad Hoc Privacy Committee in pushing back against citywide surveillance without public review.&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Hofer is Chair and Executive Director of Secure Justice, a not-for-profit that advocates against state abuse of power, and for reduction in government and corporate over-reach. They target change in government contracting and corporate complicity with government policies and practices that are inconsistent with democratic values and principles of human rights.&lt;/em&gt;&lt;/p&gt;
-
+&lt;p&gt;&lt;em&gt;Hofer is Chair and Executive Director of Secure Justice, a not-for-profit that advocates against state abuse of power, and for reduction in government and corporate over-reach. They target change in government contracting and corporate complicity with government policies and practices that are inconsistent with democratic values and principles of human rights.&lt;/em&gt;
+—&amp;gt;&lt;/p&gt;
 &lt;h3 id=&quot;digital-identity-expert-kaliya-young-identity-woman&quot;&gt;Digital identity expert Kaliya Young “Identity Woman”&lt;/h3&gt;
 &lt;p&gt;&lt;img src=&quot;/assets/bios/kaliya2.jpg&quot; style=&quot;border:1px #000; float:left; padding: 1em; border-radius:50%;&quot; /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
@@ -197,7 +198,7 @@ and &lt;a href=&quot;#conveners&quot;&gt;our convener invitations to you&lt;/a&g
   &lt;p&gt;Biometrics have a great potential to be quite dangerous if abused. The ethical side of the industry see they have great potential to address some use-cases (such as recovery) that otherwise would be very difficult.”&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;em&gt;Kaliya Young (formerly Hamlin) is an expert in self-sovereign identity and identity on the blockchain. She is the co-author of a Comprehensive guide to Self-Sovereign Identity and is widely known as Identity Woman (it’s also the name of her blog and her twitter handle). She has committed her life to the development of an open-standards based layer of the Internet that empowers people.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Kaliya Young&lt;/em&gt;&lt;/strong&gt; &lt;em&gt;(formerly Hamlin) is an expert in self-sovereign identity and identity on the blockchain. She is the co-author of &lt;a href=&quot;https://www.amazon.com/Comprehensive-Guide-Self-Sovereign-Identity-ebook/dp/B07Q3TXLDP/&quot;&gt;A Comprehensive guide to Self-Sovereign Identity&lt;/a&gt; and is widely known as Identity Woman (it’s also the name of &lt;a href=&quot;https://identitywoman.net/blog-2/&quot;&gt;her blog&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/identitywoman&quot;&gt;her twitter handle&lt;/a&gt;). She has committed her life to the development of an open-standards based layer of the Internet that empowers people.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a name=&quot;format&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&quot;format&quot;&gt;Format&lt;/h1&gt;
@@ -557,18 +558,18 @@ and &lt;a href=&quot;#conveners&quot;&gt;our convener invitations to you&lt;/a&g
  
  <entry>
    <title>Sponsors</title>
-   <link href="http://thoughtfulbiometrics.org/sponsors"/>
+   <link href="http://localhost:4000/sponsors"/>
    <updated>2021-11-28T00:00:00-08:00</updated>
-   <id>http://thoughtfulbiometrics.org/sponsors</id>
+   <id>http://localhost:4000/sponsors</id>
    <content type="html">&lt;p&gt;Sponsors Coming - &lt;em&gt;please contact us if you are interested in sponsoring&lt;/em&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>The Thoughtful Biometrics Workshop 2022</title>
-   <link href="http://thoughtfulbiometrics.org/old"/>
+   <link href="http://localhost:4000/old"/>
    <updated>2021-11-27T00:00:00-08:00</updated>
-   <id>http://thoughtfulbiometrics.org/thoughtful-biometrics</id>
+   <id>http://localhost:4000/thoughtful-biometrics</id>
    <content type="html">&lt;p&gt;&lt;strong&gt;Thoughtful Biometrics Workshop&lt;/strong&gt; is a space to dialogue about critical emerging issues surrounding biometric and digital identity technologies.&lt;/p&gt;
 
 &lt;h3 id=&quot;this-is-a-4-day-virtual-event-11-13-15-and-20-july-2022&quot;&gt;This is a 4 day virtual event. 11, 13, 15, and 20 July 2022.&lt;/h3&gt;
@@ -670,9 +671,9 @@ We will be hosting it virtually on the same platform that IIW uses - QiQoChat.&l
  
  <entry>
    <title>Potential Outcomes</title>
-   <link href="http://thoughtfulbiometrics.org/potential-outcomes"/>
+   <link href="http://localhost:4000/potential-outcomes"/>
    <updated>2020-12-10T00:00:00-08:00</updated>
-   <id>http://thoughtfulbiometrics.org/outcomes</id>
+   <id>http://localhost:4000/outcomes</id>
    <content type="html">&lt;p&gt;The followings are some ideas about potential outcomes in no particular priority order:&lt;/p&gt;
 
 &lt;ul&gt;
@@ -690,9 +691,9 @@ We will be hosting it virtually on the same platform that IIW uses - QiQoChat.&l
  
  <entry>
    <title>Potential Topics</title>
-   <link href="http://thoughtfulbiometrics.org/potential-topics"/>
+   <link href="http://localhost:4000/potential-topics"/>
    <updated>2020-11-16T00:00:00-08:00</updated>
-   <id>http://thoughtfulbiometrics.org/topics</id>
+   <id>http://localhost:4000/topics</id>
    <content type="html">&lt;p&gt;This is not the agenda - that will be co-created at 9am pacific/ noon eastern each day of the workshop by the participants based on their inspiration.&lt;/p&gt;
 
 &lt;p&gt;When attendees register we ask them about topics they would like to discuss and this is what they named.&lt;/p&gt;
@@ -703,9 +704,9 @@ We will be hosting it virtually on the same platform that IIW uses - QiQoChat.&l
  
  <entry>
    <title>Open Space Technology</title>
-   <link href="http://thoughtfulbiometrics.org/open-spaces"/>
+   <link href="http://localhost:4000/open-spaces"/>
    <updated>2020-11-16T00:00:00-08:00</updated>
-   <id>http://thoughtfulbiometrics.org/open-spaces</id>
+   <id>http://localhost:4000/open-spaces</id>
    <content type="html">&lt;p&gt;This event uses a format called &lt;a href=&quot;https://en.wikipedia.org/wiki/Open_Space_Technology&quot;&gt;Open Space Technology&lt;/a&gt; and is modeled after the &lt;a href=&quot;https://internetidentityworkshop.com/&quot;&gt;Internet Identity Workshop&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;The format is over 3 decades old and was innovated to support “alive” conversations that are inspiring and action oriented.&lt;/p&gt;
@@ -718,9 +719,9 @@ We will be hosting it virtually on the same platform that IIW uses - QiQoChat.&l
  
  <entry>
    <title>Who&apos;s Coming?</title>
-   <link href="http://thoughtfulbiometrics.org/whos-coming"/>
+   <link href="http://localhost:4000/whos-coming"/>
    <updated>2020-11-16T00:00:00-08:00</updated>
-   <id>http://thoughtfulbiometrics.org/attending</id>
+   <id>http://localhost:4000/attending</id>
    <content type="html">&lt;h2 id=&quot;who-is-coming-to-the-event&quot;&gt;Who is coming to the event?&lt;/h2&gt;
 
 &lt;p&gt;We are inviting peoplf rom a diverse range of fields ot the event.&lt;/p&gt;
@@ -743,9 +744,9 @@ We will be hosting it virtually on the same platform that IIW uses - QiQoChat.&l
  
  <entry>
    <title>The Thoughtful Biometrics Workshop 2021</title>
-   <link href="http://thoughtfulbiometrics.org/2021-event/"/>
+   <link href="http://localhost:4000/2021-event/"/>
    <updated>2020-09-04T00:00:00-07:00</updated>
-   <id>http://thoughtfulbiometrics.org/2021_Event</id>
+   <id>http://localhost:4000/2021_Event</id>
    <content type="html">&lt;p&gt;The First Thoughtful Biometrics conference was held March 8, 10, and 12 that is Monday, Wednesday and Friday - 2nd week, March 2021.&lt;/p&gt;
 
 &lt;h1 id=&quot;book-of-proceedings&quot;&gt;Book of Proceedings&lt;/h1&gt;
