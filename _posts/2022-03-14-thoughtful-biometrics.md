@@ -6,15 +6,6 @@ published: true
 ---
 The second **Thoughtful Biometrics Workshop** starts 11 July 2022.<br>**[Register on Eventbrite](https://www.eventbrite.com/e/thoughtful-biometrics-workshop-tickets-297266601407)**.
 
-| **1. [Introduction](#intro)**<br><small></small> |
-|  :---  |
-| **2. [Why now?](#invitation)**<br><small>[Your concerns](#your-concerns)<br>[Context and Challenges](#context-and-challenges)<br>[Our Response](#our-response)<br>[Axioms](#axioms)<br>[You should be here if you…](#you-should-be-here-if-you)<br>[Your Conveners](#conveners)</small> |
-| **3. [The Format](#format)**<br><small>[A proven format](#its-a-proven-format)<br>[How an Unconference works](#how-an-unconference-works)<br>[Day One - Level Setting](#day-one---level-setting)<br>[Days Two and Three - Open Space](#days-two-and-three--open-space)<br>[Day Four - Action](#day-four---a-day-of-action)<br>[A proven team](#a-proven-team)</small> |
-| **4. [Sponsorship](#sponsorship)**<br><small>[Thank you!](#thank-you)<br>[Why sponsor this conversation?](#why-sponsor-the-workshop)<br>[How to sponsor](#how-do-i-sponsor)</small> |
-| **5. [Proceedings](#history)** |
-| **6. [Conduct](#conduct)** |
-
-
 # Intro
 
 <!--- Please [fill out this form to be updated when registration opens](https://docs.google.com/forms/d/e/1FAIpQLSe6lrXPP7f1tMvFVSo3dyFp7wLt18QEvkeTopNVGvbuk3eApw/viewform?usp=sf_link). Express interest and we'll email you when the details are firm. --->
@@ -27,7 +18,7 @@ The second **Thoughtful Biometrics Workshop** starts 11 July 2022.<br>**[Registe
     <dt>Where</dt>
         <dd><a href="#format">Virtual Unconference Format</a> </dd>
     <dt>What</dt>
-        <dd>20 hours of live workshop in May 2022</dd>
+        <dd>20 hours of live workshop in July 2022</dd>
         <dd>Brings divergent biometrics policy stakeholders together to ideate a middle way</dd>
         <dd>You build common ground and shared understanding</dd>
         <dd><a href="#history">Second in a series</a> with more to come</dd>
@@ -128,7 +119,7 @@ We invited experts from diverse fields to tell us why this conversation matters 
 >
 > Based on my interaction with both communities, I believe these concerns are merely due to misunderstanding about the basics; from one side, about biometric and the current state of the art research in the biometric space, and on the other side, the recent fast-paced development and improvement that is happening in the different identity ecosystems. Once this misunderstanding is cleared out, and knowledge transfer occurs, this workshop will create neat and doable ideas that will advance the biometric and identity development into a new and remarkable era.”
 
-_**_Dr. Asem Othman_** _([LinkedIn](https://www.linkedin.com/in/asemothman/), [Twitter](https://twitter.com/asem_othman)) has more than ten years as a researcher, developer and leader in the biometrics space. During his doctoral research at West Virginia University, he developed a system of protecting and storing biometric templates using visual cryptography, which Veridium uses today in its VeridiumID solution. Dr. Othman performed his postdoctoral research at Michigan State University before joining the Computer Vision team at Veridium and leading research and development on their 4 Fingers TouchlessID technology. Dr. Othman holds more than 5 patents/patents pending and has published a variety of journal articles, conference papers, and key research entries. In February 2021, Dr. Othman joined [Acuant](https://www.acuant.com/), a document verification leader, as a Director of Computer Vision and Machine Learning._
+**_Dr. Asem Othman_** ([LinkedIn](https://www.linkedin.com/in/asemothman/), [Twitter](https://twitter.com/asem_othman)) has more than ten years as a researcher, developer and leader in the biometrics space. During his doctoral research at West Virginia University, he developed a system of protecting and storing biometric templates using visual cryptography, which Veridium uses today in its VeridiumID solution. Dr. Othman performed his postdoctoral research at Michigan State University before joining the Computer Vision team at Veridium and leading research and development on their 4 Fingers TouchlessID technology. Dr. Othman holds more than 5 patents/patents pending and has published a variety of journal articles, conference papers, and key research entries. In February 2021, Dr. Othman joined [Acuant](https://www.acuant.com/), a document verification leader, as a Director of Computer Vision and Machine Learning._
 
 ### Software architect and developer Jack “John Callahan”
 <img src="/assets/bios/jack.jpg" style="border:1px #000; float:left; padding: 1em; border-radius:50%;">
@@ -141,10 +132,7 @@ _**_Dr. Asem Othman_** _([LinkedIn](https://www.linkedin.com/in/asemothman/), [T
 > “The use of biometric technology in our everyday lives is not yet a foregone conclusion. Although biometrics suggests an exciting promise of perfect security and convenience, the potential pitfalls from identity theft, unregulated data brokers, and government overreach are equally significant. Far too often the tech sector rushes to market without first creating sufficient guardrails to mitigate the potential negative impacts from newer and more powerful technology. New and emerging technologies must first be understood before possible implementation and use.”
 
 **_Brian Hofer_** _is Chair of the [Oakland Privacy Advisory Commission](https://www.oaklandca.gov/boards-commissions/privacy-advisory-board) and the Chair and Executive Director of [Secure Justice](https://secure-justice.org/). His advocacy has been instrumental in a number of nation-leading ordinances, including ones that established a vetting framework for the potential acquisition and use of surveillance equipment. Mr. Hofer is presently consulting with the cities of San Diego, San Jose, Los Angeles, Washington, D.C. and Portland on establishing similar frameworks. <br/><br/>Brian has presented on his work at conferences sponsored by the California Department of Justice, National Association of Criminal Defense Lawyers, Berkeley Law School, NYU Law School, Georgetown Law School, Berkeley Goldman School of Public Policy, and he has testified before various California state Senate and Assembly committees in support of privacy enhancing legislation._
-<!---_Brian Hofer, J.D., works with municipal and state law enforcement throughout California to create privacy and use policies regulating surveillance equipment and data sharing. He has been a featured speaker at forums organized by the California Department of Justice, RightsCon, HOPE Conference, and Berkeley Law School, among others. He has been the Chair of the City of Oakland Privacy Advisory Commission since he helped create it in 2016. Before that he led the Oakland Domain Awareness Center Ad Hoc Privacy Committee in pushing back against citywide surveillance without public review._
- 
-_Hofer is Chair and Executive Director of Secure Justice, a not-for-profit that advocates against state abuse of power, and for reduction in government and corporate over-reach. They target change in government contracting and corporate complicity with government policies and practices that are inconsistent with democratic values and principles of human rights._
---->
+
 ### Digital identity expert Kaliya Young “Identity Woman”
 <img src="/assets/bios/kaliya2.jpg" style="border:1px #000; float:left; padding: 1em; border-radius:50%;">
 > “Digital Identity experts are not biometrics experts. The role that biometrics can play in digital identity systems is varied. I had a lot of preconceived notions about biometrics before I learned more about how they actually worked and how they fit within systems. It has been eye opening to engage with Jack and Asem and my hope is that other identity experts will find value in engaging with biometric experts.
@@ -158,8 +146,8 @@ _Hofer is Chair and Executive Director of Secure Justice, a not-for-profit that 
 
 This is a four-day virtual workshop.
 
-* Monday, Wednesday and Friday - 16, 18, 20 May 2022
-* Wednesday, 25 May 2022: A *Day Of Action.*
+* Monday, Wednesday and Friday - 11, 13, 15, 20 July 2022
+* Wednesday, 20 July 2022: A *Day Of Action.*
 * 9am to 2pm Pacific / Noon to 5pm Eastern / 5pm to 10pm London
 
 <img src="/assets/TBW2_4_days_flow_compressed.jpg" style="border:1px #300; align:center; padding: 1em; border-radius:5%;">
@@ -301,7 +289,7 @@ And…
 |  | Event name | Venue | Date | Documentation |
 |:--:|:-------|:-------------|:-----|:-------|
 | 1 | [Thoughtful Biometrics Workshop](#tbw1)  | Virtual | March 2021 | [Proceedings](../assets/TBW01_Book_of_Proceedings.pdf "download pdf")|
-| 2 | Thoughtful Biometrics Workshop | Virtual | May 2022 | Proceedings |
+| 2 | Thoughtful Biometrics Workshop | Virtual | July 2022 | Proceedings |
 
 <a name="tbw1"></a>
 ### The First Thoughtful Biometrics Workshop - 2021
@@ -361,3 +349,12 @@ If you encounter any behavior that causes you any concern, please bring it immed
 
 * Kaliya Young. [kaliya@identitywoman.net](mailto:kaliya@identitywoman.net)
 * Phil Wolff. [philwolff@planetwork.net](mailto:philwolff@planetwork.net) US 1-360-441-2522
+
+# page content
+| **1. [Introduction](#intro)**<br><small></small> |
+|  :---  |
+| **2. [Why now?](#invitation)**<br><small>[Your concerns](#your-concerns)<br>[Context and Challenges](#context-and-challenges)<br>[Our Response](#our-response)<br>[Axioms](#axioms)<br>[You should be here if you…](#you-should-be-here-if-you)<br>[Your Conveners](#conveners)</small> |
+| **3. [The Format](#format)**<br><small>[A proven format](#its-a-proven-format)<br>[How an Unconference works](#how-an-unconference-works)<br>[Day One - Level Setting](#day-one---level-setting)<br>[Days Two and Three - Open Space](#days-two-and-three--open-space)<br>[Day Four - Action](#day-four---a-day-of-action)<br>[A proven team](#a-proven-team)</small> |
+| **4. [Sponsorship](#sponsorship)**<br><small>[Thank you!](#thank-you)<br>[Why sponsor this conversation?](#why-sponsor-the-workshop)<br>[How to sponsor](#how-do-i-sponsor)</small> |
+| **5. [Proceedings](#history)** |
+| **6. [Conduct](#conduct)** |
