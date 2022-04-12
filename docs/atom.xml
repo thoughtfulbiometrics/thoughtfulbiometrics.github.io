@@ -4,7 +4,7 @@
  <title>Thoughtful Biometrics</title>
  <link href="/atom.xml" rel="self"/>
  <link href="http://thoughtfulbiometrics.org/"/>
- <updated>2022-04-11T15:05:31-07:00</updated>
+ <updated>2022-04-12T13:18:55-07:00</updated>
  <id>http://thoughtfulbiometrics.org</id>
  <author>
    <name>Phil Wolff</name>
@@ -17,7 +17,7 @@
    <link href="http://thoughtfulbiometrics.org/"/>
    <updated>2022-03-14T00:00:00-07:00</updated>
    <id>http://thoughtfulbiometrics.org/thoughtful-biometrics</id>
-   <content type="html">&lt;p&gt;The second &lt;strong&gt;Thoughtful Biometrics Workshop&lt;/strong&gt; starts 11 July 2022.&lt;br /&gt;&lt;strong&gt;&lt;a href=&quot;https://www.eventbrite.com/e/thoughtful-biometrics-workshop-tickets-297266601407&quot;&gt;Register on Eventbrite&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;strong&gt;TBW2&lt;/strong&gt;, the second &lt;strong&gt;Thoughtful Biometrics Workshop&lt;/strong&gt;, starts 11 July 2022.&lt;br /&gt;&lt;strong&gt;&lt;a href=&quot;https://www.eventbrite.com/e/thoughtful-biometrics-workshop-tickets-297266601407&quot;&gt;Register on Eventbrite&lt;/a&gt;&lt;/strong&gt;. &lt;br /&gt;TBW3 is in September 2022. &lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLSe6lrXPP7f1tMvFVSo3dyFp7wLt18QEvkeTopNVGvbuk3eApw/viewform?usp=sf_link&quot; title=&quot;a Google form until we get mailchimp set up&quot;&gt;Subscribe to TBW announcements&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h1 id=&quot;intro&quot;&gt;Intro&lt;/h1&gt;
 
@@ -526,14 +526,33 @@ and &lt;a href=&quot;#conveners&quot;&gt;our convener invitations to you&lt;/a&g
   &lt;li&gt;Phil Wolff. &lt;a href=&quot;mailto:philwolff@planetwork.net&quot;&gt;philwolff@planetwork.net&lt;/a&gt; US 1-360-441-2522&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&quot;page-content&quot;&gt;page content&lt;/h1&gt;
-&lt;p&gt;| &lt;strong&gt;1. &lt;a href=&quot;#intro&quot;&gt;Introduction&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;&lt;small&gt;&lt;/small&gt; |
-|  :—  |
-| &lt;strong&gt;2. &lt;a href=&quot;#invitation&quot;&gt;Why now?&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;&lt;small&gt;&lt;a href=&quot;#your-concerns&quot;&gt;Your concerns&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;#context-and-challenges&quot;&gt;Context and Challenges&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;#our-response&quot;&gt;Our Response&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;#axioms&quot;&gt;Axioms&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;#you-should-be-here-if-you&quot;&gt;You should be here if you…&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;#conveners&quot;&gt;Your Conveners&lt;/a&gt;&lt;/small&gt; |
-| &lt;strong&gt;3. &lt;a href=&quot;#format&quot;&gt;The Format&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;&lt;small&gt;&lt;a href=&quot;#its-a-proven-format&quot;&gt;A proven format&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;#how-an-unconference-works&quot;&gt;How an Unconference works&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;#day-one---level-setting&quot;&gt;Day One - Level Setting&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;#days-two-and-three--open-space&quot;&gt;Days Two and Three - Open Space&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;#day-four---a-day-of-action&quot;&gt;Day Four - Action&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;#a-proven-team&quot;&gt;A proven team&lt;/a&gt;&lt;/small&gt; |
-| &lt;strong&gt;4. &lt;a href=&quot;#sponsorship&quot;&gt;Sponsorship&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;&lt;small&gt;&lt;a href=&quot;#thank-you&quot;&gt;Thank you!&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;#why-sponsor-the-workshop&quot;&gt;Why sponsor this conversation?&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;#how-do-i-sponsor&quot;&gt;How to sponsor&lt;/a&gt;&lt;/small&gt; |
-| &lt;strong&gt;5. &lt;a href=&quot;#history&quot;&gt;Proceedings&lt;/a&gt;&lt;/strong&gt; |
-| &lt;strong&gt;6. &lt;a href=&quot;#conduct&quot;&gt;Conduct&lt;/a&gt;&lt;/strong&gt; |&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h1 id=&quot;outline&quot;&gt;Outline&lt;/h1&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;&lt;strong&gt;1. &lt;a href=&quot;#intro&quot;&gt;Introduction&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;&lt;small&gt;&lt;/small&gt;&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;2. &lt;a href=&quot;#invitation&quot;&gt;Why now?&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;&lt;small&gt;&lt;a href=&quot;#your-concerns&quot;&gt;Your concerns&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;#context-and-challenges&quot;&gt;Context and Challenges&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;#our-response&quot;&gt;Our Response&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;#axioms&quot;&gt;Assumptions about the challenge&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;#you-should-be-here-if-you&quot;&gt;You should be here if you…&lt;/a&gt; want to shape public policy &lt;br /&gt;&lt;a href=&quot;#conveners&quot;&gt;Your Conveners&lt;/a&gt; answer &lt;em&gt;“Why now? Why here?”&lt;/em&gt;&lt;/small&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;3. &lt;a href=&quot;#format&quot;&gt;The Format&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;&lt;small&gt;&lt;a href=&quot;#its-a-proven-format&quot;&gt;A proven format&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;#how-an-unconference-works&quot;&gt;How an Unconference works&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;#day-one---level-setting&quot;&gt;Day One - Level Setting&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;#days-two-and-three--open-space&quot;&gt;Days Two and Three - Open Space&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;#day-four---a-day-of-action&quot;&gt;Day Four - Action&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;#a-proven-team&quot;&gt;A proven team&lt;/a&gt;&lt;/small&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;4. &lt;a href=&quot;#sponsorship&quot;&gt;Sponsorship&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;&lt;small&gt;&lt;a href=&quot;#thank-you&quot;&gt;Thank you!&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;#why-sponsor-the-workshop&quot;&gt;Why sponsor this conversation?&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;#how-do-i-sponsor&quot;&gt;How to sponsor&lt;/a&gt;&lt;/small&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;5. &lt;a href=&quot;#history&quot;&gt;Proceedings&lt;/a&gt;&lt;/strong&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;6. &lt;a href=&quot;#conduct&quot;&gt;Conduct&lt;/a&gt;&lt;/strong&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
 </content>
  </entry>
  

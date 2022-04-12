@@ -4,7 +4,7 @@ title: The Thoughtful Biometrics Workshop 2022
 permalink: /
 published: true
 ---
-The second **Thoughtful Biometrics Workshop** starts 11 July 2022.<br>**[Register on Eventbrite](https://www.eventbrite.com/e/thoughtful-biometrics-workshop-tickets-297266601407)**.
+**TBW2**, the second **Thoughtful Biometrics Workshop**, starts 11 July 2022.<br>**[Register on Eventbrite](https://www.eventbrite.com/e/thoughtful-biometrics-workshop-tickets-297266601407)**. <br>TBW3 is in September 2022. [Subscribe to TBW announcements](https://docs.google.com/forms/d/e/1FAIpQLSe6lrXPP7f1tMvFVSo3dyFp7wLt18QEvkeTopNVGvbuk3eApw/viewform?usp=sf_link "a Google form until we get mailchimp set up").
 
 # Intro
 
@@ -350,10 +350,12 @@ If you encounter any behavior that causes you any concern, please bring it immed
 * Kaliya Young. [kaliya@identitywoman.net](mailto:kaliya@identitywoman.net)
 * Phil Wolff. [philwolff@planetwork.net](mailto:philwolff@planetwork.net) US 1-360-441-2522
 
-# page content
+---
+# Outline
+
 | **1. [Introduction](#intro)**<br><small></small> |
-|  :---  |
-| **2. [Why now?](#invitation)**<br><small>[Your concerns](#your-concerns)<br>[Context and Challenges](#context-and-challenges)<br>[Our Response](#our-response)<br>[Axioms](#axioms)<br>[You should be here if you…](#you-should-be-here-if-you)<br>[Your Conveners](#conveners)</small> |
+| :---  |
+| **2. [Why now?](#invitation)**<br><small>[Your concerns](#your-concerns)<br>[Context and Challenges](#context-and-challenges)<br>[Our Response](#our-response)<br>[Assumptions about the challenge](#axioms)<br>[You should be here if you…](#you-should-be-here-if-you) want to shape public policy <br>[Your Conveners](#conveners) answer *"Why now? Why here?"*</small> |
 | **3. [The Format](#format)**<br><small>[A proven format](#its-a-proven-format)<br>[How an Unconference works](#how-an-unconference-works)<br>[Day One - Level Setting](#day-one---level-setting)<br>[Days Two and Three - Open Space](#days-two-and-three--open-space)<br>[Day Four - Action](#day-four---a-day-of-action)<br>[A proven team](#a-proven-team)</small> |
 | **4. [Sponsorship](#sponsorship)**<br><small>[Thank you!](#thank-you)<br>[Why sponsor this conversation?](#why-sponsor-the-workshop)<br>[How to sponsor](#how-do-i-sponsor)</small> |
 | **5. [Proceedings](#history)** |
