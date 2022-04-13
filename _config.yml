@@ -40,6 +40,9 @@ version: 3.0.0
 
 # Navbar page list
 nav:
+  - title: Register
+    url: https://www.eventbrite.com/e/thoughtful-biometrics-workshop-tickets-297266601407
+
   - title: Outline
     url: /#outline
 
