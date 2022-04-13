@@ -30,11 +30,11 @@ published: true
 
 The Thoughtful Biometrics Workshops create a space to dialogue about critical emerging issues surrounding biometric and digital identity technologies.
 
-We welcome the participation of people who ask serious questions about these systems.
+We welcome the participation of *people who ask serious questions* about these systems.
 
-We also want to invite those active in the industry who want to respond in a meaningful way to thoughtful criticism.
+We invite those active in the industry who want to *respond in a meaningful way* to thoughtful criticism.
 
-_This workshop is not to “sell” biometrics products like trade shows or industry conferences._
+_This workshop is not to “sell” biometrics products like trade shows. We explore this problem space and seek a path forward._
 
 ## Your Concerns
 
@@ -50,7 +50,7 @@ Questions include:
 ## Context and Challenges
 
 [The problem](#silos), [Our response](#our-response), [Our assumptions](#axioms), [Who we need in this conversation](#you-should-be-here-if-you)
-and [our convener invitations to you](#conveners).
+and [our conveners' invitations to you](#conveners).
 
 <a name="silos"></a>
 
