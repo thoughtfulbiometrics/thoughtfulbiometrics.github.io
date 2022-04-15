@@ -378,9 +378,6 @@ If you encounter any behavior that causes you any concern, please bring it immed
 
 
 # Contact
-| Reach out to us | 
-| --- |
-| <img src="/assets/icons/envelope-solid.png" style="width:1em; height:1em; color: #663300; border:0; padding:0; margin:0;" > [philwolff@planetwork.net](mailto:philwolff@planetwork.net) |
-| <img src="/assets/icons/phone-solid.png" style="width:1em; height:1em; color: #663300; border:0; padding:0; margin:0;" > [1-360-441-2522](tel:13604412522) |
-| <img src="/assets/icons/twitter-square-brands.png" style="width:1em; height:1em; color: #663300; border:0; padding:0; margin:0;"> [@tbworkshop](https://twitter.com/tb_workshop) |
-| <img src="/assets/icons/linkedin-brands.png" style="width:1em; height:1em; color: #663300; border:0; padding:0; margin:0;"> [LinkedIn](https://linkedin.com/company/thoughtfulbiometrics) |
+Reach out to us.
+
+<img src="/assets/icons/envelope-solid.png" style="width:1em; height:1em; color: #663300; border:0; padding:0; margin:0;" > [philwolff@planetwork.net](mailto:philwolff@planetwork.net)<br><img src="/assets/icons/square-phone-solid.png" style="width:1em; height:1em; color: #663300; border:0; padding:0; margin:0;" > [1-360-441-2522](tel:13604412522)<br><img src="/assets/icons/twitter-square-brands.png" style="width:1em; height:1em; color: #663300; border:0; padding:0; margin:0;"> [@tbworkshop](https://twitter.com/tb_workshop)<br><img src="/assets/icons/linkedin-brands.png" style="width:1em; height:1em; color: #663300; border:0; padding:0; margin:0;"> [LinkedIn](https://linkedin.com/company/thoughtfulbiometrics)
