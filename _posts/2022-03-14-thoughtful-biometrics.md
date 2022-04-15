@@ -119,13 +119,13 @@ We invited experts from diverse fields to tell us why this conversation matters 
 >
 > Based on my interaction with both communities, I believe these concerns are merely due to misunderstanding about the basics; from one side, about biometric and the current state of the art research in the biometric space, and on the other side, the recent fast-paced development and improvement that is happening in the different identity ecosystems. Once this misunderstanding is cleared out, and knowledge transfer occurs, this workshop will create neat and doable ideas that will advance the biometric and identity development into a new and remarkable era.”
 
-**_Dr. Asem Othman_** ([LinkedIn](https://www.linkedin.com/in/asemothman/), [Twitter](https://twitter.com/asem_othman)) has more than ten years as a researcher, developer and leader in the biometrics space. During his doctoral research at West Virginia University, he developed a system of protecting and storing biometric templates using visual cryptography, which Veridium uses today in its VeridiumID solution. Dr. Othman performed his postdoctoral research at Michigan State University before joining the Computer Vision team at Veridium and leading research and development on their 4 Fingers TouchlessID technology. Dr. Othman holds more than 5 patents/patents pending and has published a variety of journal articles, conference papers, and key research entries. In February 2021, Dr. Othman joined [Acuant](https://www.acuant.com/), a document verification leader, as a Director of Computer Vision and Machine Learning._
+**_Dr. Asem Othman_** ([LinkedIn](https://www.linkedin.com/in/asemothman/), [Twitter](https://twitter.com/asem_othman)) _has more than ten years as a researcher, developer and leader in the biometrics space. During his doctoral research at West Virginia University, he developed a system of protecting and storing biometric templates using visual cryptography, which Veridium uses today in its VeridiumID solution. Dr. Othman performed his postdoctoral research at Michigan State University before joining the Computer Vision team at Veridium and leading research and development on their 4 Fingers TouchlessID technology. Dr. Othman holds more than 5 patents/patents pending and has published a variety of journal articles, conference papers, and key research entries. In February 2021, Dr. Othman joined [Acuant](https://www.acuant.com/), a document verification leader, as a Director of Computer Vision and Machine Learning._
 
 ### Software architect and developer Jack “John Callahan”
 <img src="/assets/bios/jack.jpg" style="border:1px #000; float:left; padding: 1em; border-radius:50%;">
 > “Biometrics are more relevant than ever because of the increase in remote work due to the COVID-19 pandemic.  Protection and control (by each person) of their biometric data is paramount to assure that privacy, accessibility, inclusion, and diversity are available to all.”
 
-**_[Dr. John Callahan](https://www.linkedin.com/in/john-callahan-430707/)_** _is responsible for the development of VeridiumID’s world class enterprise-ready biometric solutions, leading a global team of software developers, computer vision scientists and sales engineers. He has previously served as the Associate Director for Information Dominance at the U.S. Navy’s Office of Naval Research Global, London UK office, via an Intergovernmental Personnel Act assignment from the Johns Hopkins University Applied Physics Laboratory. John completed his PhD in Computer Science at the University of Maryland, College Park._
+**_Dr. John Callahan_** ([LinkedIn](https://www.linkedin.com/in/john-callahan-430707/), [Twitter](https://twitter.com/johnrcallahan)) _is responsible for the development of VeridiumID’s world class enterprise-ready biometric solutions, leading a global team of software developers, computer vision scientists and sales engineers. He has previously served as the Associate Director for Information Dominance at the U.S. Navy’s Office of Naval Research Global, London UK office, via an Intergovernmental Personnel Act assignment from the Johns Hopkins University Applied Physics Laboratory. John completed his PhD in Computer Science at the University of Maryland, College Park._
 
 ### Privacy commissioner Brian Hofer
 <img src="/assets/bios/brian.jpg" style="border:1px #000; float:left; padding: 1em; border-radius:50%;">
@@ -380,7 +380,8 @@ If you encounter any behavior that causes you any concern, please bring it immed
 # Contact
 Reach out to us.
 
-* [philwolff@planetwork.net](mailto:philwolff@planetwork.net)
-* [1-360-441-2522](tel:13604412522)
-* [@tbworkshop](https://twitter.com/tb_workshop)
+* [Write](mailto:philwolff@planetwork.net)
+* [Text](sms:13604412522)
+* [Call](tel:13604412522)
+* [Tweet](https://twitter.com/tb_workshop)
 * [LinkedIn](https://linkedin.com/company/thoughtfulbiometrics)
