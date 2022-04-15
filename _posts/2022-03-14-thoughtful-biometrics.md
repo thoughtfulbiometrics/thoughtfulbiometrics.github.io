@@ -288,17 +288,19 @@ And…
 
 |  | Event name | Venue | Date | Documentation |
 |:--:|:-------|:-------------|:-----|:-------|
-| 1 | [Thoughtful Biometrics Workshop](#tbw1)  | Virtual | March 2021 | [Proceedings](../assets/TBW01_Book_of_Proceedings.pdf "download pdf")|
-| 2 | Thoughtful Biometrics Workshop | Virtual | July 2022 | Proceedings |
+| 1 | [Thoughtful Biometrics Workshop 1](#tb1)  | Virtual | March 2021 | [Proceedings](../assets/TBW01_Book_of_Proceedings.pdf "download pdf")|
+| 2 | [Thoughtful Biometrics Workshop 2](#tbw2) | Virtual | July 2022 | Proceedings |
+ 3 | [Thoughtful Biometrics Workshop 3](#tbw3) | TBD | September 2022 | Proceedings |
 
 <a name="tbw1"></a>
-### The First Thoughtful Biometrics Workshop - 2021
+
+### **The First Thoughtful Biometrics Workshop - 2021**
 
 The first Thoughtful Biometrics conference was held the week of 8 March 2021.
 
 **TBW1 Book of Proceedings**
 
-[Thoughtful Biometrics Workshop 01 - March 2021 - Book of Proceedings](../assets/TBW01_Book_of_Proceedings.pdf "download pdf of the TBW1 proceedings")
+[Thoughtful Biometrics Workshop 01 - March 2021 - Book of Proceedings](../assets/TBW01_Book_of_Proceedings.pdf "download pdf of the TBW1 proceedings") (pdf)
 
 Contents:
 
@@ -326,7 +328,19 @@ Contents:
 |9A| Optional: DID (what is it) and how did Biometrics come (and go) in w3c/ did-core|
 |9D| COVID-19 Focus: How has the pandemic impacted biometrics? And what are ethical concerns related to health data collection?|
 
-&nbsp;
+<a name="tbw2"></a>
+
+### **The Second Thoughtful Biometrics Workshop - July 2022**
+
+The second Thoughtful Biometrics conference is scheduled, seeding projects to turn concerns into action.
+
+<a name="tbw3"></a>
+
+### **The Third Thoughtful Biometrics Workshop - September 2022**
+
+The third Thoughtful Biometrics conference is planned for late September, where we share progress and move forward.
+
+
 # Conduct
 
 Thoughtful Biometrics Workshop Code of Conduct:
@@ -360,3 +374,13 @@ If you encounter any behavior that causes you any concern, please bring it immed
 | **4. [Sponsorship](#sponsorship)**<br><small>[Thank you!](#thank-you)<br>[Why sponsor this conversation?](#why-sponsor-the-workshop)<br>[How to sponsor](#how-do-i-sponsor)</small> |
 | **5. [Proceedings](#history)** |
 | **6. [Conduct](#conduct)** |
+| **7. [Contact](#contact)** |
+
+
+# Contact
+| Reach out to us | 
+| --- |
+| <img src="/assets/icons/envelope-solid.png" style="width:1em; height:1em; color: #663300; border:0; padding:0; margin:0;" > [philwolff@planetwork.net](mailto:philwolff@planetwork.net) |
+| <img src="/assets/icons/phone-solid.png" style="width:1em; height:1em; color: #663300; border:0; padding:0; margin:0;" > [1-360-441-2522](tel:13604412522) |
+| <img src="/assets/icons/twitter-square-brands.png" style="width:1em; height:1em; color: #663300; border:0; padding:0; margin:0;"> [@tbworkshop](https://twitter.com/tb_workshop) |
+| <img src="/assets/icons/linkedin-brands.png" style="width:1em; height:1em; color: #663300; border:0; padding:0; margin:0;"> [LinkedIn](https://linkedin.com/company/thoughtfulbiometrics) |
