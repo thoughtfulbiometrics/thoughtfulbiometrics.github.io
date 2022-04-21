@@ -4,7 +4,7 @@
  <title>Thoughtful Biometrics</title>
  <link href="/atom.xml" rel="self"/>
  <link href="http://thoughtfulbiometrics.org/"/>
- <updated>2022-04-14T21:59:14-07:00</updated>
+ <updated>2022-04-20T09:24:47-07:00</updated>
  <id>http://thoughtfulbiometrics.org</id>
  <author>
    <name>Phil Wolff</name>
@@ -142,7 +142,7 @@ and &lt;a href=&quot;#conveners&quot;&gt;our conveners’ invitations to you&lt;
   &lt;p&gt;Based on my interaction with both communities, I believe these concerns are merely due to misunderstanding about the basics; from one side, about biometric and the current state of the art research in the biometric space, and on the other side, the recent fast-paced development and improvement that is happening in the different identity ecosystems. Once this misunderstanding is cleared out, and knowledge transfer occurs, this workshop will create neat and doable ideas that will advance the biometric and identity development into a new and remarkable era.”&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Dr. Asem Othman&lt;/em&gt;&lt;/strong&gt; (&lt;a href=&quot;https://www.linkedin.com/in/asemothman/&quot;&gt;LinkedIn&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/asem_othman&quot;&gt;Twitter&lt;/a&gt;) has more than ten years as a researcher, developer and leader in the biometrics space. During his doctoral research at West Virginia University, he developed a system of protecting and storing biometric templates using visual cryptography, which Veridium uses today in its VeridiumID solution. Dr. Othman performed his postdoctoral research at Michigan State University before joining the Computer Vision team at Veridium and leading research and development on their 4 Fingers TouchlessID technology. Dr. Othman holds more than 5 patents/patents pending and has published a variety of journal articles, conference papers, and key research entries. In February 2021, Dr. Othman joined &lt;a href=&quot;https://www.acuant.com/&quot;&gt;Acuant&lt;/a&gt;, a document verification leader, as a Director of Computer Vision and Machine Learning._&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Dr. Asem Othman&lt;/em&gt;&lt;/strong&gt; (&lt;a href=&quot;https://www.linkedin.com/in/asemothman/&quot;&gt;LinkedIn&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/asem_othman&quot;&gt;Twitter&lt;/a&gt;) &lt;em&gt;has more than ten years as a researcher, developer and leader in the biometrics space. During his doctoral research at West Virginia University, he developed a system of protecting and storing biometric templates using visual cryptography, which Veridium uses today in its VeridiumID solution. Dr. Othman performed his postdoctoral research at Michigan State University before joining the Computer Vision team at Veridium and leading research and development on their 4 Fingers TouchlessID technology. Dr. Othman holds more than 5 patents/patents pending and has published a variety of journal articles, conference papers, and key research entries. In February 2021, Dr. Othman joined &lt;a href=&quot;https://www.acuant.com/&quot;&gt;Acuant&lt;/a&gt;, a document verification leader, as a Director of Computer Vision and Machine Learning.&lt;/em&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;software-architect-and-developer-jack-john-callahan&quot;&gt;Software architect and developer Jack “John Callahan”&lt;/h3&gt;
 &lt;p&gt;&lt;img src=&quot;/assets/bios/jack.jpg&quot; style=&quot;border:1px #000; float:left; padding: 1em; border-radius:50%;&quot; /&gt;&lt;/p&gt;
@@ -150,7 +150,7 @@ and &lt;a href=&quot;#conveners&quot;&gt;our conveners’ invitations to you&lt;
   &lt;p&gt;“Biometrics are more relevant than ever because of the increase in remote work due to the COVID-19 pandemic.  Protection and control (by each person) of their biometric data is paramount to assure that privacy, accessibility, inclusion, and diversity are available to all.”&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;&lt;a href=&quot;https://www.linkedin.com/in/john-callahan-430707/&quot;&gt;Dr. John Callahan&lt;/a&gt;&lt;/em&gt;&lt;/strong&gt; &lt;em&gt;is responsible for the development of VeridiumID’s world class enterprise-ready biometric solutions, leading a global team of software developers, computer vision scientists and sales engineers. He has previously served as the Associate Director for Information Dominance at the U.S. Navy’s Office of Naval Research Global, London UK office, via an Intergovernmental Personnel Act assignment from the Johns Hopkins University Applied Physics Laboratory. John completed his PhD in Computer Science at the University of Maryland, College Park.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Dr. John Callahan&lt;/em&gt;&lt;/strong&gt; (&lt;a href=&quot;https://www.linkedin.com/in/john-callahan-430707/&quot;&gt;LinkedIn&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/johnrcallahan&quot;&gt;Twitter&lt;/a&gt;) &lt;em&gt;is responsible for the development of VeridiumID’s world class enterprise-ready biometric solutions, leading a global team of software developers, computer vision scientists and sales engineers. He has previously served as the Associate Director for Information Dominance at the U.S. Navy’s Office of Naval Research Global, London UK office, via an Intergovernmental Personnel Act assignment from the Johns Hopkins University Applied Physics Laboratory. John completed his PhD in Computer Science at the University of Maryland, College Park.&lt;/em&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;privacy-commissioner-brian-hofer&quot;&gt;Privacy commissioner Brian Hofer&lt;/h3&gt;
 &lt;p&gt;&lt;img src=&quot;/assets/bios/brian.jpg&quot; style=&quot;border:1px #000; float:left; padding: 1em; border-radius:50%;&quot; /&gt;&lt;/p&gt;
@@ -187,7 +187,7 @@ and &lt;a href=&quot;#conveners&quot;&gt;our conveners’ invitations to you&lt;
 
 &lt;h2 id=&quot;its-a-proven-format&quot;&gt;It’s a proven format.&lt;/h2&gt;
 
-&lt;p&gt;Ever “sign in with X”? We developed this format over thirty &lt;em&gt;Internet Identity Workshops&lt;/em&gt;, where attendees co-create the agenda live, each day. There are no keynotes or panels; it’s about exploring the topic with professional peers from a range of industries.&lt;/p&gt;
+&lt;p&gt;Ever “sign in with X”? OAuth and other identity technologies came from the &lt;em&gt;Internet Identity Workshop&lt;/em&gt;. We developed this format over thirty &lt;em&gt;IIW&lt;/em&gt;s, where attendees co-create the agenda live, each day. There are no keynotes or panels; it’s about exploring the topic with professional peers from a range of industries.&lt;/p&gt;
 
 &lt;p&gt;The Workshop is discussion driven and about peer learning and co-creating. Great people will be there. Attendees with passion for learning, and for contributing to the event, make it successful.&lt;/p&gt;
 
@@ -290,11 +290,11 @@ and &lt;a href=&quot;#conveners&quot;&gt;our conveners’ invitations to you&lt;
 &lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;/assets/bios/phil.jpg&quot; style=&quot;border:1px #000; padding: 1em; border-radius:25%;&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;/assets/bios/phil.jpg&quot; style=&quot;width: 200px; height: 200px; border:1px #000; padding: 1em; border-radius:25%;&quot; /&gt;&lt;/td&gt;
       &lt;td&gt;&lt;strong&gt;Phil Wolff&lt;/strong&gt;&lt;br /&gt;TBW Producer&lt;br /&gt;&lt;a href=&quot;https://Wider.Team/&quot;&gt;Wider.Team&lt;/a&gt;.&lt;br /&gt; &lt;a href=&quot;mailto:philwolff@planetwork.net&quot;&gt;philwolff@planetwork.net&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;tel:1-360-441-2522&quot;&gt;360-441-2522&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;/assets/bios/kaliya-casual.jpg&quot; style=&quot;border:1px #000;  padding: 1em ; border-radius:25%;&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;/assets/bios/kaliya-casual.jpg&quot; style=&quot;width: 200px; height: 200px; border:1px #000;  padding: 1em ; border-radius:25%;&quot; /&gt;&lt;/td&gt;
       &lt;td&gt;&lt;strong&gt;Kaliya Young&lt;/strong&gt;&lt;br /&gt;IIW Co-founder&lt;br /&gt;&lt;a href=&quot;mailto:kaliya@identitywoman.net&quot;&gt;kaliya@identitywoman.net&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
@@ -355,7 +355,7 @@ and &lt;a href=&quot;#conveners&quot;&gt;our conveners’ invitations to you&lt;
 &lt;h2 id=&quot;how-do-i-sponsor&quot;&gt;How do I sponsor?&lt;/h2&gt;
 
 &lt;ol&gt;
-  &lt;li&gt;Contact: Kaliya Young, kaliya@identitywoman.net&lt;/li&gt;
+  &lt;li&gt;Contact: Kaliya Young, &lt;a href=&quot;kaliya@identitywoman.net&quot;&gt;mailto:kaliya@identitywoman.net&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;We’ll invoice you. You’ll “cut a check” to TBW2 care of Planetwork, our fiscal sponsor.&lt;/li&gt;
   &lt;li&gt;Send your info for acknowledgement, and your logo for the website.&lt;/li&gt;
   &lt;li&gt;Optional: your letter to the community via the Proceedings.&lt;/li&gt;
@@ -530,7 +530,7 @@ and &lt;a href=&quot;#conveners&quot;&gt;our conveners’ invitations to you&lt;
 
 &lt;p&gt;&lt;strong&gt;Engagement Guidelines&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;We create, together as participants, the environment that we all inhabit over the three days of the &lt;em&gt;Thoughtful Biometrics Workshop&lt;/em&gt;. As such we each are responsible for contributing to a safe space for respectful and meaningful conversations and exchange over the course of the event.&lt;/p&gt;
+&lt;p&gt;We create, together as participants, the environment that we all inhabit over the three days of the &lt;em&gt;Thoughtful Biometrics Workshop.&lt;/em&gt; As such we each are responsible for contributing to a safe space for respectful and meaningful conversations and exchange over the course of the event.&lt;/p&gt;
 
 &lt;p&gt;We expect everyone attending to conduct themselves at all times during the workshop in a respectful, professional and decent manner. No space can be completely “safe” and we agree to work together to maintain a productive, enjoyable and open space for everyone.&lt;/p&gt;
 
@@ -580,9 +580,10 @@ and &lt;a href=&quot;#conveners&quot;&gt;our conveners’ invitations to you&lt;
 &lt;p&gt;Reach out to us.&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;mailto:philwolff@planetwork.net&quot;&gt;philwolff@planetwork.net&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;tel:13604412522&quot;&gt;1-360-441-2522&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/tb_workshop&quot;&gt;@tbworkshop&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;mailto:philwolff@planetwork.net&quot;&gt;Write&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;sms:13604412522&quot;&gt;Text&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;tel:13604412522&quot;&gt;Call&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/tb_workshop&quot;&gt;Tweet&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://linkedin.com/company/thoughtfulbiometrics&quot;&gt;LinkedIn&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </content>
