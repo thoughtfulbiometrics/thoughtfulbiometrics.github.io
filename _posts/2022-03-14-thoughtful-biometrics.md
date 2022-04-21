@@ -34,7 +34,7 @@ We welcome the participation of *people who ask serious questions* about these s
 
 We invite those active in the industry who want to *respond in a meaningful way* to thoughtful criticism.
 
-_This workshop is not to “sell” biometrics products like trade shows. We explore this problem space and seek a path forward._
+*This workshop is not to “sell” biometrics products like trade shows. We explore this problem space and seek a path forward.*
 
 ## Your Concerns
 
@@ -119,19 +119,19 @@ We invited experts from diverse fields to tell us why this conversation matters 
 >
 > Based on my interaction with both communities, I believe these concerns are merely due to misunderstanding about the basics; from one side, about biometric and the current state of the art research in the biometric space, and on the other side, the recent fast-paced development and improvement that is happening in the different identity ecosystems. Once this misunderstanding is cleared out, and knowledge transfer occurs, this workshop will create neat and doable ideas that will advance the biometric and identity development into a new and remarkable era.”
 
-**_Dr. Asem Othman_** ([LinkedIn](https://www.linkedin.com/in/asemothman/), [Twitter](https://twitter.com/asem_othman)) _has more than ten years as a researcher, developer and leader in the biometrics space. During his doctoral research at West Virginia University, he developed a system of protecting and storing biometric templates using visual cryptography, which Veridium uses today in its VeridiumID solution. Dr. Othman performed his postdoctoral research at Michigan State University before joining the Computer Vision team at Veridium and leading research and development on their 4 Fingers TouchlessID technology. Dr. Othman holds more than 5 patents/patents pending and has published a variety of journal articles, conference papers, and key research entries. In February 2021, Dr. Othman joined [Acuant](https://www.acuant.com/), a document verification leader, as a Director of Computer Vision and Machine Learning._
+***Dr. Asem Othman*** ([LinkedIn](https://www.linkedin.com/in/asemothman/), [Twitter](https://twitter.com/asem_othman)) *has more than ten years as a researcher, developer and leader in the biometrics space. During his doctoral research at West Virginia University, he developed a system of protecting and storing biometric templates using visual cryptography, which Veridium uses today in its VeridiumID solution. Dr. Othman performed his postdoctoral research at Michigan State University before joining the Computer Vision team at Veridium and leading research and development on their 4 Fingers TouchlessID technology. Dr. Othman holds more than 5 patents/patents pending and has published a variety of journal articles, conference papers, and key research entries. In February 2021, Dr. Othman joined [Acuant](https://www.acuant.com/), a document verification leader, as a Director of Computer Vision and Machine Learning.*
 
 ### Software architect and developer Jack “John Callahan”
 <img src="/assets/bios/jack.jpg" style="border:1px #000; float:left; padding: 1em; border-radius:50%;">
 > “Biometrics are more relevant than ever because of the increase in remote work due to the COVID-19 pandemic.  Protection and control (by each person) of their biometric data is paramount to assure that privacy, accessibility, inclusion, and diversity are available to all.”
 
-**_Dr. John Callahan_** ([LinkedIn](https://www.linkedin.com/in/john-callahan-430707/), [Twitter](https://twitter.com/johnrcallahan)) _is responsible for the development of VeridiumID’s world class enterprise-ready biometric solutions, leading a global team of software developers, computer vision scientists and sales engineers. He has previously served as the Associate Director for Information Dominance at the U.S. Navy’s Office of Naval Research Global, London UK office, via an Intergovernmental Personnel Act assignment from the Johns Hopkins University Applied Physics Laboratory. John completed his PhD in Computer Science at the University of Maryland, College Park._
+***Dr. John Callahan*** ([LinkedIn](https://www.linkedin.com/in/john-callahan-430707/), [Twitter](https://twitter.com/johnrcallahan)) *is responsible for the development of VeridiumID’s world class enterprise-ready biometric solutions, leading a global team of software developers, computer vision scientists and sales engineers. He has previously served as the Associate Director for Information Dominance at the U.S. Navy’s Office of Naval Research Global, London UK office, via an Intergovernmental Personnel Act assignment from the Johns Hopkins University Applied Physics Laboratory. John completed his PhD in Computer Science at the University of Maryland, College Park.*
 
 ### Privacy commissioner Brian Hofer
 <img src="/assets/bios/brian.jpg" style="border:1px #000; float:left; padding: 1em; border-radius:50%;">
 > “The use of biometric technology in our everyday lives is not yet a foregone conclusion. Although biometrics suggests an exciting promise of perfect security and convenience, the potential pitfalls from identity theft, unregulated data brokers, and government overreach are equally significant. Far too often the tech sector rushes to market without first creating sufficient guardrails to mitigate the potential negative impacts from newer and more powerful technology. New and emerging technologies must first be understood before possible implementation and use.”
 
-**_Brian Hofer_** _is Chair of the [Oakland Privacy Advisory Commission](https://www.oaklandca.gov/boards-commissions/privacy-advisory-board) and the Chair and Executive Director of [Secure Justice](https://secure-justice.org/). His advocacy has been instrumental in a number of nation-leading ordinances, including ones that established a vetting framework for the potential acquisition and use of surveillance equipment. Mr. Hofer is presently consulting with the cities of San Diego, San Jose, Los Angeles, Washington, D.C. and Portland on establishing similar frameworks. <br/><br/>Brian has presented on his work at conferences sponsored by the California Department of Justice, National Association of Criminal Defense Lawyers, Berkeley Law School, NYU Law School, Georgetown Law School, Berkeley Goldman School of Public Policy, and he has testified before various California state Senate and Assembly committees in support of privacy enhancing legislation._
+***Brian Hofer*** *is Chair of the [Oakland Privacy Advisory Commission](https://www.oaklandca.gov/boards-commissions/privacy-advisory-board) and the Chair and Executive Director of [Secure Justice](https://secure-justice.org/). His advocacy has been instrumental in a number of nation-leading ordinances, including ones that established a vetting framework for the potential acquisition and use of surveillance equipment. Mr. Hofer is presently consulting with the cities of San Diego, San Jose, Los Angeles, Washington, D.C. and Portland on establishing similar frameworks. <br/><br/>Brian has presented on his work at conferences sponsored by the California Department of Justice, National Association of Criminal Defense Lawyers, Berkeley Law School, NYU Law School, Georgetown Law School, Berkeley Goldman School of Public Policy, and he has testified before various California state Senate and Assembly committees in support of privacy enhancing legislation.*
 
 ### Digital identity expert Kaliya Young “Identity Woman”
 <img src="/assets/bios/kaliya2.jpg" style="border:1px #000; float:left; padding: 1em; border-radius:50%;">
@@ -139,7 +139,7 @@ We invited experts from diverse fields to tell us why this conversation matters 
 
 > Biometrics have a great potential to be quite dangerous if abused. The ethical side of the industry see they have great potential to address some use-cases (such as recovery) that otherwise would be very difficult.”
 
-**_Kaliya Young_** _(formerly Hamlin) is an expert in self-sovereign identity and identity on the blockchain. She is the co-author of [A Comprehensive guide to Self-Sovereign Identity](https://www.amazon.com/Comprehensive-Guide-Self-Sovereign-Identity-ebook/dp/B07Q3TXLDP/) and is widely known as Identity Woman (it’s also the name of [her blog](https://identitywoman.net/blog-2/) and [her twitter handle](https://twitter.com/identitywoman)). She has committed her life to the development of an open-standards based layer of the Internet that empowers people._
+***Kaliya Young*** *(formerly Hamlin) is an expert in self-sovereign identity and identity on the blockchain. She is the co-author of [A Comprehensive guide to Self-Sovereign Identity](https://www.amazon.com/Comprehensive-Guide-Self-Sovereign-Identity-ebook/dp/B07Q3TXLDP/) and is widely known as Identity Woman (it’s also the name of [her blog](https://identitywoman.net/blog-2/) and [her twitter handle](https://twitter.com/identitywoman)). She has committed her life to the development of an open-standards based layer of the Internet that empowers people.*
 
 <a name="format"></a>
 # Format
@@ -154,7 +154,7 @@ This is a four-day virtual workshop.
 
 ## It’s a proven format.
 
-Ever “sign in with X”? We developed this format over thirty _Internet Identity Workshops_, where attendees co-create the agenda live, each day. There are no keynotes or panels; it’s about exploring the topic with professional peers from a range of industries.
+Ever “sign in with X”? OAuth and other identity technologies came from the *Internet Identity Workshop*. We developed this format over thirty *IIW*s, where attendees co-create the agenda live, each day. There are no keynotes or panels; it’s about exploring the topic with professional peers from a range of industries.
 
 The Workshop is discussion driven and about peer learning and co-creating. Great people will be there. Attendees with passion for learning, and for contributing to the event, make it successful.
 
@@ -240,8 +240,8 @@ Your host team is skilled in facilitation and space creation:
 * Skilled facilitation and knowledge of how to facilitate “alive” events  in person and online
 * Bringing together technologists, wonks, capital, and industry
 
-|<img src="/assets/bios/phil.jpg" style="border:1px #000; padding: 1em; border-radius:25%;"> |**Phil Wolff**<br>TBW Producer<br>[Wider.Team](https://Wider.Team/).<br> [philwolff@planetwork.net](mailto:philwolff@planetwork.net)<br>[360-441-2522](tel:1-360-441-2522) |
-|<img src="/assets/bios/kaliya-casual.jpg"  style="border:1px #000;  padding: 1em ; border-radius:25%;"> |**Kaliya Young**<br>IIW Co-founder<br>[kaliya@identitywoman.net](mailto:kaliya@identitywoman.net)|
+|<img src="/assets/bios/phil.jpg" style="width: 200px; height: 200px; border:1px #000; padding: 1em; border-radius:25%;"> |**Phil Wolff**<br>TBW Producer<br>[Wider.Team](https://Wider.Team/).<br> [philwolff@planetwork.net](mailto:philwolff@planetwork.net)<br>[360-441-2522](tel:1-360-441-2522) |
+|<img src="/assets/bios/kaliya-casual.jpg"  style="width: 200px; height: 200px; border:1px #000;  padding: 1em ; border-radius:25%;"> |**Kaliya Young**<br>IIW Co-founder<br>[kaliya@identitywoman.net](mailto:kaliya@identitywoman.net)|
 
 <a name="sponsor"></a>
 
@@ -277,12 +277,11 @@ And…
 
 ## How do I sponsor?
 
-0. Contact: Kaliya Young, kaliya@identitywoman.net
+0. Contact: Kaliya Young, [mailto:kaliya@identitywoman.net](kaliya@identitywoman.net)
 1. We’ll invoice you. You’ll “cut a check” to TBW2 care of Planetwork, our fiscal sponsor.
 2. Send your info for acknowledgement, and your logo for the website.
 3. Optional: your letter to the community via the Proceedings.
 4. Invite colleagues who can contribute to this conversation
-
 
 # History
 
@@ -351,7 +350,7 @@ Thoughtful Biometrics Workshop Code of Conduct:
 
 **Engagement Guidelines**
 
-We create, together as participants, the environment that we all inhabit over the three days of the _Thoughtful Biometrics Workshop_. As such we each are responsible for contributing to a safe space for respectful and meaningful conversations and exchange over the course of the event.
+We create, together as participants, the environment that we all inhabit over the three days of the *Thoughtful Biometrics Workshop.* As such we each are responsible for contributing to a safe space for respectful and meaningful conversations and exchange over the course of the event.
 
 We expect everyone attending to conduct themselves at all times during the workshop in a respectful, professional and decent manner. No space can be completely “safe” and we agree to work together to maintain a productive, enjoyable and open space for everyone.
 
