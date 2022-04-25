@@ -4,7 +4,7 @@
  <title>Thoughtful Biometrics</title>
  <link href="/atom.xml" rel="self"/>
  <link href="http://thoughtfulbiometrics.org/"/>
- <updated>2022-04-25T13:45:14-07:00</updated>
+ <updated>2022-04-25T13:50:20-07:00</updated>
  <id>http://thoughtfulbiometrics.org</id>
  <author>
    <name>Phil Wolff</name>
@@ -106,7 +106,7 @@ and &lt;a href=&quot;#conveners&quot;&gt;our conveners’ invitations to you&lt;
 
 &lt;!-- &lt;img src=&quot;/assets/whoparticipates.jpg&quot; style=&quot;align:center; border-radius:1em;&quot; title=&quot;Biometrics industry, biometrics researchers and scientists, Identity community, Commercial users of systems, Government users of systems, Regulators and policy makers, Infosec and cybersecurity professionals, Privacy professionals and advocates, Humanitarian groups, Police accountability groups, Citizen watchdog groups, students and researchers&quot;&gt;
  --&gt;
-&lt;p&gt;&amp;lt;img src=”/assets/whoparticipatesvertical.png style=”align:center; border-radius:1em; height: 1616px; width: 369;” title=”Biometrics industry, biometrics researchers and scientists, Identity community, Commercial users of systems, Government users of systems, Regulators and policy makers, Infosec and cybersecurity professionals, Privacy professionals and advocates, Humanitarian groups, Police accountability groups, Citizen watchdog groups, students and researchers”&amp;gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/whoparticipatesvertical.png&quot; style=&quot;align:center; border-radius:1em; height: 1616px; width: 369;&quot; title=&quot;Biometrics industry, biometrics researchers and scientists, Identity community, Commercial users of systems, Government users of systems, Regulators and policy makers, Infosec and cybersecurity professionals, Privacy professionals and advocates, Humanitarian groups, Police accountability groups, Citizen watchdog groups, students and researchers&quot; /&gt;&lt;/p&gt;
 
 &lt;!---
 * Biometrics Community
