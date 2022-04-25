@@ -83,7 +83,9 @@ These isolated conversations have never been open or transparent. Until this Wor
 
 Come if you want Workshop conversations to start ongoing work on biometrics issues.
 
-<img src="/assets/whoparticipates.jpg" style="align:center; border-radius:1em;" title="Biometrics industry, biometrics researchers and scientists, Identity community, Commercial users of systems, Government users of systems, Regulators and policy makers, Infosec and cybersecurity professionals, Privacy professionals and advocates, Humanitarian groups, Police accountability groups, Citizen watchdog groups, students and researchers">
+<!-- <img src="/assets/whoparticipates.jpg" style="align:center; border-radius:1em;" title="Biometrics industry, biometrics researchers and scientists, Identity community, Commercial users of systems, Government users of systems, Regulators and policy makers, Infosec and cybersecurity professionals, Privacy professionals and advocates, Humanitarian groups, Police accountability groups, Citizen watchdog groups, students and researchers">
+ -->
+<img src="/assets/whoparticipatesvertical.png style="align:center; border-radius:1em; height: 1616px; width: 369;" title="Biometrics industry, biometrics researchers and scientists, Identity community, Commercial users of systems, Government users of systems, Regulators and policy makers, Infosec and cybersecurity professionals, Privacy professionals and advocates, Humanitarian groups, Police accountability groups, Citizen watchdog groups, students and researchers">
 
 <!---
 * Biometrics Community
@@ -379,7 +381,7 @@ If you encounter any behavior that causes you any concern, please bring it immed
 # Contact
 Reach out to us.
 
-* [Write](mailto:philwolff@planetwork.net)
+* [Email:](mailto:philwolff@planetwork.net). 
 * [Text](sms:13604412522)
 * [Call](tel:13604412522)
 * [Tweet](https://twitter.com/tb_workshop)
