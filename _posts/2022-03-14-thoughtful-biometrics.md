@@ -85,20 +85,8 @@ Come if you want Workshop conversations to start ongoing work on biometrics issu
 
 <!-- <img src="/assets/whoparticipates.jpg" style="align:center; border-radius:1em;" title="Biometrics industry, biometrics researchers and scientists, Identity community, Commercial users of systems, Government users of systems, Regulators and policy makers, Infosec and cybersecurity professionals, Privacy professionals and advocates, Humanitarian groups, Police accountability groups, Citizen watchdog groups, students and researchers">
  -->
-<img src="/assets/whoparticipatesvertical.png" style="align:center; border-radius:1em; height: 1616px; width: 369;" title="Biometrics industry, biometrics researchers and scientists, Identity community, Commercial users of systems, Government users of systems, Regulators and policy makers, Infosec and cybersecurity professionals, Privacy professionals and advocates, Humanitarian groups, Police accountability groups, Citizen watchdog groups, students and researchers">
-<!---
-* Biometrics Community
-* Researchers and scientist who is looking for new ideas to work on
-* Identity Community
-* Commercial Users of systems
-* Regulators and policy makers
-* Cybersecurity Professionals
-* Privacy Professionals
-* Humanitarian Groups
-* Police Accountability Groups
-* Citizen Watchdog Groups
-* Students and Researchers
---->
+
+<img src="/assets/whoparticipatesvertical.png" style="display: block; margin-left: auto; margin-right: auto; text-align:center; align:center; border-radius:1em; border-width:0; height: 1616px; width: 369px;" title="Biometrics industry, biometrics researchers and scientists, Identity community, Commercial users of systems, Government users of systems, Regulators and policy makers, Infosec and cybersecurity professionals, Privacy professionals and advocates, Humanitarian groups, Police accountability groups, Citizen watchdog groups, students and researchers">
 
 ## Conveners
 

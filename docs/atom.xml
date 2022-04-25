@@ -4,7 +4,7 @@
  <title>Thoughtful Biometrics</title>
  <link href="/atom.xml" rel="self"/>
  <link href="http://thoughtfulbiometrics.org/"/>
- <updated>2022-04-25T13:53:01-07:00</updated>
+ <updated>2022-04-25T14:05:38-07:00</updated>
  <id>http://thoughtfulbiometrics.org</id>
  <author>
    <name>Phil Wolff</name>
@@ -106,22 +106,8 @@ and &lt;a href=&quot;#conveners&quot;&gt;our conveners’ invitations to you&lt;
 
 &lt;!-- &lt;img src=&quot;/assets/whoparticipates.jpg&quot; style=&quot;align:center; border-radius:1em;&quot; title=&quot;Biometrics industry, biometrics researchers and scientists, Identity community, Commercial users of systems, Government users of systems, Regulators and policy makers, Infosec and cybersecurity professionals, Privacy professionals and advocates, Humanitarian groups, Police accountability groups, Citizen watchdog groups, students and researchers&quot;&gt;
  --&gt;
-&lt;p&gt;&lt;img src=&quot;/assets/whoparticipatesvertical.png&quot; style=&quot;align:center; border-radius:1em; height: 1616px; width: 369;&quot; title=&quot;Biometrics industry, biometrics researchers and scientists, Identity community, Commercial users of systems, Government users of systems, Regulators and policy makers, Infosec and cybersecurity professionals, Privacy professionals and advocates, Humanitarian groups, Police accountability groups, Citizen watchdog groups, students and researchers&quot; /&gt;
-&amp;lt;!—&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Biometrics Community&lt;/li&gt;
-  &lt;li&gt;Researchers and scientist who is looking for new ideas to work on&lt;/li&gt;
-  &lt;li&gt;Identity Community&lt;/li&gt;
-  &lt;li&gt;Commercial Users of systems&lt;/li&gt;
-  &lt;li&gt;Regulators and policy makers&lt;/li&gt;
-  &lt;li&gt;Cybersecurity Professionals&lt;/li&gt;
-  &lt;li&gt;Privacy Professionals&lt;/li&gt;
-  &lt;li&gt;Humanitarian Groups&lt;/li&gt;
-  &lt;li&gt;Police Accountability Groups&lt;/li&gt;
-  &lt;li&gt;Citizen Watchdog Groups&lt;/li&gt;
-  &lt;li&gt;Students and Researchers
-—&amp;gt;&lt;/li&gt;
-&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/whoparticipatesvertical.png&quot; style=&quot;display: block; margin-left: auto; margin-right: auto; text-align:center; align:center; border-radius:1em; border-width:0; height: 1616px; width: 369px;&quot; title=&quot;Biometrics industry, biometrics researchers and scientists, Identity community, Commercial users of systems, Government users of systems, Regulators and policy makers, Infosec and cybersecurity professionals, Privacy professionals and advocates, Humanitarian groups, Police accountability groups, Citizen watchdog groups, students and researchers&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;conveners&quot;&gt;Conveners&lt;/h2&gt;
 
