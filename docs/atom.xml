@@ -4,7 +4,7 @@
  <title>Thoughtful Biometrics</title>
  <link href="/atom.xml" rel="self"/>
  <link href="http://thoughtfulbiometrics.org/"/>
- <updated>2022-04-20T09:24:47-07:00</updated>
+ <updated>2022-04-25T10:13:06-07:00</updated>
  <id>http://thoughtfulbiometrics.org</id>
  <author>
    <name>Phil Wolff</name>
@@ -104,7 +104,9 @@ and &lt;a href=&quot;#conveners&quot;&gt;our conveners’ invitations to you&lt;
 
 &lt;p&gt;Come if you want Workshop conversations to start ongoing work on biometrics issues.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/whoparticipates.jpg&quot; style=&quot;align:center; border-radius:1em;&quot; title=&quot;Biometrics industry, biometrics researchers and scientists, Identity community, Commercial users of systems, Government users of systems, Regulators and policy makers, Infosec and cybersecurity professionals, Privacy professionals and advocates, Humanitarian groups, Police accountability groups, Citizen watchdog groups, students and researchers&quot; /&gt;&lt;/p&gt;
+&lt;!-- &lt;img src=&quot;/assets/whoparticipates.jpg&quot; style=&quot;align:center; border-radius:1em;&quot; title=&quot;Biometrics industry, biometrics researchers and scientists, Identity community, Commercial users of systems, Government users of systems, Regulators and policy makers, Infosec and cybersecurity professionals, Privacy professionals and advocates, Humanitarian groups, Police accountability groups, Citizen watchdog groups, students and researchers&quot;&gt;
+ --&gt;
+&lt;p&gt;&amp;lt;img src=”/assets/whoparticipatesvertical.png style=”align:center; border-radius:1em;” title=”Biometrics industry, biometrics researchers and scientists, Identity community, Commercial users of systems, Government users of systems, Regulators and policy makers, Infosec and cybersecurity professionals, Privacy professionals and advocates, Humanitarian groups, Police accountability groups, Citizen watchdog groups, students and researchers”&amp;gt;&lt;/p&gt;
 
 &lt;!---
 * Biometrics Community
@@ -580,7 +582,7 @@ and &lt;a href=&quot;#conveners&quot;&gt;our conveners’ invitations to you&lt;
 &lt;p&gt;Reach out to us.&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;mailto:philwolff@planetwork.net&quot;&gt;Write&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;mailto:philwolff@planetwork.net&quot;&gt;Email:&lt;/a&gt;.&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;sms:13604412522&quot;&gt;Text&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;tel:13604412522&quot;&gt;Call&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://twitter.com/tb_workshop&quot;&gt;Tweet&lt;/a&gt;&lt;/li&gt;
