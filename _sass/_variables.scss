@@ -9,10 +9,14 @@
   --gray-700: #495057;
   --gray-800: #343a40;
   --gray-900: #212529;
-  --dark-poole-001: hsl(200, 3%, 12%);
+  --dark-poole-001: hsl(30, 3%, 12%);
   --dark-poole-002: hsl(0, 0%, 85%);
   --dark-poole-link-color: rgba(255, 255, 255, 0.75);
   --dark-poole-link-hover: #fff;
+  --phil-poole-002: hsl(30, 3%, 12%);
+  --phil-poole-001: hsl(0, 0%, 85%);
+  --phil-poole-link-color: rgba(221, 71, 0, 0.75);
+  --phil-poole-link-hover: rgb(221, 81, 0);
 
   --red: #fa5252;
   --pink: #e64980;
@@ -25,17 +29,19 @@
   --green: #40c057;
   --yellow: #fab005;
   --orange: #fd7e14;
+  --darkorange: #ff8c00;
+  --darkerorange: #cc7000;
 
   --blue-300: #74c0fc;
   --blue-400: #4dabf7;
   --yellow-100: #fff3bf;
 
-  --body-font: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+  --body-font: -apple-system, BlinkMacSystemFont, Roboto, "Segoe UI", 
     "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji",
     "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   --body-font-size: 20px;
-  --body-line-height: 1.5;
-  --body-color: var(--gray-700);
+  --body-line-height: 1.4;
+  --body-color: var(--gray-900);
   --body-bg: #fff;
 
   --link-color: var(--blue);
@@ -81,4 +87,16 @@
   --link-hover-color: var(--dark-poole-link-hover);
   --border-color: rgba(255, 255, 255, 0.15);
   --code-bg: var(--gray-900);
+}
+
+// Phil Poole theme
+[data-theme="phil-poole"] {
+  --body-color: var(--phil-poole-002);
+  --body-bg: var(--phil-poole-001);
+  --heading-color: var(--phil-poole-002);
+  --link-color: var(--phil-poole-link-color);
+  --link-hover-color: var(--phil-poole-link-hover);
+  --border-color: rgba(255, 255, 255, 0.15);
+  --code-bg: var(--gray-200);
+  --border-color: var(--phil-poole-link-color);
 }

@@ -31,8 +31,8 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: John Callahan
-  url: https://github.com/johncallahan
+  name: Phil Wolff
+  url: https://github.com/evanwolf
   email: youremailhere@gmail.com
 
 # Custom vars
@@ -40,14 +40,21 @@ version: 3.0.0
 
 # Navbar page list
 nav:
+  - title: Register
+    url: https://www.eventbrite.com/e/thoughtful-biometrics-workshop-tickets-297266601407
+
+  - title: Outline
+    url: /#outline
+
   - title: Home
     url: /
 
-  - title: OpenSpace
-    url: /open-spaces/
 
-  - title: 2021Event
-    url: /2021-event/
+#  - title: OpenSpace
+#    url: /open-spaces/
+
+#  - title: 2021Event
+#    url: /2021-event/
 
 #  - title: Attendees
 #    url: /whos-coming
