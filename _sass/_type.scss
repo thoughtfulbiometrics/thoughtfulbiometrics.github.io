@@ -10,12 +10,18 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
+  font-family: 'Playfair Display', Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   font-size: 2rem;
+  margin-top: 2rem;
+  margin-left: 0rem;
+  color: var(--orange);
+  border-top: 1px dotted var(--orange);
 }
 
 h2 {
   margin-top: 1rem;
   font-size: 1.5rem;
+  color: var(--darkerorange)
 }
 
 h3 {
@@ -68,8 +74,9 @@ abbr {
 blockquote {
   padding: .5rem 1rem;
   margin: .8rem 0;
-  color: var(--gray-500);
-  border-left: .25rem solid var(--border-color);
+  color: var(--gray-900);
+  border-left: .2rem solid var(--border-color);
+  border-left-color: rgba(221, 71, 0, 0.5);
 
   p:last-child {
     margin-bottom: 0;
