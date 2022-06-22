@@ -4,7 +4,8 @@ title: The Thoughtful Biometrics Workshop 2022
 permalink: /
 published: true
 ---
-**TBW2**, the second **Thoughtful Biometrics Workshop**, starts 11 July 2022.<br>**[Register on Eventbrite](https://www.eventbrite.com/e/thoughtful-biometrics-workshop-tickets-297266601407)**. <br>TBW3 is in September 2022. [Subscribe to TBW announcements](https://docs.google.com/forms/d/e/1FAIpQLSe6lrXPP7f1tMvFVSo3dyFp7wLt18QEvkeTopNVGvbuk3eApw/viewform?usp=sf_link "a Google form until we get mailchimp set up").
+
+**TBW2**, the second **Thoughtful Biometrics Workshop**, coming Fall 2022.<br>**[Register on Eventbrite](https://www.eventbrite.com/e/thoughtful-biometrics-workshop-tickets-297266601407)**. <br>[Subscribe to TBW announcements](https://docs.google.com/forms/d/e/1FAIpQLSe6lrXPP7f1tMvFVSo3dyFp7wLt18QEvkeTopNVGvbuk3eApw/viewform?usp=sf_link "a Google form until we get mailchimp set up").
 
 # Intro
 
@@ -12,13 +13,10 @@ published: true
 
 <dl>
     <dt>When</dt>
-        <dd>11, 13, 15, and 20 July 2022 </dd>
-        <dd>Monday, Wednesday, Friday, and Wednesday </dd>
-        <dd>9:00 AM to 2:00 PM Pacific Time. (noon to 5:00 PM Eastern) </dd>
-    <dt>Where</dt>
+        <dd>Fall 2022</dd>
         <dd><a href="#format">Virtual Unconference Format</a> </dd>
     <dt>What</dt>
-        <dd>20 hours of live workshop in July 2022</dd>
+        <dd>20 hours of live workshop!</dd>
         <dd>Brings divergent biometrics policy stakeholders together to ideate a middle way</dd>
         <dd>You build common ground and shared understanding</dd>
         <dd><a href="#history">Second in a series</a> with more to come</dd>
@@ -134,10 +132,6 @@ We invited experts from diverse fields to tell us why this conversation matters 
 # Format
 
 This is a four-day virtual workshop.
-
-* Monday, Wednesday and Friday - 11, 13, 15, 20 July 2022
-* Wednesday, 20 July 2022: A *Day Of Action.*
-* 9am to 2pm Pacific / Noon to 5pm Eastern / 5pm to 10pm London
 
 <img src="/assets/TBW2_4_days_flow_compressed.jpg" style="border:1px #300; align:center; padding: 1em; border-radius:5%;">
 
@@ -277,8 +271,7 @@ And…
 |  | Event name | Venue | Date | Documentation |
 |:--:|:-------|:-------------|:-----|:-------|
 | 1 | [Thoughtful Biometrics Workshop 1](#tb1)  | Virtual | March 2021 | [Proceedings](../assets/TBW01_Book_of_Proceedings.pdf "download pdf")|
-| 2 | [Thoughtful Biometrics Workshop 2](#tbw2) | Virtual | July 2022 | Proceedings |
- 3 | [Thoughtful Biometrics Workshop 3](#tbw3) | TBD | September 2022 | Proceedings |
+| 2 | [Thoughtful Biometrics Workshop 2](#tbw2) | Virtual | Fall 2022 | Proceedings |
 
 <a name="tbw1"></a>
 
@@ -318,16 +311,9 @@ Contents:
 
 <a name="tbw2"></a>
 
-### **The Second Thoughtful Biometrics Workshop - July 2022**
+### **The Second Thoughtful Biometrics Workshop - Fall 2022**
 
 The second Thoughtful Biometrics conference is scheduled, seeding projects to turn concerns into action.
-
-<a name="tbw3"></a>
-
-### **The Third Thoughtful Biometrics Workshop - September 2022**
-
-The third Thoughtful Biometrics conference is planned for late September, where we share progress and move forward.
-
 
 # Conduct
 
